@@ -9,7 +9,7 @@ Thumbs.db
 # Node
 node_modules/
 
-# Credenciais locais (se voce criar algum arquivo assim no futuro)
+# Credenciais locais
 .env
 .env.*
-*.local.json
+secrets*.json

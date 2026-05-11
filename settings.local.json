@@ -1,0 +1,20 @@
+{
+    "permissions": {
+     "allow": [
+      "mcp__powerbi-modeling-mcp__database_operations",
+      "mcp__powerbi-modeling-mcp__table_operations",
+      "mcp__powerbi-modeling-mcp__measure_operations",
+      "mcp__powerbi-modeling-mcp__relationship_operations",
+      "mcp__powerbi-modeling-mcp__conections_operations",
+      "mcp__powerbi-modeling-mcp__transactions_operations",
+      "mcp__powerbi-modeling-mcp__calculation_group_operations",
+      "mcp__powerbi-modeling-mcp__calculation_item_operations",      
+      "mcp__powerbi-modeling-mcp__roles_operations",
+      "mcp__powerbi-modeling-mcp__security_operations",
+      "mcp__powerbi_modeling-mcp__all_operations",
+      "Bash(python *)"
+    
+
+     ]
+    }
+}
