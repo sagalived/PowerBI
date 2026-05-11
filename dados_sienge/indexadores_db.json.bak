@@ -1,0 +1,48 @@
+{
+    "data":  [
+                 {
+                     "id":  0,
+                     "name":  "REAL",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  {
+                                       "date":  "2026-05-01",
+                                       "value":  1.0,
+                                       "percentage":  0.0
+                                   }
+                 },
+                 {
+                     "id":  1,
+                     "name":  "IGPM",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  {
+                                       "date":  null,
+                                       "value":  null,
+                                       "percentage":  null
+                                   }
+                 },
+                 {
+                     "id":  2,
+                     "name":  "DINAMICA",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  {
+                                       "date":  "2020-02-01",
+                                       "value":  1.0,
+                                       "percentage":  -65.0
+                                   }
+                 },
+                 {
+                     "id":  3,
+                     "name":  "INCC-M",
+                     "revenueRetroactivity":  -1,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  {
+                                       "date":  "2026-04-01",
+                                       "value":  1.61422414,
+                                       "percentage":  1.04
+                                   }
+                 }
+             ]
+}

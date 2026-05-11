@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contas - Financeiro</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="topbar">
+      <div>
+        <div class="kicker">Financeiro</div>
+        <div class="title">Contas (Receber / Pagar)</div>
+        <div class="sub">Período: <b>01/01/2026 — 31/12/2026</b> • Atualizado: <b>11/05/2026</b></div>
+      </div>
+      <nav class="nav">
+        <a href="./executivo.html">Executivo</a>
+        <a href="./fluxo.html">Fluxo</a>
+        <a class="active" href="./contas.html">Contas</a>
+      </nav>
+    </header>
+
+    <main class="grid">
+      <section class="card kpi">
+        <div class="label">Total a receber (aberto)</div>
+        <div class="value">R$ 560.000,00</div>
+        <div class="meta">Total a receber: <b>R$ 1.020.000,00</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Total recebido</div>
+        <div class="value good">R$ 460.000,00</div>
+        <div class="meta">Títulos a receber: <b>184</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Total a pagar</div>
+        <div class="value">R$ 410.000,00</div>
+        <div class="meta">Títulos a pagar: <b>97</b></div>
+      </section>
+
+      <section class="card section">
+        <div class="label">Resumo (executivo)</div>
+        <table class="table" aria-label="Resumo de Contas">
+          <thead>
+            <tr><th>Métrica</th><th>Valor</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Total a receber (aberto)</td><td>R$ 560.000,00</td></tr>
+            <tr><td>Total a receber (geral)</td><td>R$ 1.020.000,00</td></tr>
+            <tr><td>Total recebido</td><td class="good">R$ 460.000,00</td></tr>
+            <tr><td>Total a pagar</td><td>R$ 410.000,00</td></tr>
+            <tr><td>Quantidade de títulos a receber</td><td>184</td></tr>
+            <tr><td>Quantidade de títulos a pagar</td><td>97</td></tr>
+          </tbody>
+        </table>
+
+        <div class="footer">
+          <div>Dica: se precisar separar por Empresa/Obra, use filtros do relatório.</div>
+          <div>Layout HTML responsivo (sem JS).</div>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+    "data":  [
+                 {
+                     "id":  0,
+                     "name":  "REAL",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  1
+                 },
+                 {
+                     "id":  1,
+                     "name":  "IGPM",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  null
+                 },
+                 {
+                     "id":  2,
+                     "name":  "DINAMICA",
+                     "revenueRetroactivity":  0,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  1
+                 },
+                 {
+                     "id":  3,
+                     "name":  "INCC-M",
+                     "revenueRetroactivity":  -1,
+                     "revenueRetroactivityExpenses":  0,
+                     "lastValue":  1.61422414
+                 }
+             ]
+}

@@ -1,0 +1,2490 @@
+{
+    "data":  [
+                 {
+                     "amount":  177.32,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "0000000007",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/0000000007"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "AGORA",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/AGORA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  440.73,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "ATILA",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/ATILA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1175.83,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "BCO-ITAU",
+                     "companyId":  3,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3/bank-account/BCO-ITAU"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  35152.47,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "BCONORDEST",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/BCONORDEST"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  76.13,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "BRADESCO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/BRADESCO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "BRADESCOJF",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BRADESCOJF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -58042.13,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "BSANTANDER",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BSANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -371147.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "C6BANKSMN",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/C6BANKSMN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -5719.13,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  3,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  4,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  5,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/5"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -361.19,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  9,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/9"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXA",
+                     "companyId":  10,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10/bank-account/CAIXA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAADM",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAADM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAGALPA",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAIXAGALPA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAINTE",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CAIXAINTE"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -212502.85,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAINTER",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAIXAINTER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -338797.71,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAJFK",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -4603496.86,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAMUSY",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CAIXAMUSY"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAIXAVANIE",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAIXAVANIE"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  288.08,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CAJU",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAJU"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CARROPAULO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CARROPAULO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CASA55",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CASA55"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -9788.84,
+                     "reconciledAmount":  -568150.81,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CEF",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  926.84,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CEFA",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/CEFA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  204.15,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CEFP",
+                     "companyId":  5,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5/bank-account/CEFP"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/5"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1619.09,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CORINGA05",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA05"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1440.22,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CORINGA06",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA06"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1661.76,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CORINGA07",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA07"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  4326.3,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CORINGA08",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA08"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  348.42,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXCICERO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXCICERO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -10.28,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXDIOGENES",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXDIOGENES"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXDODO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXDODO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXEDUARDO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXEDUARDO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXEIGO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXEIGO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -634.93,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXFERNANDO",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXFERNANDO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  367.04,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXFIN",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  84.54,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXGEAN",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXGEAN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  40.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXGENESIS",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CXGENESIS"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXGUSTAVO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXGUSTAVO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  365.36,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXHENRIQUE",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXHENRIQUE"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  10.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXHERBETT",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXHERBETT"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  600.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXJOAO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXJOAO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -1659.12,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXJUNIOR",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXJUNIOR"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXLIDIANE",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXLIDIANE"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  249.57,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXMARCELA",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXMARCELA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXMAURICIO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXMAURICIO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -371.18,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXMEDINA",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXMEDINA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXMONICA",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXMONICA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  29.64,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXMOTORIST",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXMOTORIST"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  462.45,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXPAULO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXPAULO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  420.12,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXPRF",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXPRF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  500.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXRH",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXRH"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  561.07,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXROGEISON",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXROGEISON"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -9174.7,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXRUDIERI",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXRUDIERI"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXVALERIA",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXVALERIA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  247.66,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXVITOR",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/CXVITOR"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  600.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXWALISSON",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXWALISSON"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "CXYURI",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXYURI"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -165269.69,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "DREQ",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/DREQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  3,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  4,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  5,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/5"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  9,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/9"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "EMISSAOCHQ",
+                     "companyId":  10,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10/bank-account/EMISSAOCHQ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  680.67,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "ESCRITORIO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ESCRITORIO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  419.05,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "FINANCEIRO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/FINANCEIRO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1709.74,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "FWX-1895",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/FWX-1895"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  419.31,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "GGA-4519",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/GGA-4519"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "ITAU",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAU"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  201810.59,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "ITAUPJ",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "LICITACAO",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/LICITACAO"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "LIDIANE",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/LIDIANE"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MARKETING",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MARKETING"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -294863.79,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "METALURGIC",
+                     "companyId":  3,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3/bank-account/METALURGIC"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MOTDENIS",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MOTDENIS"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  287.51,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MOTORISTAJ",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MOTORISTAJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -285145.32,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTOBRASIL",
+                     "companyId":  9,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9/bank-account/MUTOBRASIL"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/9"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  2580240.95,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOARAUJ",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -868966.85,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOARCRU",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/MUTUOARCRU"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -1111450.68,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUODINAM",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  163539.31,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOJFK",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -21357.2,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOPOTEN",
+                     "companyId":  5,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5/bank-account/MUTUOPOTEN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/5"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -144822.96,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOSMN",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/MUTUOSMN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -12035.36,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOTHEOR",
+                     "companyId":  4,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4/bank-account/MUTUOTHEOR"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -60178.66,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "MUTUOVSANT",
+                     "companyId":  10,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10/bank-account/MUTUOVSANT"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1215162.94,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -21630.07,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  2,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  72309.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  3,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/3"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  4,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/4"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  5,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/5"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/5"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -186.07,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  6,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -1230329.81,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -9739.17,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  9,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/9"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  0.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "REAPROPFIN",
+                     "companyId":  10,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10/bank-account/REAPROPFIN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/10"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -152181.67,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "SANTANDER",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  2.0,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "SANTANDERB",
+                     "companyId":  9,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9/bank-account/SANTANDERB"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/9"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/9"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -2035789.43,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "SANTANDERM",
+                     "companyId":  7,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -544505.91,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "SANTANDERS",
+                     "companyId":  8,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8/bank-account/SANTANDERS"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/8"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/8"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  1099.99,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "TICKET",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/TICKET"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
+                     "amount":  -40874.37,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-11",
+                     "accountNumber":  "TXADM",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/TXADM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 }
+             ]
+}

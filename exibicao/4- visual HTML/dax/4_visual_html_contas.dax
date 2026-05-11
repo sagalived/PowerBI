@@ -1,0 +1,78 @@
+-- Medida DAX (string HTML) para visual HTML Content
+-- Nome sugerido: HTML Executivo (Contas)
+
+HTML Executivo (Contas) =
+VAR __bg = "#0b1220"
+VAR __card = "#101a2f"
+VAR __text = "#e5e7eb"
+VAR __muted = "#9ca3af"
+VAR __border = "rgba(255,255,255,.08)"
+VAR __good = "#22c55e"
+VAR __bad = "#ef4444"
+VAR __info = "#38bdf8"
+
+VAR __dtIni = MIN ( calendario_db[Data] )
+VAR __dtFim = MAX ( calendario_db[Data] )
+VAR __periodo =
+    IF (
+        NOT ISBLANK ( __dtIni ) && NOT ISBLANK ( __dtFim ),
+        FORMAT ( __dtIni, "dd/MM/yyyy" ) & " — " & FORMAT ( __dtFim, "dd/MM/yyyy" ),
+        ""
+    )
+
+VAR __aReceberTotal = [Total a Receber]
+VAR __aReceberAberto = [Total a Receber Aberto]
+VAR __recebido = [Total Recebido]
+VAR __aPagar = [Total a Pagar]
+VAR __qTitRec = [Quantidade de Títulos a Receber]
+VAR __qTitPag = [Quantidade de Títulos a Pagar]
+
+VAR __aReceberTotalFmt = IF ( ISBLANK ( __aReceberTotal ), "—", FORMAT ( __aReceberTotal, "R$ #,0.00" ) )
+VAR __aReceberAbertoFmt = IF ( ISBLANK ( __aReceberAberto ), "—", FORMAT ( __aReceberAberto, "R$ #,0.00" ) )
+VAR __recebidoFmt = IF ( ISBLANK ( __recebido ), "—", FORMAT ( __recebido, "R$ #,0.00" ) )
+VAR __aPagarFmt = IF ( ISBLANK ( __aPagar ), "—", FORMAT ( __aPagar, "R$ #,0.00" ) )
+VAR __qTitRecFmt = IF ( ISBLANK ( __qTitRec ), "—", FORMAT ( __qTitRec, "#,0" ) )
+VAR __qTitPagFmt = IF ( ISBLANK ( __qTitPag ), "—", FORMAT ( __qTitPag, "#,0" ) )
+
+VAR __recebidoColor = IF ( __recebido >= 0, __good, __bad )
+
+RETURN
+    "<div style='font-family:Segoe UI,Arial,sans-serif;background:" & __bg & ";color:" & __text & ";padding:14px;border-radius:12px;border:1px solid " & __border & ";'>" &
+        "<div style='display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:flex-start;'>" &
+            "<div>" &
+                "<div style='font-size:12px;color:" & __muted & ";letter-spacing:.08em;text-transform:uppercase;'>Financeiro</div>" &
+                "<div style='font-size:20px;font-weight:800;margin-top:4px;'>Contas (Receber / Pagar)</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Período: <b style='color:" & __text & ";'>" & __periodo & "</b></div>" &
+            "</div>" &
+            "<div style='text-align:right;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Títulos</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:4px;'>Receber: <b style='color:" & __info & ";'>" & __qTitRecFmt & "</b></div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:4px;'>Pagar: <b style='color:" & __info & ";'>" & __qTitPagFmt & "</b></div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='display:flex;flex-wrap:wrap;gap:10px;margin-top:12px;'>" &
+            "<div style='flex:1 1 260px;min-width:260px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Total a receber (aberto)</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __aReceberAbertoFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Total a receber: <b style='color:" & __text & ";'>" & __aReceberTotalFmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 260px;min-width:260px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Total recebido</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;color:" & __recebidoColor & ";'>" & __recebidoFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Leitura executiva do período filtrado</div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 260px;min-width:260px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Total a pagar</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __aPagarFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Quantidade de títulos: <b style='color:" & __text & ";'>" & __qTitPagFmt & "</b></div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='margin-top:12px;padding-top:10px;border-top:1px solid " & __border & ";display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:" & __muted & ";font-size:12px;'>" &
+            "<div>Dica: use o mesmo filtro de data do painel.</div>" &
+            "<div>Página: Contas</div>" &
+        "</div>" &
+    "</div>"

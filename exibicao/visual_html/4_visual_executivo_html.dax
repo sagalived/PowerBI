@@ -1,0 +1,348 @@
+-- Cole esta medida na tabela `medidas_db`
+-- Tipo de retorno: string HTML para uso no visual HTML Content do Power BI
+-- Observacao: os filtros sao funcionais via contexto do Power BI (slicers/filtros da pagina).
+
+HTML Executivo (dashboard) =
+VAR __bg = "#07101f"
+VAR __panel = "#0d1729"
+VAR __panel2 = "#101b31"
+VAR __line = "rgba(148,163,184,.28)"
+VAR __lineSoft = "rgba(148,163,184,.16)"
+VAR __text = "#e5edf8"
+VAR __muted = "#9fb0c7"
+VAR __muted2 = "#708199"
+VAR __blue = "#7aa2ff"
+VAR __cyan = "#2dd4bf"
+VAR __good = "#5fc178"
+VAR __bad = "#ff6758"
+VAR __warn = "#f7b955"
+VAR __chip = "#3b4057"
+VAR __chipActive = "#566080"
+
+VAR __dtIni = MIN ( calendario_db[Data] )
+VAR __dtFim = MAX ( calendario_db[Data] )
+VAR __periodo =
+    IF (
+        NOT ISBLANK ( __dtIni ) && NOT ISBLANK ( __dtFim ),
+        FORMAT ( __dtIni, "dd/MM/yyyy" ) & " ate " & FORMAT ( __dtFim, "dd/MM/yyyy" ),
+        "Periodo nao filtrado"
+    )
+
+VAR __empVals = VALUES ( empresas_db[name] )
+VAR __empCount = COUNTROWS ( __empVals )
+VAR __empIsFiltered =
+    ISFILTERED ( empresas_db[id] )
+        || ISFILTERED ( empresas_db[name] )
+        || ISFILTERED ( empresas_db[tradeName] )
+VAR __empList =
+    CONCATENATEX (
+        TOPN ( 2, __empVals, empresas_db[name], ASC ),
+        empresas_db[name],
+        ", "
+    )
+VAR __empresa =
+    IF (
+        __empCount = 0,
+        "-",
+        IF (
+            NOT __empIsFiltered,
+            "Todas",
+            IF ( __empCount <= 2, __empList, __empList & " +" & FORMAT ( __empCount - 2, "0" ) )
+        )
+    )
+
+VAR __obraVals = VALUES ( obras_db[name] )
+VAR __obraCount = COUNTROWS ( __obraVals )
+VAR __obraIsFiltered =
+    ISFILTERED ( obras_db[id] )
+        || ISFILTERED ( obras_db[name] )
+        || ISFILTERED ( obras_db[commercialName] )
+VAR __obraList =
+    CONCATENATEX (
+        TOPN ( 2, __obraVals, obras_db[name], ASC ),
+        obras_db[name],
+        ", "
+    )
+VAR __obra =
+    IF (
+        __obraCount = 0,
+        "-",
+        IF (
+            NOT __obraIsFiltered,
+            "Todas",
+            IF ( __obraCount <= 2, __obraList, __obraList & " +" & FORMAT ( __obraCount - 2, "0" ) )
+        )
+    )
+
+VAR __ccVals = VALUES ( centros_custo_db[name] )
+VAR __ccCount = COUNTROWS ( __ccVals )
+VAR __ccIsFiltered =
+    ISFILTERED ( centros_custo_db[id] )
+        || ISFILTERED ( centros_custo_db[name] )
+VAR __ccList =
+    CONCATENATEX (
+        TOPN ( 2, __ccVals, centros_custo_db[name], ASC ),
+        centros_custo_db[name],
+        ", "
+    )
+VAR __centroCusto =
+    IF (
+        __ccCount = 0,
+        "-",
+        IF (
+            NOT __ccIsFiltered,
+            "Todos",
+            IF ( __ccCount <= 2, __ccList, __ccList & " +" & FORMAT ( __ccCount - 2, "0" ) )
+        )
+    )
+
+VAR __contaVals = VALUES ( contas_correntes_db[accountName] )
+VAR __contaCount = COUNTROWS ( __contaVals )
+VAR __contaIsFiltered =
+    ISFILTERED ( contas_correntes_db[accountNumber] )
+        || ISFILTERED ( contas_correntes_db[accountName] )
+        || ISFILTERED ( contas_correntes_db[bankName] )
+VAR __contaList =
+    CONCATENATEX (
+        TOPN ( 2, __contaVals, contas_correntes_db[accountName], ASC ),
+        contas_correntes_db[accountName],
+        ", "
+    )
+VAR __conta =
+    IF (
+        __contaCount = 0,
+        "-",
+        IF (
+            NOT __contaIsFiltered,
+            "Todas",
+            IF ( __contaCount <= 2, __contaList, __contaList & " +" & FORMAT ( __contaCount - 2, "0" ) )
+        )
+    )
+
+VAR __forVals = VALUES ( fornecedores_db[name] )
+VAR __forCount = COUNTROWS ( __forVals )
+VAR __forIsFiltered =
+    ISFILTERED ( fornecedores_db[id] )
+        || ISFILTERED ( fornecedores_db[name] )
+        || ISFILTERED ( fornecedores_db[tradeName] )
+VAR __forList =
+    CONCATENATEX (
+        TOPN ( 2, __forVals, fornecedores_db[name], ASC ),
+        fornecedores_db[name],
+        ", "
+    )
+VAR __fornecedor =
+    IF (
+        __forCount = 0,
+        "-",
+        IF (
+            NOT __forIsFiltered,
+            "Todos",
+            IF ( __forCount <= 2, __forList, __forList & " +" & FORMAT ( __forCount - 2, "0" ) )
+        )
+    )
+
+VAR __mesVals = VALUES ( calendario_db[Mes Abreviado] )
+VAR __triVals = VALUES ( calendario_db[Trimestre] )
+VAR __temFiltroData =
+    ISFILTERED ( calendario_db[Data] )
+        || ISFILTERED ( calendario_db[Ano] )
+        || ISFILTERED ( calendario_db[Ano Mes] )
+        || ISFILTERED ( calendario_db[Mes Numero] )
+        || ISFILTERED ( calendario_db[Mes Abreviado] )
+        || ISFILTERED ( calendario_db[Trimestre] )
+
+VAR __t1 = NOT __temFiltroData || CONTAINS ( __triVals, calendario_db[Trimestre], "T1" )
+VAR __t2 = NOT __temFiltroData || CONTAINS ( __triVals, calendario_db[Trimestre], "T2" )
+VAR __t3 = NOT __temFiltroData || CONTAINS ( __triVals, calendario_db[Trimestre], "T3" )
+VAR __t4 = NOT __temFiltroData || CONTAINS ( __triVals, calendario_db[Trimestre], "T4" )
+VAR __trimestresHtml =
+    "<span style='display:inline-block;min-width:92px;text-align:center;padding:5px 10px;border-radius:999px;background:" & IF ( __t1, __chipActive, __chip ) & ";color:" & __text & ";font-size:12px;'>1o Trim</span>" &
+    "<span style='display:inline-block;min-width:92px;text-align:center;padding:5px 10px;border-radius:999px;background:" & IF ( __t2, __chipActive, __chip ) & ";color:" & __text & ";font-size:12px;'>2o Trim</span>" &
+    "<span style='display:inline-block;min-width:92px;text-align:center;padding:5px 10px;border-radius:999px;background:" & IF ( __t3, __chipActive, __chip ) & ";color:" & __text & ";font-size:12px;'>3o Trim</span>" &
+    "<span style='display:inline-block;min-width:92px;text-align:center;padding:5px 10px;border-radius:999px;background:" & IF ( __t4, __chipActive, __chip ) & ";color:" & __text & ";font-size:12px;'>4o Trim</span>"
+
+VAR __mJan = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "jan" )
+VAR __mFev = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "fev" )
+VAR __mMar = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "mar" )
+VAR __mAbr = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "abr" )
+VAR __mMai = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "mai" )
+VAR __mJun = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "jun" )
+VAR __mJul = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "jul" )
+VAR __mAgo = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "ago" )
+VAR __mSet = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "set" )
+VAR __mOut = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "out" )
+VAR __mNov = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "nov" )
+VAR __mDez = NOT __temFiltroData || CONTAINS ( __mesVals, calendario_db[Mes Abreviado], "dez" )
+VAR __mesStyle = "display:inline-block;min-width:34px;text-align:center;padding:4px 8px;border-radius:999px;color:" & __text & ";font-size:12px;"
+VAR __mesesHtml =
+    "<span style='" & __mesStyle & "background:" & IF ( __mJan, __chipActive, __chip ) & ";'>jan</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mFev, __chipActive, __chip ) & ";'>fev</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mMar, __chipActive, __chip ) & ";'>mar</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mAbr, __chipActive, __chip ) & ";'>abr</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mMai, __chipActive, __chip ) & ";'>mai</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mJun, __chipActive, __chip ) & ";'>jun</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mJul, __chipActive, __chip ) & ";'>jul</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mAgo, __chipActive, __chip ) & ";'>ago</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mSet, __chipActive, __chip ) & ";'>set</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mOut, __chipActive, __chip ) & ";'>out</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mNov, __chipActive, __chip ) & ";'>nov</span>" &
+    "<span style='" & __mesStyle & "background:" & IF ( __mDez, __chipActive, __chip ) & ";'>dez</span>"
+
+VAR __entradas = COALESCE ( [Entradas Operacionais], 0 )
+VAR __saidas = COALESCE ( [Saídas Operacionais], 0 )
+VAR __fluxo = COALESCE ( [Fluxo Líquido], 0 )
+VAR __saldo = COALESCE ( [Saldo Bancário], 0 )
+VAR __saldoConc = COALESCE ( [Saldo Bancário Conciliado], 0 )
+VAR __saldoAcum = COALESCE ( [Saldo Acumulado], 0 )
+VAR __receber = COALESCE ( [Total a Receber Aberto], 0 )
+VAR __pagar = COALESCE ( [Total a Pagar], 0 )
+VAR __entradasPrev = COALESCE ( [Entradas Previstas], __receber )
+VAR __saidasPrev = COALESCE ( [Saídas Previstas], __pagar )
+VAR __fluxoPrev = COALESCE ( [Fluxo Previsto], __entradasPrev - __saidasPrev )
+VAR __cap = COALESCE ( [Necessidade de Captação], 0 )
+VAR __saldoFinal = COALESCE ( [Saldo Final Projetado], __saldoAcum + __cap )
+VAR __margem = [Margem de Caixa]
+VAR __qtdMov = COALESCE ( [Quantidade de Movimentações], 0 )
+VAR __input1 = COALESCE ( [Input Previsão 1], 0 )
+VAR __input2 = COALESCE ( [Input Previsão 2], 0 )
+VAR __input3 = COALESCE ( [Input Previsão 3], 0 )
+VAR __cenario1 = __fluxoPrev + __input1
+VAR __cenario2 = __fluxoPrev + __input2
+VAR __cenario3 = __fluxoPrev + __input3
+VAR __realizadoPct = DIVIDE ( __entradas, __entradas + __saidas )
+VAR __saidaPct = DIVIDE ( __saidas, __entradas + __saidas )
+VAR __fluxoColor = IF ( __fluxo >= 0, __good, __bad )
+VAR __prevColor = IF ( __fluxoPrev >= 0, __good, __bad )
+VAR __capColor = IF ( __cap > 0, __warn, __good )
+
+VAR __linhas =
+    UNION (
+        ROW ( "Ordem", 1, "Nivel", 0, "Descricao", "1 - Entradas realizadas", "Realizado", __entradas, "Previsto", __entradasPrev ),
+        ROW ( "Ordem", 2, "Nivel", 0, "Descricao", "2 - Saidas realizadas", "Realizado", - __saidas, "Previsto", - __saidasPrev ),
+        ROW ( "Ordem", 3, "Nivel", 0, "Descricao", "(=) 3 - Fluxo liquido", "Realizado", __fluxo, "Previsto", __fluxoPrev ),
+        ROW ( "Ordem", 4, "Nivel", 1, "Descricao", "3.1 - A receber em aberto", "Realizado", __receber, "Previsto", __receber ),
+        ROW ( "Ordem", 5, "Nivel", 1, "Descricao", "3.2 - A pagar / comprometido", "Realizado", - __pagar, "Previsto", - __pagar ),
+        ROW ( "Ordem", 6, "Nivel", 0, "Descricao", "4 - Saldo bancario", "Realizado", __saldo, "Previsto", __saldoFinal ),
+        ROW ( "Ordem", 7, "Nivel", 1, "Descricao", "4.1 - Saldo conciliado", "Realizado", __saldoConc, "Previsto", __saldoConc ),
+        ROW ( "Ordem", 8, "Nivel", 0, "Descricao", "5 - Necessidade de captacao", "Realizado", - __cap, "Previsto", - __cap ),
+        ROW ( "Ordem", 9, "Nivel", 0, "Descricao", "(=) 6 - Saldo final projetado", "Realizado", __saldoFinal, "Previsto", __saldoFinal )
+    )
+
+VAR __rowsHtml =
+    CONCATENATEX (
+        __linhas,
+        VAR __nivel = [Nivel]
+        VAR __real = [Realizado]
+        VAR __prev = [Previsto]
+        VAR __av = DIVIDE ( __real, __entradas )
+        VAR __ah = DIVIDE ( __real - __prev, ABS ( __prev ) )
+        VAR __isTotal = __nivel = 0
+        VAR __rowColor = IF ( __real >= 0, __good, __bad )
+        VAR __descStyle =
+            IF (
+                __isTotal,
+                "font-weight:800;color:" & __text & ";",
+                "font-weight:500;color:#cbd7ea;padding-left:26px;"
+            )
+        VAR __bgRow = IF ( __isTotal, "rgba(122,162,255,.08)", "transparent" )
+        VAR __icon = IF ( __isTotal, "⊞", "•" )
+        RETURN
+            "<tr style='background:" & __bgRow & ";'>" &
+                "<td style='padding:8px 10px;border-bottom:1px solid " & __lineSoft & ";" & __descStyle & "'><span style='color:" & __blue & ";margin-right:8px;'>" & __icon & "</span>" & [Descricao] & "</td>" &
+                "<td style='padding:8px 10px;text-align:right;border-bottom:1px solid " & __lineSoft & ";font-weight:800;color:" & __rowColor & ";'>" & FORMAT ( __real, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</td>" &
+                "<td style='padding:8px 10px;text-align:right;border-bottom:1px solid " & __lineSoft & ";color:" & IF ( __av >= 0, __good, __bad ) & ";'>" & FORMAT ( __av, "0.0%" ) & "</td>" &
+                "<td style='padding:8px 10px;text-align:right;border-bottom:1px solid " & __lineSoft & ";color:" & IF ( __prev >= 0, __good, __bad ) & ";'>" & FORMAT ( __prev, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</td>" &
+                "<td style='padding:8px 10px;text-align:right;border-bottom:1px solid " & __lineSoft & ";color:" & IF ( __ah >= 0, __good, __bad ) & ";'>" & FORMAT ( __ah, "0.0%" ) & "</td>" &
+            "</tr>",
+        "",
+        [Ordem],
+        ASC
+    )
+
+VAR __kpiStyle = "flex:1 1 150px;min-width:150px;border-left:2px solid " & __line & ";padding:0 14px;"
+VAR __miniLineGood = "<div style='height:28px;margin-top:8px;background:linear-gradient(135deg,transparent 45%,rgba(95,193,120,.55) 46%,rgba(95,193,120,.55) 52%,transparent 53%);border-bottom:1px solid " & __lineSoft & ";'></div>"
+VAR __miniLineBad = "<div style='height:28px;margin-top:8px;background:linear-gradient(135deg,transparent 45%,rgba(255,103,88,.55) 46%,rgba(255,103,88,.55) 52%,transparent 53%);border-bottom:1px solid " & __lineSoft & ";'></div>"
+
+RETURN
+    "<div style='box-sizing:border-box;width:100%;min-height:100%;font-family:Segoe UI,Arial,sans-serif;background:" & __bg & ";color:" & __text & ";border:1px solid " & __line & ";border-radius:12px;overflow:hidden;'>" &
+        "<div style='display:flex;min-height:640px;'>" &
+            "<div style='width:108px;flex:0 0 108px;background:#071020;border-right:1px solid " & __lineSoft & ";padding:18px 10px;box-sizing:border-box;'>" &
+                "<div style='height:44px;width:58px;margin:0 auto 20px auto;border:2px solid " & __text & ";border-radius:6px;transform:skew(-8deg);position:relative;'>" &
+                    "<div style='position:absolute;left:8px;bottom:7px;width:7px;height:12px;background:" & __blue & ";'></div>" &
+                    "<div style='position:absolute;left:20px;bottom:7px;width:7px;height:22px;background:" & __text & ";'></div>" &
+                    "<div style='position:absolute;left:32px;bottom:7px;width:7px;height:30px;background:" & __good & ";'></div>" &
+                "</div>" &
+                "<div style='font-size:12px;text-align:center;color:" & __blue & ";font-weight:800;margin-bottom:82px;'>DINAMICA</div>" &
+                "<div style='font-size:12px;color:" & __muted2 & ";line-height:3.3;text-align:center;'>" &
+                    "<div style='color:" & __blue & ";font-weight:800;'>HOME</div>" &
+                    "<div style='color:" & __text & ";font-weight:800;'>DRE</div>" &
+                    "<div>FLUXO</div>" &
+                    "<div>CONTAS</div>" &
+                    "<div>OBRAS</div>" &
+                "</div>" &
+            "</div>" &
+
+            "<div style='flex:1;min-width:0;padding:10px 16px 18px 16px;box-sizing:border-box;'>" &
+                "<div style='display:flex;gap:16px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;'>" &
+                    "<div style='min-width:320px;flex:1 1 560px;'>" &
+                        "<div style='font-size:24px;line-height:1.15;font-weight:900;color:#c6d3e8;'>Painel Executivo Financeiro</div>" &
+                        "<div style='margin-top:4px;font-size:12px;color:" & __muted & ";'>Base Sienge - periodo: " & __periodo & "</div>" &
+                        "<div style='display:flex;flex-wrap:wrap;gap:12px;margin-top:14px;'>" &
+                            "<div style='" & __kpiStyle & "'><div style='font-size:12px;font-weight:800;color:" & __text & ";'>Saldo Bancario</div><div style='font-size:17px;color:" & __blue & ";margin-top:4px;'>" & FORMAT ( __saldo, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div>" & IF ( __saldo >= 0, __miniLineGood, __miniLineBad ) & "</div>" &
+                            "<div style='" & __kpiStyle & "'><div style='font-size:12px;font-weight:800;color:" & __text & ";'>Entradas</div><div style='font-size:17px;color:" & __good & ";margin-top:4px;'>" & FORMAT ( __entradas, "R$ #,0.00" ) & "</div>" & __miniLineGood & "</div>" &
+                            "<div style='" & __kpiStyle & "'><div style='font-size:12px;font-weight:800;color:" & __text & ";'>Saidas</div><div style='font-size:17px;color:" & __bad & ";margin-top:4px;'>" & FORMAT ( __saidas, "R$ #,0.00" ) & "</div>" & __miniLineBad & "</div>" &
+                            "<div style='" & __kpiStyle & "'><div style='font-size:12px;font-weight:800;color:" & __text & ";'>Fluxo Liquido</div><div style='font-size:17px;color:" & __fluxoColor & ";margin-top:4px;'>" & FORMAT ( __fluxo, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div>" & IF ( __fluxo >= 0, __miniLineGood, __miniLineBad ) & "</div>" &
+                            "<div style='" & __kpiStyle & "'><div style='font-size:12px;font-weight:800;color:" & __text & ";'>Fluxo Previsto</div><div style='font-size:17px;color:" & __prevColor & ";margin-top:4px;'>" & FORMAT ( __fluxoPrev, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div>" & IF ( __fluxoPrev >= 0, __miniLineGood, __miniLineBad ) & "</div>" &
+                        "</div>" &
+                    "</div>" &
+
+                    "<div style='flex:0 1 520px;min-width:300px;'>" &
+                        "<div style='font-size:14px;color:" & __muted & ";margin-bottom:6px;'>Trimestre</div>" &
+                        "<div style='display:flex;gap:7px;flex-wrap:wrap;margin-bottom:10px;'>" & __trimestresHtml & "</div>" &
+                        "<div style='font-size:14px;color:" & __muted & ";margin-bottom:6px;'>Mes</div>" &
+                        "<div style='display:flex;gap:7px;flex-wrap:wrap;'>" & __mesesHtml & "</div>" &
+                    "</div>" &
+                "</div>" &
+
+                "<div style='height:1px;background:" & __line & ";margin:16px 0 12px 0;'></div>" &
+
+                "<div style='display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px;'>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Empresa:</b> " & __empresa & "</div>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Obra:</b> " & __obra & "</div>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Centro de custo:</b> " & __centroCusto & "</div>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Conta:</b> " & __conta & "</div>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Fornecedor:</b> " & __fornecedor & "</div>" &
+                    "<div style='background:" & __panel2 & ";border:1px solid " & __lineSoft & ";border-radius:999px;padding:7px 10px;font-size:12px;'><b style='color:" & __muted & ";'>Movimentos:</b> " & FORMAT ( __qtdMov, "#,0" ) & "</div>" &
+                "</div>" &
+
+                "<div style='display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px;'>" &
+                    "<div style='flex:1 1 210px;min-width:210px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;box-sizing:border-box;'><div style='font-size:12px;color:" & __muted & ";'>A receber aberto</div><div style='font-size:20px;font-weight:900;margin-top:5px;color:" & __cyan & ";'>" & FORMAT ( __receber, "R$ #,0.00" ) & "</div><div style='margin-top:9px;height:6px;border-radius:999px;background:#1c2740;'><div style='height:6px;width:" & FORMAT ( MIN ( 100, 100 * __realizadoPct ), "0" ) & "%;border-radius:999px;background:" & __cyan & ";'></div></div></div>" &
+                    "<div style='flex:1 1 210px;min-width:210px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;box-sizing:border-box;'><div style='font-size:12px;color:" & __muted & ";'>A pagar / comprometido</div><div style='font-size:20px;font-weight:900;margin-top:5px;color:" & __bad & ";'>" & FORMAT ( __pagar, "R$ #,0.00" ) & "</div><div style='margin-top:9px;height:6px;border-radius:999px;background:#1c2740;'><div style='height:6px;width:" & FORMAT ( MIN ( 100, 100 * __saidaPct ), "0" ) & "%;border-radius:999px;background:" & __bad & ";'></div></div></div>" &
+                    "<div style='flex:1 1 210px;min-width:210px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;box-sizing:border-box;'><div style='font-size:12px;color:" & __muted & ";'>Necessidade de captacao</div><div style='font-size:20px;font-weight:900;margin-top:5px;color:" & __capColor & ";'>" & FORMAT ( __cap, "R$ #,0.00" ) & "</div><div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Saldo final: <b style='color:" & __text & ";'>" & FORMAT ( __saldoFinal, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</b></div></div>" &
+                    "<div style='flex:1 1 210px;min-width:210px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;box-sizing:border-box;'><div style='font-size:12px;color:" & __muted & ";'>Margem de caixa</div><div style='font-size:20px;font-weight:900;margin-top:5px;color:" & IF ( __margem >= 0, __good, __bad ) & ";'>" & IF ( ISBLANK ( __margem ), "-", FORMAT ( __margem, "0.0%" ) ) & "</div><div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Saldo acumulado: <b style='color:" & __text & ";'>" & FORMAT ( __saldoAcum, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</b></div></div>" &
+                "</div>" &
+
+                "<div style='display:flex;gap:12px;flex-wrap:wrap;margin-bottom:12px;'>" &
+                    "<div style='flex:1 1 260px;min-width:260px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;'><div style='font-size:12px;color:" & __muted & ";'>Cenario 1</div><div style='font-size:19px;font-weight:900;color:" & IF ( __cenario1 >= 0, __good, __bad ) & ";margin-top:5px;'>" & FORMAT ( __cenario1, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div><div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Fluxo previsto + ajuste 1: " & FORMAT ( __input1, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div></div>" &
+                    "<div style='flex:1 1 260px;min-width:260px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;'><div style='font-size:12px;color:" & __muted & ";'>Cenario 2</div><div style='font-size:19px;font-weight:900;color:" & IF ( __cenario2 >= 0, __good, __bad ) & ";margin-top:5px;'>" & FORMAT ( __cenario2, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div><div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Fluxo previsto + ajuste 2: " & FORMAT ( __input2, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div></div>" &
+                    "<div style='flex:1 1 260px;min-width:260px;background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;padding:12px;'><div style='font-size:12px;color:" & __muted & ";'>Cenario 3</div><div style='font-size:19px;font-weight:900;color:" & IF ( __cenario3 >= 0, __good, __bad ) & ";margin-top:5px;'>" & FORMAT ( __cenario3, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div><div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Fluxo previsto + ajuste 3: " & FORMAT ( __input3, "R$ #,0.00;(R$ #,0.00);R$ 0.00" ) & "</div></div>" &
+                "</div>" &
+
+                "<div style='background:" & __panel & ";border:1px solid " & __lineSoft & ";border-radius:8px;overflow:hidden;'>" &
+                    "<table style='width:100%;border-collapse:collapse;table-layout:auto;'>" &
+                        "<thead>" &
+                            "<tr style='background:linear-gradient(180deg,#1b376d,#10234a);'>" &
+                                "<th style='padding:8px 10px;text-align:left;font-size:12px;color:" & __text & ";'>Descricao</th>" &
+                                "<th style='padding:8px 10px;text-align:right;font-size:12px;color:" & __text & ";'>Realizado</th>" &
+                                "<th style='padding:8px 10px;text-align:right;font-size:12px;color:" & __text & ";'>AV %</th>" &
+                                "<th style='padding:8px 10px;text-align:right;font-size:12px;color:" & __text & ";'>Previsto / Sienge</th>" &
+                                "<th style='padding:8px 10px;text-align:right;font-size:12px;color:" & __text & ";'>Var %</th>" &
+                            "</tr>" &
+                        "</thead>" &
+                        "<tbody>" & __rowsHtml & "</tbody>" &
+                    "</table>" &
+                "</div>" &
+            "</div>" &
+        "</div>" &
+    "</div>"

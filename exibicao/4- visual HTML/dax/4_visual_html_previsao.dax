@@ -1,0 +1,81 @@
+-- Medida DAX (string HTML) para visual HTML Content
+-- Nome sugerido: HTML Executivo (Previsão)
+-- Requer:
+--   - Tabelas desconectadas: param_previsao_1/2/3 (coluna [Valor])
+--   - Medidas: Sistema CP (Maio), Input Previsão 1/2/3, Previsão 1/2/3 (Maio)
+
+HTML Executivo (Previsão) =
+VAR __bg = "#0b1220"
+VAR __card = "#101a2f"
+VAR __text = "#e5e7eb"
+VAR __muted = "#9ca3af"
+VAR __border = "rgba(255,255,255,.08)"
+VAR __info = "#38bdf8"
+VAR __good = "#22c55e"
+VAR __warn = "#f59e0b"
+
+VAR __base = [Sistema CP (Maio)]
+VAR __in1 = [Input Previsão 1]
+VAR __in2 = [Input Previsão 2]
+VAR __in3 = [Input Previsão 3]
+
+VAR __p1 = [Previsão 1 (Maio)]
+VAR __p2 = [Previsão 2 (Maio)]
+VAR __p3 = [Previsão 3 (Maio)]
+
+VAR __baseFmt = IF ( ISBLANK ( __base ), "—", FORMAT ( __base, "R$ #,0.00" ) )
+VAR __in1Fmt = IF ( ISBLANK ( __in1 ), "—", FORMAT ( __in1, "R$ #,0.00" ) )
+VAR __in2Fmt = IF ( ISBLANK ( __in2 ), "—", FORMAT ( __in2, "R$ #,0.00" ) )
+VAR __in3Fmt = IF ( ISBLANK ( __in3 ), "—", FORMAT ( __in3, "R$ #,0.00" ) )
+VAR __p1Fmt = IF ( ISBLANK ( __p1 ), "—", FORMAT ( __p1, "R$ #,0.00" ) )
+VAR __p2Fmt = IF ( ISBLANK ( __p2 ), "—", FORMAT ( __p2, "R$ #,0.00" ) )
+VAR __p3Fmt = IF ( ISBLANK ( __p3 ), "—", FORMAT ( __p3, "R$ #,0.00" ) )
+
+RETURN
+    "<div style='font-family:Segoe UI,Arial,sans-serif;background:" & __bg & ";color:" & __text & ";padding:14px;border-radius:12px;border:1px solid " & __border & ";width:100%;height:100%;box-sizing:border-box;'>" &
+        "<div style='display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:flex-start;'>" &
+            "<div>" &
+                "<div style='font-size:12px;color:" & __muted & ";letter-spacing:.08em;text-transform:uppercase;'>Financeiro</div>" &
+                "<div style='font-size:20px;font-weight:800;margin-top:4px;'>Previsão (Contas a Pagar — Maio)</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Base do sistema travada em <b style='color:" & __text & ";'>Maio</b> (mantém filtros do relatório, substitui só data).</div>" &
+            "</div>" &
+            "<div style='text-align:right;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Sistema (CP Maio)</div>" &
+                "<div style='font-size:18px;font-weight:900;margin-top:4px;color:" & __info & ";'>" & __baseFmt & "</div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='display:flex;flex-wrap:wrap;gap:10px;margin-top:12px;'>" &
+            "<div style='flex:1 1 240px;min-width:240px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Input Previsão 1</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __in1Fmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Previsão 1 = <b style='color:" & __good & ";'>" & __p1Fmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 240px;min-width:240px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Input Previsão 2</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __in2Fmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Previsão 2 = <b style='color:" & __good & ";'>" & __p2Fmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 240px;min-width:240px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Input Previsão 3</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __in3Fmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Previsão 3 = <b style='color:" & __good & ";'>" & __p3Fmt & "</b></div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='margin-top:12px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+            "<div style='font-size:12px;color:" & __muted & ";letter-spacing:.02em;text-transform:uppercase;'>Como usar (inputs + filtros)</div>" &
+            "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;line-height:1.45;'>" &
+                "1) Adicione 3 slicers: param_previsao_1[Valor], param_previsao_2[Valor], param_previsao_3[Valor].<br/>" &
+                "2) O relatório continua respeitando Empresa/Obra/etc.<br/>" &
+                "3) A data é sempre Maio (do ano-base do seu filtro atual)." &
+            "</div>" &
+        "</div>" &
+
+        "<div style='margin-top:12px;padding-top:10px;border-top:1px solid " & __border & ";display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:" & __muted & ";font-size:12px;'>" &
+            "<div>Ajuste os 3 inputs para simular cenários.</div>" &
+            "<div>Página: Previsão</div>" &
+        "</div>" &
+    "</div>"

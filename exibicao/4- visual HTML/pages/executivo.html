@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Visão Executiva - Financeiro</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="topbar">
+      <div>
+        <div class="kicker">Financeiro</div>
+        <div class="title">Visão Executiva</div>
+        <div class="sub">Período: <b>01/01/2026 — 31/12/2026</b> • Atualizado: <b>11/05/2026</b></div>
+      </div>
+      <nav class="nav">
+        <a class="active" href="./executivo.html">Executivo</a>
+        <a href="./fluxo.html">Fluxo</a>
+        <a href="./contas.html">Contas</a>
+      </nav>
+    </header>
+
+    <main class="grid">
+      <section class="card kpi">
+        <div class="label">Saldo bancário</div>
+        <div class="value">R$ 1.250.000,00</div>
+        <div class="meta">Conciliado: <b>R$ 1.180.000,00</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Entradas (total)</div>
+        <div class="value">R$ 3.420.000,00</div>
+        <div class="meta">A receber (aberto): <b>R$ 560.000,00</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Saídas (total)</div>
+        <div class="value">R$ 2.980.000,00</div>
+        <div class="meta">A pagar: <b>R$ 410.000,00</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Fluxo líquido</div>
+        <div class="value good">R$ 440.000,00</div>
+        <div class="meta">Saldo acumulado: <b>R$ 440.000,00</b></div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Margem de caixa</div>
+        <div class="value info">12,8%</div>
+        <div class="meta">Leitura executiva do período filtrado</div>
+      </section>
+
+      <section class="card kpi">
+        <div class="label">Movimentações</div>
+        <div class="value">1.248</div>
+        <div class="meta">Quantidade no período</div>
+      </section>
+
+      <section class="card section">
+        <div class="label">Resumo (executivo)</div>
+        <table class="table" aria-label="Resumo Executivo">
+          <thead>
+            <tr><th>Métrica</th><th>Valor</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Saldo bancário (atual)</td><td>R$ 1.250.000,00</td></tr>
+            <tr><td>Fluxo líquido (período)</td><td class="good">R$ 440.000,00</td></tr>
+            <tr><td>A receber (aberto)</td><td>R$ 560.000,00</td></tr>
+            <tr><td>A pagar</td><td>R$ 410.000,00</td></tr>
+          </tbody>
+        </table>
+
+        <div class="footer">
+          <div>Dica: aplique filtros (Empresa/Obra/Data) para refinar o painel.</div>
+          <div>Layout HTML responsivo (sem JS).</div>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

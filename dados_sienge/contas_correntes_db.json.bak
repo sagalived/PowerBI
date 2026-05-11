@@ -1,0 +1,1812 @@
+{
+    "data":  [
+                 {
+                     "accountNumber":  "0000000007",
+                     "accountName":  "CX GEORGE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "AGORA",
+                     "accountName":  "CONTA",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000000",
+                     "bankNumber":  "237",
+                     "bankName":  "Banco Bradesco",
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "ATILA",
+                     "accountName":  "CAIXA ATILA (GÊNESIS)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "BCO-ITAU",
+                     "accountName":  "ITAU POLY STEEL",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "002639",
+                     "bankNumber":  "341",
+                     "bankName":  "Banco Itaú Unibanco",
+                     "companyId":  3,
+                     "companyName":  "METALÚRGICA POLY STEEL",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "BCONORDEST",
+                     "accountName":  "BANCO DO NORDESTE",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000300",
+                     "bankNumber":  "004",
+                     "bankName":  "Banco do Nordeste",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "BRADESCO",
+                     "accountName":  "BRADESCO",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000607",
+                     "bankNumber":  "237",
+                     "bankName":  "Banco Bradesco",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "BRADESCOJF",
+                     "accountName":  "BRADESCO",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "001234",
+                     "bankNumber":  "237",
+                     "bankName":  "Banco Bradesco",
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "BSANTANDER",
+                     "accountName":  "SANTANDER JFK",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "004410",
+                     "bankNumber":  "033",
+                     "bankName":  "Banco Santander",
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "C6BANKSMN",
+                     "accountName":  "C6 BANK SMN",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000001",
+                     "bankNumber":  "336",
+                     "bankName":  "BANCO C6 S.A",
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  4,
+                     "companyName":  "THEOROS ASSESSORIA LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  9,
+                     "companyName":  "BRASIL STEEL COMPANY REPRESENTACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "TESTE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  3,
+                     "companyName":  "METALÚRGICA POLY STEEL",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  10,
+                     "companyName":  "VILLA SANTORINI",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXA",
+                     "accountName":  "CAIXA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  5,
+                     "companyName":  "POTENCIAL NEGOCIOS E PARTICIPACOES S.A",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAADM",
+                     "accountName":  "CAIXA ADMINISTRAÇÃO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAGALPA",
+                     "accountName":  "CAIXA GALPAO (LEUDO)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAINTE",
+                     "accountName":  "CAIXA OUTRAS DESPESAS / RECEITAS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAINTER",
+                     "accountName":  "CAIXA OUTRAS DESPESAS / RECEITAS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAJFK",
+                     "accountName":  "CAIXA ECONOMICA FEDERAL JFK",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "001977",
+                     "bankNumber":  "104",
+                     "bankName":  "Caixa Econômica Federal",
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAMUSY",
+                     "accountName":  "CAIXA ECONOMICA FEDERAL GENESIS",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "004254",
+                     "bankNumber":  "104",
+                     "bankName":  "Caixa Econômica Federal",
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAIXAVANIE",
+                     "accountName":  "CAIXA LUIZ HENRIQUE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CAJU",
+                     "accountName":  "CAJU DESPESAS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CARROPAULO",
+                     "accountName":  "NUS0149",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CASA55",
+                     "accountName":  "CASA 55 - GRANITO (PERMUTA)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CEF",
+                     "accountName":  "CAIXA ECONÔMICA FEDERAL",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "001977",
+                     "bankNumber":  "104",
+                     "bankName":  "Caixa Econômica Federal",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CEFA",
+                     "accountName":  "CAIXA ECONÔMICA FEDERAL",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "001977",
+                     "bankNumber":  "104",
+                     "bankName":  "Caixa Econômica Federal",
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CEFP",
+                     "accountName":  "CAIXA ECONÔMICA FEDERAL ",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "001977",
+                     "bankNumber":  "104",
+                     "bankName":  "Caixa Econômica Federal",
+                     "companyId":  5,
+                     "companyName":  "POTENCIAL NEGOCIOS E PARTICIPACOES S.A",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CORINGA05",
+                     "accountName":  "SBA7A60 - FIAT MOBI",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CORINGA06",
+                     "accountName":  "SBB0E60 - FIAT MOBI",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CORINGA07",
+                     "accountName":  "SBS3J50 - CAMINHÃO PEQUENO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CORINGA08",
+                     "accountName":  "SBM1B40 - CAMINHÃO GRANDE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXCICERO",
+                     "accountName":  "CAIXA CICERO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXDIOGENES",
+                     "accountName":  "CX PAULO DIOGENES",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXDODO",
+                     "accountName":  "CAIXA PAULO DODO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXEDUARDO",
+                     "accountName":  "CAIXA EDUARDO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXEIGO",
+                     "accountName":  "CAIXA EIGO ",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXFERNANDO",
+                     "accountName":  "CAIXA FERNANDO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXFIN",
+                     "accountName":  "CAIXA FINANCEIRO (CAJU)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXGEAN",
+                     "accountName":  "CAIXA GEAN",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXGENESIS",
+                     "accountName":  "CAIXA FINANCEIRO GÊNESIS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXGUSTAVO",
+                     "accountName":  "CAIXA GUSTAVO (CAUCAIA)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXHENRIQUE",
+                     "accountName":  "HENRIQUE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXHERBETT",
+                     "accountName":  "CAIXA HEBERTT",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXJOAO",
+                     "accountName":  "CAIXA JOÃO BENEDITO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXJUNIOR",
+                     "accountName":  "CAIXA JUNIOR",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXLIDIANE",
+                     "accountName":  "CAIXA LIDIANE",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXMARCELA",
+                     "accountName":  "MARIA MARCELA ",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXMAURICIO",
+                     "accountName":  "CAIXA MAURICIO (HORIZONTE)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXMEDINA",
+                     "accountName":  "CAIXA MEDINA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXMONICA",
+                     "accountName":  "MÔNICA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXMOTORIST",
+                     "accountName":  "CAIXA EDERSON",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXPAULO",
+                     "accountName":  "CAIXA PAULO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXPRF",
+                     "accountName":  "EWERTON",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXRH",
+                     "accountName":  "CAIXA RECURSOS HUMANOS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXROGEISON",
+                     "accountName":  "ROGEISON",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXRUDIERI",
+                     "accountName":  "CAIXA RUDIERI",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXVALERIA",
+                     "accountName":  "CAIXA VALERIA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXVITOR",
+                     "accountName":  "CARLOS VITOR",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXWALISSON",
+                     "accountName":  "WALISSON",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "CXYURI",
+                     "accountName":  "CAIXA YURI",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "DREQ",
+                     "accountName":  "DANIEL RANGEL (CASA 05)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "NAO USAR",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  9,
+                     "companyName":  "BRASIL STEEL COMPANY REPRESENTACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  10,
+                     "companyName":  "VILLA SANTORINI",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  5,
+                     "companyName":  "POTENCIAL NEGOCIOS E PARTICIPACOES S.A",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  4,
+                     "companyName":  "THEOROS ASSESSORIA LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "EMISSAOCHQ",
+                     "accountName":  "EMISSAOCHQ",
+                     "accountType":  {
+                                         "id":  "Q",
+                                         "description":  "Cheque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  3,
+                     "companyName":  "METALÚRGICA POLY STEEL",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "ESCRITORIO",
+                     "accountName":  "CAIXA SUPRIMENTOS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "FINANCEIRO",
+                     "accountName":  "CAIXA FINANCEIRO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "FWX-1895",
+                     "accountName":  "SAVEIRO FWX - 1895",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "GGA-4519",
+                     "accountName":  "SAVEIRO GGA-4519",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "ITAU",
+                     "accountName":  "RAFAEL DE SÁ CRUZ",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "004453",
+                     "bankNumber":  "341",
+                     "bankName":  "Banco Itaú Unibanco",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "ITAUPJ",
+                     "accountName":  "ITAU DINAMICA",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "003827",
+                     "bankNumber":  "341",
+                     "bankName":  "Banco Itaú Unibanco",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "LICITACAO",
+                     "accountName":  "LICITAÇÃO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "LIDIANE",
+                     "accountName":  "CAIXA LIDIANE (GÊNESIS)",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MARKETING",
+                     "accountName":  "VICTOR HUGO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "METALURGIC",
+                     "accountName":  "MÚTUO METALURGICA",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  3,
+                     "companyName":  "METALÚRGICA POLY STEEL",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MOTDENIS",
+                     "accountName":  "MOTORISTA DENIS",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MOTORISTAJ",
+                     "accountName":  "JOÃO PAULO",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTOBRASIL",
+                     "accountName":  "MUTUO BRASIL STEEL",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  9,
+                     "companyName":  "BRASIL STEEL COMPANY REPRESENTACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOARAUJ",
+                     "accountName":  "MUTUO GENESIS",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOARCRU",
+                     "accountName":  "A R CRUZ NEGOCIOS IMOBILIARIOS",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUODINAM",
+                     "accountName":  "MÚTUO DINÂMICA",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOJFK",
+                     "accountName":  "MÚTUO JFK CONSTRUÇÕES",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOPOTEN",
+                     "accountName":  "MUTUO POTENCIAL",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  5,
+                     "companyName":  "POTENCIAL NEGOCIOS E PARTICIPACOES S.A",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOSMN",
+                     "accountName":  "MUTUO SMN STEEL",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOTHEOR",
+                     "accountName":  "MUTUO THEOROS",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  4,
+                     "companyName":  "THEOROS ASSESSORIA LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "MUTUOVSANT",
+                     "accountName":  "MUTUO VILLA SANTORINI",
+                     "accountType":  {
+                                         "id":  "M",
+                                         "description":  "Mútuo"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  10,
+                     "companyName":  "VILLA SANTORINI",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  3,
+                     "companyName":  "METALÚRGICA POLY STEEL",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  4,
+                     "companyName":  "THEOROS ASSESSORIA LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  2,
+                     "companyName":  "JFK CONSTRUÇÕES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  5,
+                     "companyName":  "POTENCIAL NEGOCIOS E PARTICIPACOES S.A",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  10,
+                     "companyName":  "VILLA SANTORINI",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  9,
+                     "companyName":  "BRASIL STEEL COMPANY REPRESENTACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  6,
+                     "companyName":  "AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "REAPROPFIN",
+                     "accountName":  "Reapropriação Financeira",
+                     "accountType":  {
+                                         "id":  "E",
+                                         "description":  "Estoque"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "SANTANDER",
+                     "accountName":  "SANTANDER",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "003132",
+                     "bankNumber":  "033",
+                     "bankName":  "Banco Santander",
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "SANTANDERB",
+                     "accountName":  "SANTANDER BSC",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000000",
+                     "bankNumber":  "033",
+                     "bankName":  "Banco Santander",
+                     "companyId":  9,
+                     "companyName":  "BRASIL STEEL COMPANY REPRESENTACOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "SANTANDERM",
+                     "accountName":  "SANTANDER GENESIS",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000000",
+                     "bankNumber":  "033",
+                     "bankName":  "Banco Santander",
+                     "companyId":  7,
+                     "companyName":  "GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "SANTANDERS",
+                     "accountName":  "SANTANDER SMN",
+                     "accountType":  {
+                                         "id":  "B",
+                                         "description":  "Bancária"
+                                     },
+                     "agencyNumber":  "000932",
+                     "bankNumber":  "033",
+                     "bankName":  "Banco Santander",
+                     "companyId":  8,
+                     "companyName":  "SMN - STEEL MONTAGENS DO NORDESTE LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "TICKET",
+                     "accountName":  "TICKET LOG",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 },
+                 {
+                     "accountNumber":  "TXADM",
+                     "accountName":  "TAXA ADMINISTRATIVA",
+                     "accountType":  {
+                                         "id":  "C",
+                                         "description":  "CAIXA"
+                                     },
+                     "agencyNumber":  null,
+                     "bankNumber":  null,
+                     "bankName":  null,
+                     "companyId":  1,
+                     "companyName":  "DINAMICA EMPREENDIMENTOS E SOLUCOES LTDA",
+                     "accountStatus":  "ENABLED",
+                     "messageId":  null,
+                     "messageName":  null
+                 }
+             ]
+}

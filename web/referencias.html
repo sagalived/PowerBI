@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Financeiro — Referências</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="referencias">
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div>
+          <h1>Dinâmica • Financeiro</h1>
+          <small>Protótipo em HTML</small>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="Navegação">
+        <a data-nav="visao-geral" href="index.html">Visão geral</a>
+        <a data-nav="dre" href="dre.html">DRE</a>
+        <a data-nav="fluxo-analitico" href="fluxo_analitico.html">Fluxo analítico</a>
+        <a data-nav="previsao-maio" href="previsao_maio.html">Previsão</a>
+        <a data-nav="faturamento-geral" href="faturamento_geral.html">Faturamento geral</a>
+        <a data-nav="relatorio-faturamento" href="relatorio_faturamento.html">Relatório de faturamento</a>
+        <a data-nav="referencias" href="referencias.html">Modelo FC</a>
+        <a data-nav="financeiro-obras" href="financeiro_obras.html">Financeiro de obras</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="title">
+          <h2>Referências</h2>
+          <p>Conteúdo extraído do Excel modelo (aba FC_DINÂMICA).</p>
+        </div>
+        <div class="controls">
+          <button class="button" type="button" onclick="location.reload()">Recarregar</button>
+          <button class="button" type="button" onclick="window.print()">Imprimir</button>
+        </div>
+      </header>
+
+      <section class="card span-12" aria-label="Filtros e opções">
+        <div class="section-title">
+          <div>
+            <h3>Filtros</h3>
+            <div class="sub">Empresa, obra e centro de custo (igual ao Sienge) + tipo de análise.</div>
+          </div>
+          <div class="mini-actions">
+            <button class="button primary" id="refVisualizar" type="button">Visualizar</button>
+          </div>
+        </div>
+
+        <form class="form filters-form" id="filtersForm" onsubmit="event.preventDefault();">
+          <div class="field">
+            <label for="filterEmpresa">Empresa</label>
+            <select id="filterEmpresa"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterObra">Obras</label>
+            <select id="filterObra"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCentroCusto">Centro de custo</label>
+            <select id="filterCentroCusto"></select>
+          </div>
+
+          <button id="filterApply" type="button" style="display:none" aria-hidden="true" tabindex="-1">Aplicar</button>
+        </form>
+
+        <div class="radio-group" role="group" aria-label="Tipo de análise">
+          <div class="radio-title">Tipo de análise:</div>
+
+          <label class="radio">
+            <input type="checkbox" name="refTipoAnalise" value="realizado" />
+            <span>Realizado</span>
+          </label>
+
+          <label class="radio">
+            <input type="checkbox" name="refTipoAnalise" value="comprometido" />
+            <span>Comprometido</span>
+          </label>
+
+          <label class="radio">
+            <input type="checkbox" name="refTipoAnalise" value="a_realizar" />
+            <span>A realizar</span>
+          </label>
+        </div>
+
+        <div id="activeFilters" class="active-filters"></div>
+      </section>
+
+      <section class="card span-12">
+        <h3>Modelo — FC_DINÂMICA</h3>
+        <div class="sub" id="refMeta">Carregando…</div>
+
+        <div style="margin-top:12px; overflow:auto">
+          <table class="table" id="tblReferencias">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <div class="small">Para atualizar este conteúdo, rode: <strong>python scripts/extract_fc_dinamica_referencias.py</strong></div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+    "data":  [
+                 {
+                     "bearerId":  1,
+                     "bearerName":  "Carteira",
+                     "bearerWallet":  true,
+                     "bearerInCharge":  true,
+                     "bearerDebtWorkout":  false
+                 },
+                 {
+                     "bearerId":  2,
+                     "bearerName":  "Bradesco",
+                     "bearerWallet":  false,
+                     "bearerInCharge":  true,
+                     "bearerDebtWorkout":  false
+                 },
+                 {
+                     "bearerId":  3,
+                     "bearerName":  "Sudameris",
+                     "bearerWallet":  false,
+                     "bearerInCharge":  true,
+                     "bearerDebtWorkout":  false
+                 },
+                 {
+                     "bearerId":  4,
+                     "bearerName":  "BESC",
+                     "bearerWallet":  false,
+                     "bearerInCharge":  true,
+                     "bearerDebtWorkout":  false
+                 },
+                 {
+                     "bearerId":  5,
+                     "bearerName":  "Banco do Brasil",
+                     "bearerWallet":  false,
+                     "bearerInCharge":  true,
+                     "bearerDebtWorkout":  false
+                 }
+             ]
+}

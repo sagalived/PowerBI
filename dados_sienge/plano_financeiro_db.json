@@ -1,0 +1,3073 @@
+{
+    "data":  [
+                 {
+                     "id":  "1",
+                     "name":  "ENTRADAS/RECEITAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "101",
+                     "name":  "RECEITA OPERACIONAL LÍQUIDA",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10101",
+                     "name":  "RECEITA OPERACIONAL BRUTA",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010101",
+                     "name":  "Receitas de Contratos de Manutenção Civil",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010102",
+                     "name":  "Receitas de Contratos de Manutenção Elétrica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010103",
+                     "name":  "Receita de Contratos de parcerias publico/privado",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010104",
+                     "name":  "Receitas de Construção Civil",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010105",
+                     "name":  "Receitas de Locação de Equipamentos e Máquinas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010199",
+                     "name":  "(-) Distratos e/ou Aditivos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10102",
+                     "name":  "(-) IMPOSTOS REDUTORES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010201",
+                     "name":  "(-) ISS s/ Serviços",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010202",
+                     "name":  "(-) PIS s/ Faturamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010203",
+                     "name":  "(-) COFINS s/ Faturamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010204",
+                     "name":  "(-) IRRF s/ Faturamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010205",
+                     "name":  "(-) CSLL s/ Faturamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "102",
+                     "name":  "OUTROS INGRESSOS OPERACIONAIS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10201",
+                     "name":  "APORTE DE CAPITAL",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020101",
+                     "name":  "Aporte de Sócio",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10202",
+                     "name":  "EMPRÉSTIMOS E FINANCIAMENTOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019704",
+                     "name":  "Granitos e Mármores",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020202",
+                     "name":  "Financiamento de Capital de Giro",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020203",
+                     "name":  "Adiantamento de Clientes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020299",
+                     "name":  "(-) Anulação de Receitas de Empréstimos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010197",
+                     "name":  "MATERIAIS APLICADOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019701",
+                     "name":  "Instalações Elétricas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019702",
+                     "name":  "Instalações Hidráulica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019703",
+                     "name":  "Paredes e Painéis",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019724",
+                     "name":  "Madeira e Acessórios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019705",
+                     "name":  "Cobertura e Acessórios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10204",
+                     "name":  "VENDA DE ATIVOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020401",
+                     "name":  "Venda de Imóveis e Terrenos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020402",
+                     "name":  "Venda de Prédios e Instalações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020403",
+                     "name":  "Venda de Móveis e Utensílios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020404",
+                     "name":  "Venda de Máquinas e Equipamentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "103",
+                     "name":  "INGRESSOS NÃO OPERACIONAIS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10301",
+                     "name":  "RECEITAS FINANCEIRAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030102",
+                     "name":  "Rendimentos de Conta-Corrente",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030103",
+                     "name":  "Rendimentos de Conta-Poupança",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030104",
+                     "name":  "Receita de Aplicações Financeiras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030199",
+                     "name":  "(-) Anulação de Receitas",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10302",
+                     "name":  "INVERSÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030201",
+                     "name":  "Resgate de Aplicações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030202",
+                     "name":  "Desbloqueios Judiciais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030203",
+                     "name":  "Ações Judiciais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "10303",
+                     "name":  "VARIAÇÕES FINANCEIRAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030301",
+                     "name":  "Multas e Acréscimos Recebidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030302",
+                     "name":  "Descontos Obtidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030303",
+                     "name":  "Variações Monetárias Ativas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019707",
+                     "name":  "Estrutura de Concreto",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019708",
+                     "name":  "Forro e divisórias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019709",
+                     "name":  "Argamassas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019710",
+                     "name":  "Revestimentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010117",
+                     "name":  "Gastos Extraordinários",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019713",
+                     "name":  "Impermeabilização",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019714",
+                     "name":  "Diversos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019715",
+                     "name":  "Pré-moldados",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019716",
+                     "name":  "Louças e Acessórios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010210",
+                     "name":  "(-) ICMS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2",
+                     "name":  "SAÍDAS/CUSTOS/DESPESAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201",
+                     "name":  "CUSTOS/DESPESAS OPERACIONAIS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20101",
+                     "name":  "CUSTOS APLICADOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010101",
+                     "name":  "Aquisição de Bens Imóveis - Terrenos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010103",
+                     "name":  "Insumos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010104",
+                     "name":  "Locação de Equipamentos e Máquinas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010105",
+                     "name":  "Contratos de Prestação de Serviços",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010106",
+                     "name":  "Material de Almoxarifado",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010107",
+                     "name":  "Despesas com Legalizações e Certidões",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010108",
+                     "name":  "Custos de Canteiro de Obra",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010109",
+                     "name":  "Custos de Materiais Diversos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010198",
+                     "name":  "Taxas e Outros Custos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010199",
+                     "name":  "(-) Anulação de Custos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20102",
+                     "name":  "MÃO DE OBRA PRÓPRIA E ENCARGOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010201",
+                     "name":  "Salários e Ordenados",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010202",
+                     "name":  "Férias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010203",
+                     "name":  "Horas Extras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010204",
+                     "name":  "13º Salário",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010205",
+                     "name":  "Gratificações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010206",
+                     "name":  "Salário Família",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010207",
+                     "name":  "Pensão Alimentícia",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010208",
+                     "name":  "Periculosidade/Insalubridade",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010209",
+                     "name":  "Aviso Prévio Indenizado",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010299",
+                     "name":  "(-) Anulação de Custos Mão de Obra",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20103",
+                     "name":  "OUTROS GASTOS COM MÃO DE OBRA PRÓPRIA",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010301",
+                     "name":  "Adiantamento e Vales",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010302",
+                     "name":  "Alimentação",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010303",
+                     "name":  "Transporte",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010216",
+                     "name":  "Assistência Médica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010218",
+                     "name":  "Seguros de Vida",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010306",
+                     "name":  "Assistência Médica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010219",
+                     "name":  "Medicina Ocupacional",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010308",
+                     "name":  "Seguros de Vida",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010309",
+                     "name":  "Uniformes e EPIs",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010310",
+                     "name":  "Medicina Ocupacional",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010311",
+                     "name":  "Custo de Rescisões",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20104",
+                     "name":  "VEÍCULOS E EQUIPAMENTOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010402",
+                     "name":  "Peças e Componentes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010403",
+                     "name":  "Manutenção Preventiva/Corretiva",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010404",
+                     "name":  "Abastecimento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010405",
+                     "name":  "Licenciamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010406",
+                     "name":  "Seguros Frota",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010407",
+                     "name":  "Pedágio/Estacionamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010408",
+                     "name":  "Locação de Veículo",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20105",
+                     "name":  "VIAGENS E DESLOCAMENTOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010501",
+                     "name":  "Passagens",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010502",
+                     "name":  "Hospedagem",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010503",
+                     "name":  "Diárias/Reembolsos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010504",
+                     "name":  "Traslados",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010601",
+                     "name":  "Aluguel do Escritório",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010602",
+                     "name":  "Condomínio",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010603",
+                     "name":  "Seguro Empresarial (Prédio)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010604",
+                     "name":  "Água e Esgoto",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010605",
+                     "name":  "Energia Elétrica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010606",
+                     "name":  "Gás",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010607",
+                     "name":  "Mudanças, Manutenção e Obras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010608",
+                     "name":  "Segurança",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20107",
+                     "name":  "ADMINISTRAÇÃO",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010701",
+                     "name":  "Material de Escritório",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010702",
+                     "name":  "Material de Copa e Limpeza",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010703",
+                     "name":  "Assinatura de Periódicos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010704",
+                     "name":  "Anúncios e Publicações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010705",
+                     "name":  "Despesas Postais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010706",
+                     "name":  "Móveis e Utensílios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010707",
+                     "name":  "Manutenção de Móveis e Utensílios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010708",
+                     "name":  "Despesas com Cartórios e Legalizações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010709",
+                     "name":  "Traslados e Deslocamentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010710",
+                     "name":  "Doações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010711",
+                     "name":  "Confraternização",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010712",
+                     "name":  "Fretes e Entrega",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20108",
+                     "name":  "INFORMÁTICA E TELECOMUNICAÇÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010801",
+                     "name":  "Telefonia Fixa",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010802",
+                     "name":  "Telefonia Móvel",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010803",
+                     "name":  "Provedores de Internet e TV por Assinatura",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010804",
+                     "name":  "Hardware (Computadores e Impressoras)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010805",
+                     "name":  "Licenças de Softwares",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010807",
+                     "name":  "Manutenção Mensal de Softwares",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20109",
+                     "name":  "SERVIÇOS ESPECIALIZADOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010901",
+                     "name":  "Assessoria Jurídica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010902",
+                     "name":  "Assessoria Contábil",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010903",
+                     "name":  "Assessoria em RH",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010904",
+                     "name":  "Consultoria em TI",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010905",
+                     "name":  "Assessoria de Qualidade",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010906",
+                     "name":  "Despachantes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20110",
+                     "name":  "COMERCIAIS / LICITAÇÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011001",
+                     "name":  "Assessoria de Marketing",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011002",
+                     "name":  "Assessoria de Imprensa",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011003",
+                     "name":  "Verba de Representação junto a Clientes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011004",
+                     "name":  "Mídia Impressa (Projetos, folders, etc.)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011005",
+                     "name":  "Brindes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011006",
+                     "name":  "Viagens",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011007",
+                     "name":  "Comissão de Venda",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "202",
+                     "name":  "DESPESAS DA SOCIEDADE",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20201",
+                     "name":  "RETIRADA DOS SÓCIOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020101",
+                     "name":  "Pró-Labore",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020102",
+                     "name":  "Gratificações",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020103",
+                     "name":  "Dividendos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020199",
+                     "name":  "(-) Reembolso Diversos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20202",
+                     "name":  "APORTE",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020201",
+                     "name":  "Aporte de Capital",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20203",
+                     "name":  "DISTRIBUIÇÃO DE LUCROS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020301",
+                     "name":  "Antecipação de Distribuição de Lucros",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "203",
+                     "name":  "DESEMBOLSOS NÃO OPERACIONAIS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20301",
+                     "name":  "DESPESAS FINANCEIRAS E BANCÁRIAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030101",
+                     "name":  "Tarifa de Manutenção de Conta Corrente",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030102",
+                     "name":  "Tarifas Diversas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030103",
+                     "name":  "Taxa de Aquisição de Crédito",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20302",
+                     "name":  "INVERSÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030201",
+                     "name":  "Aplicações Financeiras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030202",
+                     "name":  "Adiantamento a Fornecedores",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030299",
+                     "name":  "(-) Devolução de Adiantamento a Fornecedores",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20303",
+                     "name":  "VARIAÇÕES FINANCEIRAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030301",
+                     "name":  "Multas e Acréscimos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030302",
+                     "name":  "Descontos Cedidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030303",
+                     "name":  "Variações Monetárias Passivas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20304",
+                     "name":  "PAG DE EMPRÉSTIMOS E FINANCIAMENTOS E INVESTIMENTO",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030401",
+                     "name":  "Financiamento para Construção - Principal",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030402",
+                     "name":  "Financiamento de Capital de Giro - Principal",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030403",
+                     "name":  "Encargos Financeiros",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20305",
+                     "name":  "CONTENCIOSO",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030501",
+                     "name":  "Ações Trabalhistas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030502",
+                     "name":  "Ações Civis Diversas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "204",
+                     "name":  "DESPESAS TRIBUTÁRIAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20401",
+                     "name":  "IMPOSTOS DIRETOS A PAGAR",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040101",
+                     "name":  "PIS",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040102",
+                     "name":  "COFINS",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040103",
+                     "name":  "ISS",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040104",
+                     "name":  "IRPJ",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040105",
+                     "name":  "CSLL",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040106",
+                     "name":  "DAS (Simples)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20402",
+                     "name":  "TRIBUTOS E ENCARGOS DE FOLHA DE PGTO E TERCEIROS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040201",
+                     "name":  "INSS Funcionários",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040202",
+                     "name":  "INSS Patronal (Desoneração)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040203",
+                     "name":  "FGTS Empregados",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040204",
+                     "name":  "FGTS Rescisório",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040205",
+                     "name":  "IRRF Terceiros PF (0588)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040206",
+                     "name":  "IRRF Terceiros PJ (1708)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040207",
+                     "name":  "Contribuição Sindical Confederativa",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040208",
+                     "name":  "Contribuição Sindical Patronal",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040209",
+                     "name":  "Entidades/Conselhos de Classe (CREA, CRA, CAU)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20403",
+                     "name":  "IMPOSTOS DE TERCEIROS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040301",
+                     "name":  "ISS",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040302",
+                     "name":  "IRRF Terceiros PJ (1708)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040303",
+                     "name":  "PIS/COFINS/CSLL",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040304",
+                     "name":  "INSS Terceiros PF",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20404",
+                     "name":  "IMPOSTOS SOBRE PROPRIEDADES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040401",
+                     "name":  "IPTU",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040402",
+                     "name":  "ITBI",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040403",
+                     "name":  "IPVA",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040404",
+                     "name":  "Taxa de Incêndio",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040405",
+                     "name":  "Taxa de Recolhimento de Lixo",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040406",
+                     "name":  "Laudêmio",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040407",
+                     "name":  "Foro",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20405",
+                     "name":  "PARCELAMENTO DE IMPOSTOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040501",
+                     "name":  "Impostos Municipais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040502",
+                     "name":  "Impostos Estaduais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040503",
+                     "name":  "Impostos Federais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040504",
+                     "name":  "Contribuições Previdenciárias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20406",
+                     "name":  "OPERAÇÕES FINANCEIRAS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040601",
+                     "name":  "IOF",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20407",
+                     "name":  "AUTUAÇÕES E INFRAÇÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040701",
+                     "name":  "Multas e Correções por Atraso no Pagamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040702",
+                     "name":  "Autuações Fiscais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040703",
+                     "name":  "Infrações de Trânsito",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040704",
+                     "name":  "Infrações Ambientais (ruído, limpeza, licenças)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "209",
+                     "name":  "RETENÇÕES",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20901",
+                     "name":  "IMPOSTOS RETIDOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090101",
+                     "name":  "(-) PIS/COFINS/CSLL",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090102",
+                     "name":  "(-) PIS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090103",
+                     "name":  "(-) COFINS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090104",
+                     "name":  "(-) ISS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090105",
+                     "name":  "(-) IRRF PF",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090106",
+                     "name":  "(-) IRRF PJ",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090107",
+                     "name":  "(-) INSS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20902",
+                     "name":  "FORNECEDOR",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090201",
+                     "name":  "Caução de Serviços para Clientes",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090202",
+                     "name":  "Sinal pago a Fornecedores",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090203",
+                     "name":  "Retenção por Permutas",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010111",
+                     "name":  "Pagamento Diárias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019718",
+                     "name":  "Material de Expediente",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010409",
+                     "name":  "Taxas / Rastreadores",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019711",
+                     "name":  "Vidros e Esquadrias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010106",
+                     "name":  "Receitas de Contratos de Terceirização de MO",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010206",
+                     "name":  "(-) Impostos DNC",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2090108",
+                     "name":  "(-) CAUÇÃO / PERMUTA / SINAL",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010207",
+                     "name":  "(-) INSS",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010208",
+                     "name":  "(-) CSRF",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040107",
+                     "name":  "INSS Retido",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010209",
+                     "name":  "(-) IR",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040108",
+                     "name":  "IR",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019719",
+                     "name":  "EPI\u0027s e Fardamentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010112",
+                     "name":  "Provisão de Custos Trabalhistas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010113",
+                     "name":  "Custas Processuais / Processos Trabalhistas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030304",
+                     "name":  "Variação Negativa de Caixa",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030105",
+                     "name":  "Variação Financeira Positiva",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010114",
+                     "name":  "Seguros Garantia (Execução)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011008",
+                     "name":  "Seguros Garantia (Participação)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010115",
+                     "name":  "Alugueis de Residencia Ref Obra",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010505",
+                     "name":  "Refeições",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011009",
+                     "name":  "Despesas (Entrega/Recebimento Documentos)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010713",
+                     "name":  "Diversos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040210",
+                     "name":  "IRRF Sobre Folha de pagamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010215",
+                     "name":  "PLR (Participação nos lucros e Resultados)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010116",
+                     "name":  "Taxa de Administração",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010110",
+                     "name":  "(-) Taxa Interna de Retorno",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010111",
+                     "name":  "Receitas da Administração Proveniente de Obras - L",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010714",
+                     "name":  "Despesas com Aberturas Empresas / Aditivos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019725",
+                     "name":  "Agregados e Aglomerantes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010118",
+                     "name":  "Despesas com indenizações Equipamentos x Máquinas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010312",
+                     "name":  "Financiamento Capacitação (Estudos / Cursos)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "N",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011102",
+                     "name":  "Prestação de Serviços - Esquadrias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010506",
+                     "name":  "Consumo de Líquidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20111",
+                     "name":  "CONTRATO DE PRESTAÇÃO DE SERVIÇOS",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011101",
+                     "name":  "Prestação Man. Preventiva e Corretiva - subestação",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011103",
+                     "name":  "Prestação de Serviços - Empreitada em pavimentação",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011104",
+                     "name":  "Prestação de Serviços - Forro",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011105",
+                     "name":  "Prestação de Serviços - Diversos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011106",
+                     "name":  "Prestação de Serviços - Refrigeração",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011107",
+                     "name":  "Prestação de Serviços - Soldagem",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011108",
+                     "name":  "Prestação de Serviços - Impermeabilização",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011109",
+                     "name":  "Prestação de Serviços - Topografia",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019727",
+                     "name":  "Instalações de Esgoto",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011110",
+                     "name":  "Prestação de Serviços - Consultoria",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019728",
+                     "name":  "Placa de obra",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011111",
+                     "name":  "Prestação de Serviços - Orçamentista",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030404",
+                     "name":  "Investimentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020203",
+                     "name":  "Despesas Particulares Rafael",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040408",
+                     "name":  "Alvará de Funcionamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1020102",
+                     "name":  "Aporte de Terceiros",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011112",
+                     "name":  "Prestação de Serviços - Mão de Obra",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011113",
+                     "name":  "Prestação de Serviços - Em Eletricidade",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011114",
+                     "name":  "Prestação de Serviços - Em hidráulica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011115",
+                     "name":  "Prestação de Serviços - Estrutura Metálica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010211",
+                     "name":  "(-) Impostos Retidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "S",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011116",
+                     "name":  "Prestação de Serviços - Piso Industrial",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011117",
+                     "name":  "Prestação de Serviços - Rec de Resíduos Sólidos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011118",
+                     "name":  "Prestação de Serviços - Elaboração de Projeto",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011119",
+                     "name":  "Prestação de Serviços - Maquinas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010210",
+                     "name":  "Adiantamento e Vales",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010211",
+                     "name":  "Alimentação",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010212",
+                     "name":  "Transporte",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010214",
+                     "name":  "Estagiários",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010217",
+                     "name":  "Assistência Odontológica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019717",
+                     "name":  "Tubulações e Gazes",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019721",
+                     "name":  "Pequenas ferramentas e acessórios",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019722",
+                     "name":  "Acessórios de Montagem",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019723",
+                     "name":  "Materiais de consumo/Almoxarifado",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010220",
+                     "name":  "Custo de Rescisões",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010221",
+                     "name":  "Financiamento Capacitação (Estudos / Cursos)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010222",
+                     "name":  "FGTS Empregados",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010223",
+                     "name":  "FGTS Rescisório",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010224",
+                     "name":  "IRRF Sobre Folha de pagamento",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011120",
+                     "name":  "Prestação de Serviços - Engenharia",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040211",
+                     "name":  "CSRF Terceiros PJ (5952)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010225",
+                     "name":  "INSS Funcionários",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010410",
+                     "name":  "Seguro Maquinas e Equipamentos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010112",
+                     "name":  "Taxa Administrativa",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011121",
+                     "name":  "Prestação de Serviços - Cobertas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010113",
+                     "name":  "Receitas de Estrutura Metálica",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010212",
+                     "name":  "PIS S/FATURAMENTO",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010213",
+                     "name":  "COFINS S/FATURAMENTO",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010214",
+                     "name":  "CSLL S/FATURAMENTO",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011122",
+                     "name":  "Prestação de serviço - Serviços gerais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010119",
+                     "name":  "Repasse Parcerias",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019712",
+                     "name":  "Pintura",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "20106",
+                     "name":  "LOCALIZAÇÃO",
+                     "tpConta":  "T",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010609",
+                     "name":  "Realização de Eventos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010226",
+                     "name":  "Mensalidade Sindical",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040409",
+                     "name":  "Comissão / Corretagem",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010115",
+                     "name":  "Receita de Comissão / Corretagem",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040705",
+                     "name":  "Multa contratual (Penalidade)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2020202",
+                     "name":  "DEVOLUÇÃO",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1030101",
+                     "name":  "ESTORNOS DIVERSOS",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030104",
+                     "name":  "Juros / Perdas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010213",
+                     "name":  "Treinamentos/palestras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040212",
+                     "name":  "Programas (PGR, PCMSO E LTCAT)",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019726",
+                     "name":  "Urbanização e paisagismo",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019706",
+                     "name":  "Aços e Estruturas Metálicas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010806",
+                     "name":  "Equipamentos Eletrônicos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010401",
+                     "name":  "Máquinas, Equipamentos e Veículos",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "201019720",
+                     "name":  "Ferramentas Elétricas",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "1010114",
+                     "name":  "Outras receitas não operacionais",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2010715",
+                     "name":  "Perdas / Reparos obras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 }
+             ]
+}

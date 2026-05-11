@@ -1,0 +1,838 @@
+{
+  "sourceFile": "FC_Maio_Modelo.xlsx",
+  "sourcePath": "C:\\Users\\dinam\\Downloads\\FC_Maio_Modelo.xlsx",
+  "generatedAt": "2026-05-11T14:16:10",
+  "sheet": "FC_DINÂMICA",
+  "maxRow": 69,
+  "maxCol": 7,
+  "rows": [
+    {
+      "row": 1,
+      "values": [
+        "PROJEÇÃO MAIO",
+        "",
+        "",
+        "",
+        "",
+        "Nesta coluna traz os Centros de Custos",
+        ""
+      ]
+    },
+    {
+      "row": 2,
+      "values": [
+        "",
+        "Previsão",
+        "Previsão",
+        "Previsão",
+        "",
+        "Na segunda coluna seria o imput manual",
+        ""
+      ]
+    },
+    {
+      "row": 3,
+      "values": [
+        "",
+        "Mai",
+        "Mai",
+        "Mai",
+        "",
+        "A terceira coluna traz do Sienge (Realizado e a Relizar)",
+        ""
+      ]
+    },
+    {
+      "row": 4,
+      "values": [
+        "MEDIÇÕES (Execução)",
+        "0",
+        "253029.62",
+        "133135.7694",
+        "",
+        "este primeiro bloco (são entradas)",
+        ""
+      ]
+    },
+    {
+      "row": 5,
+      "values": [
+        "Previsão de recebimento",
+        "0",
+        "153029.62",
+        "133135.7694",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 6,
+      "values": [
+        "IFCE HORIZONTE",
+        "",
+        "153029.62",
+        "133135.7694",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 7,
+      "values": [
+        "IFCE CAUCAIA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 8,
+      "values": [
+        "IFCE  PARACURU",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 9,
+      "values": [
+        "IFCE TIANGUÁ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 10,
+      "values": [
+        "IFCE MORADA NOVA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 11,
+      "values": [
+        "IFCE CAMOCIM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 12,
+      "values": [
+        "IFCE UBAJARA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 13,
+      "values": [
+        "IFCE BATURITÉ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 14,
+      "values": [
+        "IFCE CASCAVEL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 15,
+      "values": [
+        "CAMPOS SALES",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 16,
+      "values": [
+        "VÁRZEA ALEGRE",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 17,
+      "values": [
+        "CAMOCIM (SUBESTAÇÃO)",
+        "0",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 18,
+      "values": [
+        "LIMOEIRO DO NORTE (SUBESTAÇÃO)",
+        "0",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 19,
+      "values": [
+        "CRATEÚS (SUBESTAÇÃO)",
+        "0",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 20,
+      "values": [
+        "ACOPIARA (SUBESTAÇÃO)",
+        "0",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 21,
+      "values": [
+        "TIANGUÁ (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 22,
+      "values": [
+        "UBAJARA (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 23,
+      "values": [
+        "BATURITE (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 24,
+      "values": [
+        "PARACURU (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 25,
+      "values": [
+        "CRATO (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 26,
+      "values": [
+        "MOMBAÇA (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 27,
+      "values": [
+        "GUARAMIRANGA (SUBESTAÇÃO)",
+        "0",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 28,
+      "values": [
+        "ITAPIPOCA (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 29,
+      "values": [
+        "SOBRAL (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 30,
+      "values": [
+        "TABULEIRO DO NORTE (SUBESTAÇÃO)",
+        "",
+        "0",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 31,
+      "values": [
+        "MARACANAÚ (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 32,
+      "values": [
+        "JUAZEIRO DO NORTE (SUBESTAÇÃO)",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 33,
+      "values": [
+        "Outros recebimentos",
+        "0",
+        "100000",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 34,
+      "values": [
+        "POCINHOS",
+        "",
+        "100000",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 35,
+      "values": [
+        "UNILAB",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 36,
+      "values": [
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 37,
+      "values": [
+        "SOBRAL",
+        "0",
+        "",
+        "",
+        "",
+        "Nesta coluna traz os Centros de Custos",
+        ""
+      ]
+    },
+    {
+      "row": 38,
+      "values": [
+        "SAÍDAS",
+        "0",
+        "-92643.7972",
+        "-29752.266499999998",
+        "",
+        "Na segunda coluna seria o imput manual",
+        ""
+      ]
+    },
+    {
+      "row": 39,
+      "values": [
+        "IFCE HORIZONTE",
+        "",
+        "-92643.7972",
+        "-29752.266499999998",
+        "",
+        "A terceira coluna traz do Sienge (Realizado e a Relizar)",
+        ""
+      ]
+    },
+    {
+      "row": 40,
+      "values": [
+        "IFCE CAUCAIA",
+        "",
+        "",
+        "",
+        "",
+        "este primeiro bloco (são entradas)",
+        ""
+      ]
+    },
+    {
+      "row": 41,
+      "values": [
+        "IFCE  PARACURU",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 42,
+      "values": [
+        "IFCE TIANGUÁ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 43,
+      "values": [
+        "IFCE MORADA NOVA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 44,
+      "values": [
+        "IFCE CAMOCIM",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 45,
+      "values": [
+        "IFCE UBAJARA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 46,
+      "values": [
+        "IFCE BATURITÉ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 47,
+      "values": [
+        "IFCE CASCAVEL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 48,
+      "values": [
+        "IFCE CAMPOS SALES",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 49,
+      "values": [
+        "VÁRZEA ALEGRE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 50,
+      "values": [
+        "POCINHOS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 51,
+      "values": [
+        "UNILAB",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 52,
+      "values": [
+        "Demais Desembolsos",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 53,
+      "values": [
+        "Brasil Steel",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 54,
+      "values": [
+        "Loc. Veículos",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 55,
+      "values": [
+        "Água/Energia",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 56,
+      "values": [
+        "Materiais",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 57,
+      "values": [
+        "Prestador de Serviço",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 58,
+      "values": [
+        "Folha de pagamento",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 59,
+      "values": [
+        "Benefícios/VA/VR",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 60,
+      "values": [
+        "Impostos",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 61,
+      "values": [
+        "FGTS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 62,
+      "values": [
+        "Fopag Rescisão",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 63,
+      "values": [
+        "Empréstimos bancários",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 64,
+      "values": [
+        "Outros pagamentos",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 65,
+      "values": [
+        "1 (ENTRADAS - SAÍDAS)",
+        "0",
+        "160385.8228",
+        "103383.50289999999",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 66,
+      "values": [
+        "2 SALDO ANTERIOR",
+        "0",
+        "#REF!",
+        "#REF!",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 67,
+      "values": [
+        "3 SALDO ACUMULADO (1 + 2 )",
+        "0",
+        "#REF!",
+        "#REF!",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 68,
+      "values": [
+        "4 NECESSIDADE CAPTAÇÃO",
+        "0,00",
+        "#REF!",
+        "#REF!",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "row": 69,
+      "values": [
+        "5 SALDO FINAL (3 + 4)",
+        "0",
+        "#REF!",
+        "#REF!",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Financeiro — DRE</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="dre">
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div>
+          <h1>Dinâmica • Financeiro</h1>
+          <small>Protótipo em HTML</small>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="Navegação">
+        <a data-nav="visao-geral" href="index.html">Visão geral</a>
+        <a data-nav="dre" href="dre.html">DRE</a>
+        <a data-nav="fluxo-analitico" href="fluxo_analitico.html">Fluxo analítico</a>
+        <a data-nav="previsao-maio" href="previsao_maio.html">Previsão</a>
+        <a data-nav="faturamento-geral" href="faturamento_geral.html">Faturamento geral</a>
+        <a data-nav="relatorio-faturamento" href="relatorio_faturamento.html">Relatório de faturamento</a>
+        <a data-nav="referencias" href="referencias.html">Modelo FC</a>
+        <a data-nav="financeiro-obras" href="financeiro_obras.html">Financeiro de obras</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="title">
+          <h2>DRE</h2>
+          <p>Painel executivo com realizado x previsto e cenários (inputs da previsão).</p>
+        </div>
+        <div class="controls dre-top-controls">
+          <div class="dre-pickers" aria-label="Período rápido">
+            <div class="dre-picker">
+              <div class="dre-picker-title">Trimestre</div>
+              <div id="dreTrimestres" class="dre-chip-row"></div>
+            </div>
+            <div class="dre-picker">
+              <div class="dre-picker-title">Mês</div>
+              <div id="dreMeses" class="dre-chip-row"></div>
+            </div>
+          </div>
+
+          <div class="dre-actions">
+            <button class="button" type="button" onclick="document.getElementById('filterApply')?.click()">Visualizar</button>
+            <button class="button" type="button" onclick="window.print()">Imprimir</button>
+          </div>
+        </div>
+      </header>
+
+      <section class="card span-12" aria-label="Filtros">
+        <div class="section-title">
+          <div>
+            <h3>Filtros</h3>
+            <div class="sub">Empresa/centro/obra/conta, pessoas e datas aplicados na DRE.</div>
+          </div>
+          <div class="mini-actions">
+            <button class="button ghost" id="filterYear" type="button">Ano atual</button>
+            <button class="button ghost" id="filterMonth" type="button">Mês atual</button>
+          </div>
+        </div>
+
+        <form class="form filters-form" id="filtersForm" onsubmit="event.preventDefault();">
+          <div class="field">
+            <label for="filterEmpresa">Empresa</label>
+            <select id="filterEmpresa"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCentroCusto">Centro de custo</label>
+            <select id="filterCentroCusto"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterObra">Obra</label>
+            <select id="filterObra"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterConta">Conta corrente</label>
+            <select id="filterConta"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCliente">Cliente</label>
+            <select id="filterCliente"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterFornecedor">Fornecedor</label>
+            <select id="filterFornecedor"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterTipoAnalise">Tipo de análise</label>
+            <select id="filterTipoAnalise">
+              <option value="todos">Todos</option>
+              <option value="realizado">Realizado</option>
+              <option value="comprometido">Comprometido</option>
+              <option value="a_realizar">A realizar</option>
+              <option value="entradas">Somente entradas</option>
+              <option value="saidas">Somente saídas</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="filterInicio">Período inicial</label>
+            <input id="filterInicio" type="date" />
+          </div>
+
+          <div class="field">
+            <label for="filterFim">Período final</label>
+            <input id="filterFim" type="date" />
+          </div>
+
+          <div class="field wide">
+            <label for="filterBusca">Busca</label>
+            <input id="filterBusca" type="search" placeholder="Documento, observação, cliente, fornecedor..." />
+          </div>
+
+          <div class="actions">
+            <button class="button" id="filterClear" type="button">Limpar</button>
+            <button class="button primary" id="filterApply" type="button">Aplicar filtros</button>
+          </div>
+        </form>
+
+        <div id="activeFilters" class="active-filters"></div>
+      </section>
+
+      <section class="grid" aria-label="Resumo executivo">
+        <div class="card span-12">
+          <div class="section-title" style="margin-bottom:10px">
+            <div>
+              <h3>Painel executivo financeiro</h3>
+              <div class="sub">Base Sienge (tratado) • período: <strong id="drePeriodo">-</strong></div>
+            </div>
+            <div class="mini-actions" id="dreMeta"></div>
+          </div>
+
+          <div class="grid" style="gap:12px">
+            <div class="card kpi">
+              <h3>Saldo bancário</h3>
+              <div class="value" id="kpiDreSaldo">-</div>
+              <div class="sub">Conciliado: <strong id="kpiDreSaldoConc">-</strong></div>
+            </div>
+            <div class="card kpi">
+              <h3>Entradas</h3>
+              <div class="value income-text" id="kpiDreEntradas">-</div>
+              <div class="sub">Movimentos filtrados</div>
+            </div>
+            <div class="card kpi">
+              <h3>Saídas</h3>
+              <div class="value expense-text" id="kpiDreSaidas">-</div>
+              <div class="sub">Movimentos filtrados</div>
+            </div>
+            <div class="card kpi">
+              <h3>Fluxo líquido</h3>
+              <div class="value" id="kpiDreFluxo">-</div>
+              <div class="sub">Entradas − saídas</div>
+            </div>
+            <div class="card kpi">
+              <h3>Fluxo previsto</h3>
+              <div class="value" id="kpiDreFluxoPrev">-</div>
+              <div class="sub">A receber − a pagar</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="grid" aria-label="Indicadores operacionais">
+        <div class="card kpi">
+          <h3>A receber aberto</h3>
+          <div class="value income-text" id="dreReceber">-</div>
+          <div class="sub">Títulos sem baixa no período</div>
+        </div>
+
+        <div class="card kpi">
+          <h3>A pagar / comprometido</h3>
+          <div class="value expense-text" id="drePagar">-</div>
+          <div class="sub">Despesas no período</div>
+        </div>
+
+        <div class="card kpi">
+          <h3>Necessidade de captação</h3>
+          <div class="value expense-text" id="dreCap">-</div>
+          <div class="sub">Saldo final: <strong id="dreSaldoFinal">-</strong></div>
+        </div>
+
+        <div class="card kpi">
+          <h3>Margem de caixa</h3>
+          <div class="value" id="dreMargem">-</div>
+          <div class="sub">Saldo acumulado: <strong id="dreSaldoAcum">-</strong></div>
+        </div>
+      </section>
+
+      <section class="grid" aria-label="Cenários">
+        <div class="card span-4">
+          <h3>Cenário 1</h3>
+          <div class="value" id="dreCenario1">-</div>
+          <div class="sub">Fluxo previsto + ajuste 1: <strong id="dreInput1">-</strong></div>
+        </div>
+        <div class="card span-4">
+          <h3>Cenário 2</h3>
+          <div class="value" id="dreCenario2">-</div>
+          <div class="sub">Fluxo previsto + ajuste 2: <strong id="dreInput2">-</strong></div>
+        </div>
+        <div class="card span-4">
+          <h3>Cenário 3</h3>
+          <div class="value" id="dreCenario3">-</div>
+          <div class="sub">Fluxo previsto + ajuste 3: <strong id="dreInput3">-</strong></div>
+        </div>
+      </section>
+
+      <section class="card span-12" aria-label="Tabela DRE">
+        <h3>Realizado x Previsto</h3>
+        <div class="sub">Linhas calculadas com base no Sienge tratado (movimentos, a receber, a pagar e saldo).</div>
+
+        <div style="margin-top:12px; overflow:auto">
+          <table class="table" id="tblDreLinhas">
+            <thead>
+              <tr>
+                <th>Descrição</th>
+                <th style="text-align:right">Realizado</th>
+                <th style="text-align:right">AV %</th>
+                <th style="text-align:right">Previsto / Sienge</th>
+                <th style="text-align:right">Var %</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

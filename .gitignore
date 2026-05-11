@@ -1,0 +1,15 @@
+# Logs/temporarios
+web_server.*.log
+*.log
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Credenciais locais (se voce criar algum arquivo assim no futuro)
+.env
+.env.*
+*.local.json

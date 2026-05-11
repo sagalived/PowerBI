@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Financeiro — Financeiro de obras</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="financeiro-obras">
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div>
+          <h1>Dinâmica • Financeiro</h1>
+          <small>Protótipo em HTML</small>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="Navegação">
+        <a data-nav="visao-geral" href="index.html">Visão geral</a>
+        <a data-nav="dre" href="dre.html">DRE</a>
+        <a data-nav="fluxo-analitico" href="fluxo_analitico.html">Fluxo analítico</a>
+        <a data-nav="previsao-maio" href="previsao_maio.html">Previsão</a>
+        <a data-nav="faturamento-geral" href="faturamento_geral.html">Faturamento geral</a>
+        <a data-nav="relatorio-faturamento" href="relatorio_faturamento.html">Relatório de faturamento</a>
+        <a data-nav="referencias" href="referencias.html">Modelo FC</a>
+        <a data-nav="financeiro-obras" href="financeiro_obras.html">Financeiro de obras</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="title">
+          <h2>Financeiro de obras</h2>
+          <p>Print com filtros reais (Sienge tratado).</p>
+        </div>
+        <div class="controls">
+          <button class="button" type="button" onclick="document.getElementById('filterApply')?.click()">Visualizar</button>
+          <button class="button" type="button" onclick="window.print()">Imprimir</button>
+        </div>
+      </header>
+
+      <section class="card span-12">
+        <div class="section-title">
+          <div>
+            <h3>Filtros</h3>
+            <div class="sub">Empresa/centro/obra e datas aplicados na análise.</div>
+          </div>
+          <div class="mini-actions">
+            <button class="button ghost" id="filterYear" type="button">Ano atual</button>
+            <button class="button ghost" id="filterMonth" type="button">Mês atual</button>
+          </div>
+        </div>
+
+        <form class="form filters-form" id="filtersForm" onsubmit="event.preventDefault();">
+          <div class="field">
+            <label for="filterEmpresa">Empresa</label>
+            <select id="filterEmpresa"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCentroCusto">Centro de custo</label>
+            <select id="filterCentroCusto"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterObra">Obra</label>
+            <select id="filterObra"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterConta">Conta</label>
+            <select id="filterConta"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterInicio">Período inicial</label>
+            <input id="filterInicio" type="date" />
+          </div>
+
+          <div class="field">
+            <label for="filterFim">Período final</label>
+            <input id="filterFim" type="date" />
+          </div>
+
+          <div class="field wide">
+            <label for="filterBusca">Busca</label>
+            <input id="filterBusca" type="search" placeholder="Documento, observação, cliente, fornecedor..." />
+          </div>
+
+          <div class="actions">
+            <button class="button" id="filterClear" type="button">Limpar</button>
+            <button class="button primary" id="filterApply" type="button">Aplicar filtros</button>
+          </div>
+        </form>
+
+        <div id="activeFilters" class="active-filters"></div>
+      </section>
+
+      <section class="card span-12">
+        <h3>Resumo</h3>
+        <div class="sub">Consolidado de movimentos filtrados.</div>
+
+        <canvas id="chartObrasResumo" class="chart" height="140" aria-label="Gráfico resumo" role="img"></canvas>
+
+        <div class="kpi-grid" style="margin-top:12px">
+          <div class="kpi"><div class="k">Entradas</div><div class="v" id="kpiObrasEntradas">-</div></div>
+          <div class="kpi"><div class="k">Saídas</div><div class="v" id="kpiObrasSaidas">-</div></div>
+          <div class="kpi"><div class="k">Líquido</div><div class="v" id="kpiObrasLiquido">-</div></div>
+          <div class="kpi"><div class="k">Movimentos</div><div class="v" id="kpiObrasMovimentos">-</div></div>
+        </div>
+      </section>
+
+      <section class="card span-12">
+        <h3>Movimentos por obra</h3>
+        <div class="sub">Top por impacto (líquido). Quando não há mapeamento de centro → obra, fica em “Sem obra mapeada”.</div>
+
+        <div style="margin-top:12px; overflow:auto">
+          <table class="table" id="tblFinanceiroObras">
+            <thead>
+              <tr>
+                <th>Obra</th>
+                <th style="text-align:right">Entradas</th>
+                <th style="text-align:right">Saídas</th>
+                <th style="text-align:right">Líquido</th>
+                <th style="text-align:right">Movimentos</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

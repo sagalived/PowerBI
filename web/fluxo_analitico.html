@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Financeiro - Fluxo analítico</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="fluxo-analitico">
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div>
+          <h1>Dinâmica • Financeiro</h1>
+          <small>Dados Sienge tratados</small>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="Navegação">
+        <a data-nav="visao-geral" href="index.html">Visão geral</a>
+        <a data-nav="dre" href="dre.html">DRE</a>
+        <a data-nav="fluxo-analitico" href="fluxo_analitico.html">Fluxo analítico</a>
+        <a data-nav="previsao-maio" href="previsao_maio.html">Previsão</a>
+        <a data-nav="faturamento-geral" href="faturamento_geral.html">Faturamento geral</a>
+        <a data-nav="relatorio-faturamento" href="relatorio_faturamento.html">Relatório de faturamento</a>
+        <a data-nav="referencias" href="referencias.html">Modelo FC</a>
+        <a data-nav="financeiro-obras" href="financeiro_obras.html">Financeiro de obras</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="title">
+          <h2>Fluxo de caixa analítico</h2>
+          <p>Entradas, saídas, comprometido e a realizar com filtros funcionais.</p>
+        </div>
+        <div class="controls">
+          <div class="pill">Período: <strong id="periodoLabel">-</strong></div>
+          <div class="pill">Registros: <strong id="qtdRegistros">-</strong></div>
+          <button class="button" type="button" onclick="window.print()">Imprimir</button>
+        </div>
+      </header>
+
+      <section class="card span-12" aria-label="Filtros">
+        <div class="section-title">
+          <div>
+            <h3>Filtros</h3>
+            <div class="sub">Os mesmos filtros são aplicados aos KPIs, gráficos, tabela e exportação.</div>
+          </div>
+          <div class="mini-actions">
+            <button class="button ghost" id="filterYear" type="button">Ano atual</button>
+            <button class="button ghost" id="filterMonth" type="button">Mês atual</button>
+          </div>
+        </div>
+
+        <form class="form filters-form" id="filtersForm" onsubmit="event.preventDefault();">
+          <div class="field">
+            <label for="filterEmpresa">Empresa</label>
+            <select id="filterEmpresa"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCentroCusto">Centro de custo</label>
+            <select id="filterCentroCusto"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterObra">Obra</label>
+            <select id="filterObra"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterConta">Conta corrente</label>
+            <select id="filterConta"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterCliente">Cliente</label>
+            <select id="filterCliente"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterFornecedor">Fornecedor</label>
+            <select id="filterFornecedor"></select>
+          </div>
+
+          <div class="field">
+            <label for="filterTipoAnalise">Tipo de análise</label>
+            <select id="filterTipoAnalise">
+              <option value="todos">Todos</option>
+              <option value="realizado">Realizado</option>
+              <option value="comprometido">Comprometido</option>
+              <option value="a_realizar">A realizar</option>
+              <option value="entradas">Somente entradas</option>
+              <option value="saidas">Somente saídas</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="filterInicio">Período inicial</label>
+            <input id="filterInicio" type="date" />
+          </div>
+
+          <div class="field">
+            <label for="filterFim">Período final</label>
+            <input id="filterFim" type="date" />
+          </div>
+
+          <div class="field wide">
+            <label for="filterBusca">Busca</label>
+            <input id="filterBusca" type="search" placeholder="Documento, observação, cliente, fornecedor..." />
+          </div>
+
+          <div class="actions">
+            <button class="button" id="filterClear" type="button">Limpar</button>
+            <button class="button" id="filterExport" type="button">Exportar CSV</button>
+            <button class="button primary" id="filterApply" type="button">Aplicar filtros</button>
+          </div>
+        </form>
+
+        <div id="activeFilters" class="active-filters"></div>
+      </section>
+
+      <section class="grid" aria-label="Resumo">
+        <div class="card kpi">
+          <h3>Entradas</h3>
+          <div class="value income-text" id="kpiEntradas">-</div>
+          <div class="sub">Movimentações de entrada</div>
+        </div>
+        <div class="card kpi">
+          <h3>Saídas</h3>
+          <div class="value expense-text" id="kpiSaidas">-</div>
+          <div class="sub">Movimentações de saída</div>
+        </div>
+        <div class="card kpi">
+          <h3>Saldo líquido</h3>
+          <div class="value" id="kpiLiquido">-</div>
+          <div class="sub">Entradas - saídas</div>
+        </div>
+        <div class="card kpi">
+          <h3>Origens distintas</h3>
+          <div class="value" id="kpiOrigens">-</div>
+          <div class="sub">Origem do movimento</div>
+        </div>
+      </section>
+
+      <section class="grid" aria-label="Análises">
+        <div class="card span-7">
+          <h3>Entradas x saídas por dia</h3>
+          <div class="sub">Gráfico de colunas conforme filtros.</div>
+          <div class="chart-wrap"><canvas class="chart" id="chartDailyBars"></canvas></div>
+        </div>
+
+        <div class="card span-5">
+          <h3>Medidor do saldo líquido</h3>
+          <div class="sub">Escala ajustada aos valores filtrados.</div>
+          <div class="gauge" id="gaugeLiquido"></div>
+        </div>
+
+        <div class="card span-12">
+          <h3>Saldo acumulado</h3>
+          <div class="sub">Linha acumulada das movimentações realizadas.</div>
+          <div class="chart-wrap"><canvas class="chart" id="chartCumulative"></canvas></div>
+        </div>
+      </section>
+
+      <div id="errorBox" class="card" style="display:none; border-color:#5b2d2d"></div>
+
+      <section class="card span-12">
+        <h3>Fluxo analítico</h3>
+        <div id="limitNote" class="sub" style="margin-top:6px"></div>
+
+        <div style="margin-top:12px; overflow:auto">
+          <table class="table" id="tblFluxoAnalitico">
+            <thead>
+              <tr>
+                <th>Data</th>
+                <th>Tipo</th>
+                <th>Documento</th>
+                <th>Origem</th>
+                <th>Cliente/Fornecedor</th>
+                <th>Observação</th>
+                <th style="text-align:right">Entradas</th>
+                <th style="text-align:right">Saídas</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+:root{
+  --bg:#0b1220;
+  --panel:#0f1930;
+  --card:#101a2f;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --border:rgba(255,255,255,.10);
+  --good:#22c55e;
+  --bad:#ef4444;
+  --warn:#f59e0b;
+  --info:#38bdf8;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family:Segoe UI, Arial, sans-serif;
+  background:linear-gradient(180deg, #070b14 0%, var(--bg) 70%);
+  color:var(--text);
+}
+
+.container{max-width:1100px;margin:0 auto;padding:18px}
+
+.topbar{
+  display:flex;align-items:flex-start;justify-content:space-between;
+  gap:14px;flex-wrap:wrap;
+  padding:14px 14px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:rgba(16,26,47,.65);
+  backdrop-filter: blur(6px);
+}
+
+.kicker{color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-size:12px}
+.title{font-size:22px;font-weight:800;margin-top:4px;line-height:1.2}
+.sub{color:var(--muted);font-size:12px;margin-top:8px}
+
+.nav{
+  display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end
+}
+.nav a{
+  text-decoration:none;color:var(--text);
+  border:1px solid var(--border);
+  background:rgba(17,26,46,.75);
+  padding:8px 10px;border-radius:10px;
+  font-size:12px;font-weight:600;
+}
+.nav a.active{border-color:rgba(56,189,248,.6)}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(12, 1fr);
+  gap:10px;
+  margin-top:12px;
+}
+
+.card{
+  border:1px solid var(--border);
+  background:rgba(16,26,47,.88);
+  border-radius:14px;
+  padding:12px;
+}
+
+.kpi{grid-column:span 4}
+@media (max-width: 900px){.kpi{grid-column:span 6}}
+@media (max-width: 640px){.kpi{grid-column:span 12}}
+
+.label{font-size:12px;color:var(--muted)}
+.value{font-size:22px;font-weight:900;margin-top:6px}
+.meta{font-size:12px;color:var(--muted);margin-top:8px}
+.meta b{color:var(--text)}
+
+.good{color:var(--good)}
+.bad{color:var(--bad)}
+.warn{color:var(--warn)}
+.info{color:var(--info)}
+
+.section{grid-column:span 12}
+
+.table{
+  width:100%;border-collapse:separate;border-spacing:0;
+  overflow:hidden;border-radius:12px;
+}
+.table th,.table td{
+  border-bottom:1px solid var(--border);
+  padding:10px 10px;
+  font-size:12px;
+}
+.table th{color:var(--muted);text-align:left;font-weight:700}
+.table td:last-child,.table th:last-child{text-align:right}
+.table tr:last-child td{border-bottom:none}
+
+.footer{
+  margin-top:12px;
+  color:var(--muted);
+  font-size:12px;
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  flex-wrap:wrap;
+  padding-top:10px;
+  border-top:1px solid var(--border);
+}

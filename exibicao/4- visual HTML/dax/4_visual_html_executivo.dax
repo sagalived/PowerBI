@@ -1,0 +1,97 @@
+-- Medida DAX (string HTML) para visual HTML Content
+-- Nome sugerido: HTML Executivo (Executivo)
+
+HTML Executivo (Executivo) =
+VAR __bg = "#0b1220"
+VAR __card = "#101a2f"
+VAR __text = "#e5e7eb"
+VAR __muted = "#9ca3af"
+VAR __border = "rgba(255,255,255,.08)"
+VAR __good = "#22c55e"
+VAR __bad = "#ef4444"
+VAR __info = "#38bdf8"
+
+VAR __dtIni = MIN ( calendario_db[Data] )
+VAR __dtFim = MAX ( calendario_db[Data] )
+VAR __periodo =
+    IF (
+        NOT ISBLANK ( __dtIni ) && NOT ISBLANK ( __dtFim ),
+        FORMAT ( __dtIni, "dd/MM/yyyy" ) & " — " & FORMAT ( __dtFim, "dd/MM/yyyy" ),
+        ""
+    )
+
+VAR __saldoBancario = [Saldo Bancário]
+VAR __saldoConciliado = [Saldo Bancário Conciliado]
+VAR __entradas = [Entradas Totais]
+VAR __saidas = [Saídas Totais]
+VAR __fluxo = [Fluxo Líquido]
+VAR __saldoAcum = [Saldo Acumulado]
+VAR __aReceberAberto = [Total a Receber Aberto]
+VAR __aPagar = [Total a Pagar]
+VAR __margem = [Margem de Caixa]
+VAR __qtdMov = [Quantidade de Movimentações]
+
+VAR __saldoBancarioFmt = IF ( ISBLANK ( __saldoBancario ), "—", FORMAT ( __saldoBancario, "R$ #,0.00" ) )
+VAR __saldoConciliadoFmt = IF ( ISBLANK ( __saldoConciliado ), "—", FORMAT ( __saldoConciliado, "R$ #,0.00" ) )
+VAR __entradasFmt = IF ( ISBLANK ( __entradas ), "—", FORMAT ( __entradas, "R$ #,0.00" ) )
+VAR __saidasFmt = IF ( ISBLANK ( __saidas ), "—", FORMAT ( __saidas, "R$ #,0.00" ) )
+VAR __fluxoFmt = IF ( ISBLANK ( __fluxo ), "—", FORMAT ( __fluxo, "R$ #,0.00" ) )
+VAR __saldoAcumFmt = IF ( ISBLANK ( __saldoAcum ), "—", FORMAT ( __saldoAcum, "R$ #,0.00" ) )
+VAR __aReceberAbertoFmt = IF ( ISBLANK ( __aReceberAberto ), "—", FORMAT ( __aReceberAberto, "R$ #,0.00" ) )
+VAR __aPagarFmt = IF ( ISBLANK ( __aPagar ), "—", FORMAT ( __aPagar, "R$ #,0.00" ) )
+VAR __margemFmt = IF ( ISBLANK ( __margem ), "—", FORMAT ( __margem, "0.0%" ) )
+VAR __qtdMovFmt = IF ( ISBLANK ( __qtdMov ), "—", FORMAT ( __qtdMov, "#,0" ) )
+
+VAR __fluxoColor = IF ( __fluxo >= 0, __good, __bad )
+
+RETURN
+    "<div style='font-family:Segoe UI,Arial,sans-serif;background:" & __bg & ";color:" & __text & ";padding:14px;border-radius:12px;border:1px solid " & __border & ";'>" &
+        "<div style='display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:flex-start;'>" &
+            "<div>" &
+                "<div style='font-size:12px;color:" & __muted & ";letter-spacing:.08em;text-transform:uppercase;'>Financeiro</div>" &
+                "<div style='font-size:20px;font-weight:800;margin-top:4px;'>Visão Executiva</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Período: <b style='color:" & __text & ";'>" & __periodo & "</b></div>" &
+            "</div>" &
+            "<div style='text-align:right;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Movimentações</div>" &
+                "<div style='font-size:18px;font-weight:800;margin-top:4px;color:" & __info & ";'>" & __qtdMovFmt & "</div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='display:flex;flex-wrap:wrap;gap:10px;margin-top:12px;'>" &
+            "<div style='flex:1 1 220px;min-width:220px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Saldo bancário</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __saldoBancarioFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Conciliado: <b style='color:" & __text & ";'>" & __saldoConciliadoFmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 220px;min-width:220px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Entradas (total)</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __entradasFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>A receber (aberto): <b style='color:" & __text & ";'>" & __aReceberAbertoFmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 220px;min-width:220px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Saídas (total)</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;'>" & __saidasFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>A pagar: <b style='color:" & __text & ";'>" & __aPagarFmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 220px;min-width:220px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Fluxo líquido</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;color:" & __fluxoColor & ";'>" & __fluxoFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Saldo acumulado: <b style='color:" & __text & ";'>" & __saldoAcumFmt & "</b></div>" &
+            "</div>" &
+
+            "<div style='flex:1 1 220px;min-width:220px;background:" & __card & ";border:1px solid " & __border & ";border-radius:12px;padding:12px;'>" &
+                "<div style='font-size:12px;color:" & __muted & ";'>Margem de caixa</div>" &
+                "<div style='font-size:20px;font-weight:900;margin-top:6px;color:" & __info & ";'>" & __margemFmt & "</div>" &
+                "<div style='font-size:12px;color:" & __muted & ";margin-top:8px;'>Leitura executiva do período filtrado</div>" &
+            "</div>" &
+        "</div>" &
+
+        "<div style='margin-top:12px;padding-top:10px;border-top:1px solid " & __border & ";display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;color:" & __muted & ";font-size:12px;'>" &
+            "<div>Dica: use filtros (Empresa/Obra/Data) para refinar.</div>" &
+            "<div>Página: Executivo</div>" &
+        "</div>" &
+    "</div>"

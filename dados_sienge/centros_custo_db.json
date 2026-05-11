@@ -1,0 +1,2086 @@
+{
+    "data":  [
+                 {
+                     "id":  90001,
+                     "name":  "ESCRITORIO BRASIL STEEL",
+                     "cnpj":  "",
+                     "idCompany":  9
+                 },
+                 {
+                     "id":  80011,
+                     "name":  "CENTRO DE GESTÃO INTEGRADA - CGI MUNICIPIO DE TAUA",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80010,
+                     "name":  "OBRA UBAJARA",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80009,
+                     "name":  "OBRA IFCE TIANGUÁ",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80008,
+                     "name":  "OBRA IFCE CAMOCIM",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80007,
+                     "name":  "OBRA IFCE BATURITE",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80006,
+                     "name":  "OBRA IFCE MORADA NOVA",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80005,
+                     "name":  "OBRA IFCE PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80004,
+                     "name":  "OBRA IFCE HORIZONTE",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80003,
+                     "name":  "OBRA IFCE CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80002,
+                     "name":  "OBRA GENESIS",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  80001,
+                     "name":  "ESCRITÓRIO SMN",
+                     "cnpj":  "",
+                     "idCompany":  8
+                 },
+                 {
+                     "id":  70003,
+                     "name":  "CONDOMINIO GENESIS",
+                     "cnpj":  "",
+                     "idCompany":  7
+                 },
+                 {
+                     "id":  70002,
+                     "name":  "CONDOMINIO RESIDENCIAL EM AQUIRAZ DE 152 UNIDADES CASAS - GENESIS",
+                     "cnpj":  "",
+                     "idCompany":  7
+                 },
+                 {
+                     "id":  70001,
+                     "name":  "ESCRITORIO GENESIS EMPREENDIMENTOS SPE LTDA",
+                     "cnpj":  "",
+                     "idCompany":  7
+                 },
+                 {
+                     "id":  60006,
+                     "name":  "CASAS DUPLEX DE 132,00 M² - TAPUIO",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  60005,
+                     "name":  "VILLA SANTORINI",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  60004,
+                     "name":  "BRASILIDADE URBANISMO - LARGO DOS VENTOS",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  60003,
+                     "name":  "CASACOR - LOFT",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  60002,
+                     "name":  "CASACOR - BANGALÔ REFÚGIO ",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  60001,
+                     "name":  "ESCRITORIO AGORA NEGOCIOS IMOBILIARIOS E PARTICIPACOES LTDA",
+                     "cnpj":  "",
+                     "idCompany":  6
+                 },
+                 {
+                     "id":  50001,
+                     "name":  "ESCRITORIO POTENCIAL",
+                     "cnpj":  "",
+                     "idCompany":  5
+                 },
+                 {
+                     "id":  40001,
+                     "name":  "ESCRITORIO THEOROS",
+                     "cnpj":  "",
+                     "idCompany":  4
+                 },
+                 {
+                     "id":  30023,
+                     "name":  "CONSTRUÇÃO DE BLOCO DE 04 SALAS DE AULA NA REITORIA - STEEL FRAME - POLYSTEEL",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30022,
+                     "name":  "XINGUM AÇAITERIA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30021,
+                     "name":  "ALMOXARIFADO POLYSTEEL ",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30020,
+                     "name":  "CENTRO DE EDUCAÇÃO INFANTIL - CEI IV - CASCAVEL - POLYSTEEL",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30019,
+                     "name":  "URBANIZAÇÃO CAMPUS UNILAB - POLYSTEEL",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30018,
+                     "name":  "CONDOMINIO GRAN TERAZZO",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30017,
+                     "name":  "CHESS CONSTRUÇÕES LTDA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30016,
+                     "name":  "GALPÃO INDUSTRIAL - NP\u0026P ",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30015,
+                     "name":  "ESTRUTURA METÁLICA - SOLONÓPOLE",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30014,
+                     "name":  "COBERTA METALICA - MADALENA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30013,
+                     "name":  "MARQUISE - UMIRIM",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30012,
+                     "name":  "ESTRUTURA STEEL FRAME - BAHIA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30011,
+                     "name":  "SHOPPING MALL EUSEBIO",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30010,
+                     "name":  "UFC",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30009,
+                     "name":  "STEEL FRAME UBAJARA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30008,
+                     "name":  "STEEL FRAME MARACANAU",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30007,
+                     "name":  "STEEL FRAME MORADA NOVA",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30006,
+                     "name":  "STEEL FRAME TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30005,
+                     "name":  "STEEL FRAME CAMOCIM",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30004,
+                     "name":  "STEEL FRAME CRATEUS",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30003,
+                     "name":  "OBRAS PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30002,
+                     "name":  "OBRAS PARCERIA POLY STEEL",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  30001,
+                     "name":  "ESCRITORIO POLY STEEL",
+                     "cnpj":  "",
+                     "idCompany":  3
+                 },
+                 {
+                     "id":  20004,
+                     "name":  "CASA BOULEVARD ",
+                     "cnpj":  "",
+                     "idCompany":  2
+                 },
+                 {
+                     "id":  20003,
+                     "name":  "REFORMA SALA - IFCE MARACANAÚ",
+                     "cnpj":  "",
+                     "idCompany":  2
+                 },
+                 {
+                     "id":  20002,
+                     "name":  "GESTÃO CONTRATOS INSTITUTO CENTRAL DAS CRECHES COMUNITARIAS",
+                     "cnpj":  "",
+                     "idCompany":  2
+                 },
+                 {
+                     "id":  20001,
+                     "name":  "ESCRITÓRIO JFK",
+                     "cnpj":  "30.974.783/0001-75",
+                     "idCompany":  2
+                 },
+                 {
+                     "id":  10002,
+                     "name":  "OBRA VILLA SANTORINI",
+                     "cnpj":  "",
+                     "idCompany":  10
+                 },
+                 {
+                     "id":  10001,
+                     "name":  "ESCRITORIO VILLA SANTORINI",
+                     "cnpj":  "",
+                     "idCompany":  10
+                 },
+                 {
+                     "id":  999,
+                     "name":  "BANCOS (CEF, ITAU, BRADESCO E BNB)",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  998,
+                     "name":  "PROVISÕES",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  294,
+                     "name":  "CAMPUS MAURITI PERTENCE A EXPANSÃO IV DO IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  293,
+                     "name":  "SIENA - NUS0749",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  292,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO DE VILA BU - PALMACIA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  291,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO DE JAPÃO - PALMACIA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  290,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO BASÍLIO - PALMACIA CE\t",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  289,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO GADO DOS FERROS - PALMACIA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  288,
+                     "name":  "ALMOXARIFADO DINÂMICA - READEQUADO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  287,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS BATURITÉ - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  286,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS MORADA NOVA - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  285,
+                     "name":  "TESTE - LANÇAMENTO DE ORÇAMENTOS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  284,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS UBAJARA - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  283,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS TIANGUÁ - IFCE ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  282,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS HORIZONTE - IFCE ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  281,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS PARACURU - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  280,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS CAUCAIA - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  279,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS CAMOCIM - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  278,
+                     "name":  "UNIDADE NUTRICIONAL DO CAMPUS BATURITÉ - IFCE (DESATIVADO)",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  277,
+                     "name":  "VT FOX - OII2820",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  276,
+                     "name":  "ALMOXARIFADO PROVISORIO DO GENESIS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  275,
+                     "name":  "CONSTRUÇÃO DE CENTRO COMERCIAL HARMONY - LIGHT STEEL FRAME ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  274,
+                     "name":  "CONSTRUÇÃO DE UMA ESCOLA - 12 SALAS - VARZEA ALEGRE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  273,
+                     "name":  "PROJETO DE CASAS - ALPHAVILLE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  272,
+                     "name":  "2 - CONSTRUÇÃO DE 12 SALAS DE AULA COM QUADRA POLIESPORTIVA COBERTA - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  271,
+                     "name":  "1 - UNIDADE DE ALIMENTAÇÃO NUTRICIONAL DO CAMPUS ACARAÚ DO IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  270,
+                     "name":  "1 - REFORMA E AMPLIAÇÃO DE HOSPITAL - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  269,
+                     "name":  "1 - CONSTRUÇÃO SEDE OPERACIONAL PRF - POCINHOS/PB",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  268,
+                     "name":  "2 - CONSTRUÇÃO DO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - CAMPUS UBAJARA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  267,
+                     "name":  "2 - CONSTRUÇÃO DO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  266,
+                     "name":  "2 - CONSTRUÇÃO DO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - CAMPUS MORADA NOVA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  265,
+                     "name":  "2 - CONSTRUÇÃO DO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - CAMPUS MARACANAU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  264,
+                     "name":  "2 - CONSTRUÇÃO DO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - CAMPUS CRATEUS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  263,
+                     "name":  "2 - CONSTRUÇÃO TIPOS ALVENARIA E/OU LIGHT STEEL FRAME - CAMPUS CAMOCIM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  262,
+                     "name":  "1 - UNILAB - CONSTRUÇÃO DOS BLOCOS ANEXOS DO CAMPUS DOS MALÊS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  261,
+                     "name":  "1 - URBANIZAÇÃO CAMPUS UNILAB",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  260,
+                     "name":  "1 - REFORMA DA ESCOLA FREI TITO DE ALENCAR LIMA - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  259,
+                     "name":  "1 - REFORMA ESCOLA MUNICIPAL JOSEFA BARROS DE ALENCAR - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  258,
+                     "name":  "1 - SOP - CONSTRUÇÃO DE CEI - ICAPUÍ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  257,
+                     "name":  "1 - CONSTRUÇÃO DE CEI - BAIRRO MONDUBIM - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  256,
+                     "name":  "1 - CONSTRUÇÃO DE ESCOLA VERTICAL 12 SALAS NO BAIRRO ALTO DA BRASILIA - SOBRAL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  255,
+                     "name":  "1 - SOP - CONSTRUÇÃO DE CEI - CANINDE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  254,
+                     "name":  "1 - REFORMA E AMPLIAÇÃO DA ESCOLA MUNICIPAL DIOGO VITAL DE SIQUERA - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  253,
+                     "name":  "CONSTRUÇÃO DE 2 BLOCOS COM 4 SALAS - BOA VIAGEM - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  252,
+                     "name":  "CONSTRUÇÃO DE 2 BLOCOS COM 4 SALAS - UMIRIM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  251,
+                     "name":  "CONSTRUÇÃO DE 2 BLOCOS COM 4 SALAS - LIMOEIRO DO NORTE - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  250,
+                     "name":  "CONSTRUÇÃO DE 2 BLOCOS COM 4 SALAS - QUIXADA - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  249,
+                     "name":  "EXPANSÃO IV DO IFCE - CAMPUS CASCAVEL - CIDADE CASCAVEL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  248,
+                     "name":  "CONDOMINIO RESIDENCIAL EM AQUIRAZ DE 152 UNIDADES CASAS - GENESIS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  247,
+                     "name":  "RESIDENCIAS UNIFAMILIARES JARDINS BOULEVARD - NOVUM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  246,
+                     "name":  "EXECUÇÃO DE PRÉDIO EDUCACIONAL/RESIDENCIAL - ACOPIARA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  245,
+                     "name":  "CONSTRUÇÃO DE MURO DE CONTENÇÃO NA LATERAL ESQUERDA DO CAMPO 03 - ACOPIARA ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  244,
+                     "name":  "EXPANSÃO IV DO IFCE - CAMPUS SALES - CIDADE CAMPOS SALES",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  243,
+                     "name":  "IFCE - CAMPUS MOMBAÇA - SUBESTAÇÃO - GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  242,
+                     "name":  "IFCE - CAMPUS JUAZEIRO DO NORTE - SUBESTAÇÃO - GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  241,
+                     "name":  "IFCE - CAMPUS CRATO - SUBESTAÇÃO - GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  240,
+                     "name":  "IFCE - CAMPUS CEDRO - SUBESTAÇÃO GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  239,
+                     "name":  "IFCE - CAMPUS ACOPIARA - SUBESTAÇÃO - GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  238,
+                     "name":  "IFCE - CAMPUS IGUATU - SUBESTAÇÃO - GRUPO 04",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  237,
+                     "name":  "IFCE - CAMPUS REITORIA - SUBESTAÇÃO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  236,
+                     "name":  "IFCE - CAMPUS UMIRIM - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  235,
+                     "name":  "IFCE - CAMPUS POLO DE INOVAÇÃO - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  234,
+                     "name":  "IFCE - CAMPUS PECEM - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  233,
+                     "name":  "IFCE - CAMPUS PARACURU - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  232,
+                     "name":  "IFCE - CAMPUS MARANGUAPE - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  231,
+                     "name":  "IFCE - CAMPUS MARACANAU - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  230,
+                     "name":  "IFCE - CAMPUS HORIZONTE - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  229,
+                     "name":  "IFCE - CAMPUS GUARAMIRANGA - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  228,
+                     "name":  "IFCE - CAMPUS FORTALEZA - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  227,
+                     "name":  "IFCE - CAMPUS CAUCAIA - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  226,
+                     "name":  "IFCE - CAMPUS BATURITE - SUBESTAÇÃO - GRUPO 01",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  225,
+                     "name":  "IFCE - CAMPUS TABULEIRO DO NORTE - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  224,
+                     "name":  "IFCE - CAMPUS QUIXADA - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  223,
+                     "name":  "IFCE - CAMPUS MORADA NOVA - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  222,
+                     "name":  "IFCE - CAMPUS LIMOEIRO DO NORTE - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  221,
+                     "name":  "IFCE - CAMPUS JAGUARUANA - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  220,
+                     "name":  "IFCE - CAMPUS JAGUARIBE - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  219,
+                     "name":  "IFCE - CAMPUS ARACATI - SUBESTAÇÃO - GRUPO 03",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  218,
+                     "name":  "IFCE - CAMPUS UBAJARA - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  217,
+                     "name":  "IFCE - CAMPUS TIANGUÁ - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  216,
+                     "name":  "IFCE - CAMPUS TAUÁ - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  215,
+                     "name":  "IFCE - CAMPUS SOBRAL - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  214,
+                     "name":  "IFCE - CAMPUS ITAPIPOCA - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  213,
+                     "name":  "IFCE - CAMPUS CRATEÚS - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  212,
+                     "name":  "IFCE - CAMPUS CANINDE - SUBESTAÇÃO - GRUPO 02 ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  211,
+                     "name":  "IFCE - CAMPUS BOA VIAGEM - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  210,
+                     "name":  "IFCE - CAMPUS ACARAÚ - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  209,
+                     "name":  "IFCE - CAMOCIM - SUBESTAÇÃO - GRUPO 02",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  208,
+                     "name":  "CONSTRUÇÃO DE UNIDADE BASICA DE SAUDE INDIGENA TIPO III NA ALDEIA VILA VITORIA ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  207,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO SÃO PEDRO - OCARA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  206,
+                     "name":  "RECUPERAÇÃO DO MATADOURO PÚBLICO MUNICIPAL DE ASSARÉ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  205,
+                     "name":  "CONSTRUÇÃO DE BLOCO DE 04 (QUATRO) SALAS DE AULA NA REITORIA - STEEL FRAME ",
+                     "cnpj":  "25.025.604/0001-13",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  204,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO DE SERENO - OCARA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  203,
+                     "name":  "REF E AMPLI ESCOLAS FRANCISCO CIPRIANO MOREIRA E LUIZA BARROSO BRAGA - PARAIPABA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  202,
+                     "name":  "KHARCARAD CONSULTORIA E SOFTWARES LTDA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  201,
+                     "name":  "4 - CONSTRUÇÃO DE CEI - BAIRRO MONDUBIM - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  200,
+                     "name":  "4 - URBANIZAÇÃO CAMPUS UNILAB",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  199,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO SÃO MARCOS - OCARA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  198,
+                     "name":  "CONSTRUÇÃO DE GALPÃO INDUSTRIAL - SENADOR POMPEU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  197,
+                     "name":  "CONSTRUÇÃO DE 01 CRECHE TIPO II - DISTRITO CURUPIRA - OCARA CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  196,
+                     "name":  "CENTRO DE GESTÃO INTEGRADA - CGI MUNICIPIO DE TAUA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  195,
+                     "name":  "CONSTRUÇAO DE UMA ESCOLA NO DISTRITO DE MONTE ALVERNE - CRATO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  194,
+                     "name":  "4 - REFORMA E AMPLIAÇÃO DA ESCOLA MUNICIPAL DIOGO VITAL DE SIQUERA - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  193,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO LAGOA (AÇUDE DE WALTIM) - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  192,
+                     "name":  "CONSTRUÇÃO SEDE OPERACIONAL PRF - POCINHOS/PB - FINALIZADA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  191,
+                     "name":  "OBRAS PARCERIAS 2",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  190,
+                     "name":  "OBRAS PARCERIAS TABULEIRO - QUADRAS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  189,
+                     "name":  "OBRAS PARCERIAS TABULEIRO - ENTRADA DA CIDADE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  188,
+                     "name":  "OBRAS PARCERIAS TABULEIRO CRECHE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  187,
+                     "name":  "4 - CONSTRUÇÃO DE ESCOLA VERTICAL 12 SALAS NO BAIRRO ALTO DA BRASILIA - SOBRAL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  186,
+                     "name":  "5 - CONSTRUÇÃO DE GALPÃO INDUSTRIAL - TABULEIRO DO NORTE/CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  185,
+                     "name":  "4 - REFORMA ESCOLA MUNICIPAL JOSEFA BARROS DE ALENCAR - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  184,
+                     "name":  "REF E AMP DA EDIFICAÇÃO DA ESCOLA SUPERIOR DA MAGISTRAT DO EST DO CEARA - ESMEC",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  183,
+                     "name":  "4 - SOP - CONSTRUÇÃO DE CEI - CANINDE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  182,
+                     "name":  "INSTALAÇÃO DE SISTEMA FOTOVOLTAICO - CÂMARA MUNICIPAL DE BATALHA",
+                     "cnpj":  "01.068.707/0001-00",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  181,
+                     "name":  "FIAT MOB (06) - SBB0E60",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  180,
+                     "name":  "FIAT MOB (05) - SBA7A60",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  179,
+                     "name":  "SBM1B40 - CAMINHÃO GRANDE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  178,
+                     "name":  "SBS3J50 - CAMINHÃO PEQUENO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  177,
+                     "name":  "CONSTRUÇÃO DE ESPAÇO EDUCATIVO RURAL COM 06 SALAS DE AULA - SENADOR POMPEU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  176,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO MAMOEIRO 02- ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  175,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO PEDRA PETRA- ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  174,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO LAGOA (RIACHO DO DIOGO) - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  173,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO MAMOEIRO 01 - ASSARÉ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  172,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO MARTINS - ASSARÉ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  171,
+                     "name":  "CONSTRUÇÃO DE PASSAGEM MOLHADA - SÍTIO SÃO LORENZO - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  170,
+                     "name":  "CONSTRUÇÃO DE UM ESPAÇO EDUCATIVO 12 SALAS DE AULA - JUCAS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  169,
+                     "name":  "REFORMA E ADEQUAÇÃO DO SHOWROOM DA  LOJA CLUB COSMÉTICOS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  168,
+                     "name":  "4 - REFORMA E AMPLIAÇÃO DE HOSPITAL - ASSARE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  167,
+                     "name":  "IFCE - SERVIÇOS DE INSTALAÇÃO DE ALAMBRADOS E TABELA DE BASQUETE ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  166,
+                     "name":  "CONSTRUÇÃO DE UNIDADE BASICA DE SAUDE - UBS INDIGENA - CRATEUS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  165,
+                     "name":  "URBANIZAÇÃO ENTRADA DA CIDADE - GRANJEIRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  163,
+                     "name":  "MANUTENÇÃO PREDIAL SECRETARIA DE SAÚDE - CAUCAIA.",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  162,
+                     "name":  "4 - REFORMA DA ESCOLA FREI TITO DE ALENCAR LIMA - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  161,
+                     "name":  "REFORMA DO TERMINAL RODOVIÁRIO - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  160,
+                     "name":  "QUADRA POLIESPORTIVA HENRIQUE DOMINGOS BRAGA SANDERS - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  159,
+                     "name":  "REFORMA CALÇADÃO DA ORLA - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  158,
+                     "name":  "REFORMA DA CRECHE SONHOS DE CRIANÇA - POÇO DOCE - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  157,
+                     "name":  "CONSTRUÇÃO DE ESPAÇO EDUCATIVO 12 SALAS - CAMPOS SALES",
+                     "cnpj":  "07.416.704/0001-99",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  156,
+                     "name":  "REFORMA DE EDIFICAÇÃO PARA IMPLANTAÇÃO DA SEDE DO RAIO - DE PENTECOSTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  155,
+                     "name":  "COMPLEXO ESCOLAR SETOR C1 EMEIF - PARAIPABA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  154,
+                     "name":  "ESCOLA MUNICIPAL ALDENOR PEREIRA DOS SANTOS EMEIF - PARAIPABA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  153,
+                     "name":  "SERV AMPL E REF ESCOLAS EEIEF JOSÉ ANT SOUSA E EEF RAQUEL COSTA SENADOR POMPEU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  152,
+                     "name":  "TJCE - REFORMA TOTAL DO FÓRUM DA COMARCA DE AURORA - TRIBUNAL DE JUSTIÇA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  151,
+                     "name":  "REFORMA E AMPLIAÇÃO DA ESCOLA EDMUNDO PEREIRA BARBOSA EMEIF - PARAIPABA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  150,
+                     "name":  "CENTRO DE EDUCAÇÃO INFANTIL FRANCISCA DOS SANTOS BARROSO - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  149,
+                     "name":  "REFORMA UBS JARDIM - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  148,
+                     "name":  "CONSTRUÇÃO DE ESCOLA 12 SALAS - SENADOR POMPEU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  147,
+                     "name":  "QUADRA POLIESPORTIVA COM COBERTURA E VESTIÁRIOS MODELO 02 - CAMPOS SALES",
+                     "cnpj":  "06.076.958/0001-42",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  146,
+                     "name":  "CENTRO DE EDUCAÇÃO INFANTIL - CEI IV - CASCAVEL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  145,
+                     "name":  "CONSTRUÇÃO DA QUADRA SÃO PEDRO - PARACURU",
+                     "cnpj":  "24.866.458/0001-96",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  144,
+                     "name":  "URBANIZAÇÃO DO AÇUDE DO JUNCO - CONSTRUÇÃO DE FONTE GRANJEIRO",
+                     "cnpj":  "41.342.098/0001-42",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  143,
+                     "name":  "CONSTRUÇÃO DE ESPAÇO EDUCATIVO 06 SALAS - CAMPOS SALES",
+                     "cnpj":  "06.076.958/0001-42",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  142,
+                     "name":  "SERVIÇOS REMANESCENTES DA CRECHE TIPO 01 - PROINFÂNCIA - ASSARÉ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  141,
+                     "name":  "SETOR METALÚRGICO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  140,
+                     "name":  "SAÚDE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  139,
+                     "name":  "SUBESTAÇÃO DO HOSPITAL DR. JOÃO ELÍSIO DE HOLANDA - MARACANAÚ ",
+                     "cnpj":  "07.605.850/0001-62",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  138,
+                     "name":  "REGULARIZAÇÃO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  137,
+                     "name":  "RANGER - QUL - 5009",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  136,
+                     "name":  "4 - SOP - CONSTRUÇÃO DE CEI - ICAPUÍ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  135,
+                     "name":  "3 - SOP - CONSTRUÇÃO DE CEI - MARACANAÚ ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  134,
+                     "name":  "REFORMA DE ESTRUTURA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  133,
+                     "name":  "REFORMA FINANCEIRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  132,
+                     "name":  "REFORMA DE POSTO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  131,
+                     "name":  "REFORMA DE ESCOLA ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  130,
+                     "name":  "OBRAS AREA CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  129,
+                     "name":  "MANUTENÇÃO NO MUNICÍPIO DE PARACURU - CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  128,
+                     "name":  "RESIDENCIAS UNIFAMILIARES LAGOA DO BANANA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  127,
+                     "name":  "REFORMA DE ESCRITÓRIO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  126,
+                     "name":  "REFORMA DA PRAÇA DA MATRIZ DO MUNICÍPIO DE GRANJEIRO ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  125,
+                     "name":  "COMERCIAL / VENDAS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  124,
+                     "name":  "OBRA PARCERIA - IFCE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  123,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - MARANGUAPE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  122,
+                     "name":  "CONSTRUÇÃO DE QUADRAS - TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  121,
+                     "name":  "PAVIMENTAÇÃO - CNT MORRINHOS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  120,
+                     "name":  "CONSTRUÇÃO ESTÁDIO MUNICIPAL - PREFEITURA DE MORRINHOS ",
+                     "cnpj":  "07.566.920/0001-10",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  119,
+                     "name":  "CONTRUÇÃO DE 04 PRAÇAS - MORRINHOS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  118,
+                     "name":  "MANUTENÇÃO SEC. SAÚDE - CAUCAIA ",
+                     "cnpj":  "07.616.162/0001-06",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  117,
+                     "name":  "REQUALIFICAÇÃO DO MERCADO DA JUREMA - CAUCAIA",
+                     "cnpj":  "07.616.162/0001-06",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  116,
+                     "name":  "RETRABALHO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  115,
+                     "name":  "ESCOLAS - CAUCAIA ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  114,
+                     "name":  "RAFAEL DE SÁ CRUZ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  113,
+                     "name":  "PAVIMENTAÇÃO E URBANIZAÇÃO DA AV. BEIRA RIO - MORRINHOS ",
+                     "cnpj":  "07.566.920/0001-10",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  112,
+                     "name":  "DUPLICAÇÃO DA ENTRADA DA CIDADE - TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  111,
+                     "name":  "REFORMA DOS CEMITÉRIOS PÚBLICOS EM CAUCAIA - CE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  110,
+                     "name":  " SERVIÇOS REMANESCENTES DA CRECHE TIPO 01 - PROINFÂNCIA - TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  109,
+                     "name":  "CONSTRUÇÃO DO MERCADO PÚBLICO - VÁRZEA ALEGRE",
+                     "cnpj":  "07.539.273/0001-58",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  108,
+                     "name":  "ENROCAMENTO EMERGENCIAL - CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  107,
+                     "name":  "PAVIMENTAÇÃO EM PEDRA TOSCA EM URUCUTUBA - CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  106,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS JAGUARUANA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  105,
+                     "name":  "GESTÃO DINAMICA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  104,
+                     "name":  "SUBESTAÇÃO DE ESCOLAS EM SÃO GONÇALO DO AMARANTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  103,
+                     "name":  "ALMOXARIFADO ANEXO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  102,
+                     "name":  "REFORMA DO HOSPITAL MUNICIPAL DR. JOÃO ELISIO DE HOLANDA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  101,
+                     "name":  "CONSTRUÇÃO DA ESTRUTURA DOS 12 LEITOS DE UTI - COVID19 - CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  100,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  99,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - MARACANAU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  98,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS LIMOEIRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  97,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - SOBRAL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  96,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - ACARAU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  95,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - IGUATU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  94,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS CRATO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  93,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS CANINDE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  92,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - CRATEUS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  91,
+                     "name":  "REFORMA DE FÓRUM VELHO - ADEQUAÇÃO DE GABINETE - MARACANAÚ",
+                     "cnpj":  "07.605.850/0001-62",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  90,
+                     "name":  "CRATO - CASA DE FARINHA PSJ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  89,
+                     "name":  "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ - CAMPUS LIMOEIRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  88,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS GUARAMIRANGA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  87,
+                     "name":  "UNIDADE BASICA DE SAUDE (UBS) - CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  86,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS POLO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  85,
+                     "name":  "PREFEITURA MUNICIPAL DE MORRINHOS  - CENTRO DE FEIRAS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  84,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS IGUATU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  83,
+                     "name":  "AMPLIAÇÃO DO HOSPITAL E MATERNIDADE LUZIA TEODORO DA COSTA NO MUNICÍPIO DE ORÓS",
+                     "cnpj":  "07.670.821/0001-84",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  82,
+                     "name":  "L200  PWN 5994",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  81,
+                     "name":  "HILUX PNR 1985",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  80,
+                     "name":  "VT 07 MOTO PME-7113",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  79,
+                     "name":  "VT 06 L200 JVA-2907",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  78,
+                     "name":  "VT 05 - SAVEIRO FWX1895",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  77,
+                     "name":  "VT 04 SAVEIRO GGA4519",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  76,
+                     "name":  "VT 01 - SAVEIRO PVZ-5019",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  75,
+                     "name":  "VT 02 - MONTANA POP-3760",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  74,
+                     "name":  "MONTANA PRETA 0RR-5194",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  73,
+                     "name":  "VT 03 - CAMINHÃO OKR 8293",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  72,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS TABULEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  71,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS BATURITE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  70,
+                     "name":  "PREFEITURA MUNICIPAL DE CAMOCIM - CONCLUSAO CRECHE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  69,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS SOBRAL",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  68,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS TIANGUA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  67,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS ACARAU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  66,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS PECEM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  65,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - TIANGUA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  64,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS QUIXADA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  63,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - UMIRIM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  62,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS CRATEUS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  61,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS ACOPIARA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  60,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS MORADA NOVA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  59,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS JUAZEIRO DO NORTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  58,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS JAGUARIBE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  57,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS CEDRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  56,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS ARACATI",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  55,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS UBAJARA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  54,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS TAUA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  53,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS ITAPIPOCA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  52,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS CAMOCIM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  51,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS BOA VIAGEM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  50,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS UMIRIM",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  49,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS REITORIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  48,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  47,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS MARANGUAPE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  46,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS MARACANAU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  45,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO - CAMPUS FORTALEZA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  44,
+                     "name":  "IFCE MANUTENÇAO SUBESTAÇAO- CAMPUS CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  43,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - CAUCAIA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  42,
+                     "name":  "LOGÍSTICA",
+                     "cnpj":  "25.025.604/0001-13",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  41,
+                     "name":  "ESCRITÓRIO",
+                     "cnpj":  "25.025.604/0001-13",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  40,
+                     "name":  "PREFEITURA MUNICIPAL DE CAUCAIA - REF 02 QUADRAS (Mª DE LOURDES E PEDRO LAURINDO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  39,
+                     "name":  "PRAÇA MUNICIPAL EDWAR SILVEIRA - MORRINHOS",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  38,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - CANINDÉ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  37,
+                     "name":  "LICITAÇÃO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  36,
+                     "name":  "ESCRITÓRIO NOVO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  35,
+                     "name":  "ITAITINGA - PAV. PEDRA TOSCA EM RUAS GERERAÚ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  34,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - QUIXADÁ 2",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  33,
+                     "name":  "PMC - REFORMA DE UMA QUADRA COBERTA DA ESCOLA DOMINGOS DE ABREU BRASILEIRO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  32,
+                     "name":  "PMC- REFORMA DA QUADRA COBERTA DA ESCOLA ANTONIO ALMEIDA LUSTOSA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  31,
+                     "name":  "PMC- REFORMA QUADRA COBERTA ESCOLA NELY CAULA DE CARVALHO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  30,
+                     "name":  "ITAITINGA - CONST. QUADRA COBERTA COM VESTIÁRIO",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  29,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - JAGUARIBE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  28,
+                     "name":  "ALMOXARIFADO DINÂMICA",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  27,
+                     "name":  "PREFEITURA MUNICIPAL DE CAUCAIA - CONCLUSÃO ",
+                     "cnpj":  "07.616.162/0001-06",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  26,
+                     "name":  "PREFEITURA MUNICIPAL DE CAUCAIA - CRECHES",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  25,
+                     "name":  "PREFEITURA - MORRINHOS - ESCOLA FNDE",
+                     "cnpj":  "07.566.920/0001-10",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  24,
+                     "name":  "\tIFCE MANUTENÇÃO PREDIAL - LIMOEIRO DO NORTE",
+                     "cnpj":  "10.744.098/0003-07",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  23,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - MORADA NOVA",
+                     "cnpj":  "10.744.098/0017-02",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  22,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - BOA VIAGEM ",
+                     "cnpj":  "10.744.098/0031-60",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  21,
+                     "name":  "HOSPITAL MUNICIPAL EDVAR SILVEIRA - MORRINHOS ",
+                     "cnpj":  "11.407.938/0001-47",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  20,
+                     "name":  "PSJ ETE HORIZONTE ",
+                     "cnpj":  "20.126.518/0001-83",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  19,
+                     "name":  "TESTE",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  18,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - JAGUARUANA",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  17,
+                     "name":  "SEDUC REFORMA DO CEJAQUI - AQUIRAZ",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  16,
+                     "name":  "IFCE CONSTRUÇÃO SALAS DE AULA E ESP. VIVÊNCIA - JAGUARIBE",
+                     "cnpj":  "10.744.098/0018-93",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  15,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - QUIXADÁ",
+                     "cnpj":  "10.744.098/0004-98",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  14,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - HORIZONTE",
+                     "cnpj":  "10.744.098/0023-50",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  13,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - PARACURU",
+                     "cnpj":  "",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  12,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - TABULEIRO DO NORTE",
+                     "cnpj":  "10.744.098/0016-21",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  11,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - ARACATI",
+                     "cnpj":  "10.744.098/0021-99",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  10,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - REITORIA",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  9,
+                     "name":  "IFCE MANUTENÇÃO PREDIAL - FORTALEZA",
+                     "cnpj":  "10.744.098/0002-26",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  8,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - TABULEIRO DO NORTE",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  7,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - MORADA NOVA ",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  6,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - CAUCAIA",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  5,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - UBAJARA",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  4,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - TIANGUÁ",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  3,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - TAUÁ",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  2,
+                     "name":  "IFCE CONSTRUÇÃO ESPAÇO DE VIVÊNCIA - CAMOCIM",
+                     "cnpj":  "10.744.098/0001-45",
+                     "idCompany":  1
+                 },
+                 {
+                     "id":  1,
+                     "name":  "IFCE CONSTRUÇÃO SALAS DE AULA - MORADA NOVA",
+                     "cnpj":  "10.744.098/0017-02",
+                     "idCompany":  1
+                 }
+             ]
+}
