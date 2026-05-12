@@ -803,11 +803,12 @@ function renderRelatorioFaturamento(data, filters) {
       if (!obra) return null;
 
       const obraNome = obra.nome || '(Obra sem nome)';
-      const pessoa = row.pessoaNome || row.clienteNome || '-';
+      const pessoa = row.clienteNome || row.pessoaNome || '-';
       const documento = row.documento || '';
 
       let group;
       if (order === 'Documento') group = documento || '(sem documento)';
+      else if (order === 'Cliente/Centro de custo') group = pessoa || '-';
       else group = obraNome;
 
       return {
