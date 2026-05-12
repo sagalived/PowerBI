@@ -1,0 +1,63 @@
+name: Atualizar Sienge (diário)
+
+on:
+  schedule:
+    # GitHub Actions usa UTC. 11:59 BRT (UTC-3) = 14:59 UTC.
+    - cron: "59 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "atualizar-sienge"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Baixar dados Sienge (REST)
+        shell: powershell
+        env:
+          SIENGE_INSTANCE: ${{ secrets.SIENGE_INSTANCE }}
+          SIENGE_ACCESS_NAME: ${{ secrets.SIENGE_ACCESS_NAME }}
+          SIENGE_TOKEN: ${{ secrets.SIENGE_TOKEN }}
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File scripts\download_sienge_financeiro_rest.ps1
+
+      - name: Normalizar dados
+        shell: powershell
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File scripts\normalize_dados_sienge.ps1
+
+      - name: Gerar dashboard_financeiro.json
+        run: node scripts\build_web_dashboard_data.js
+
+      - name: Commit e push (se mudou)
+        shell: powershell
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dados_sienge web/data
+
+          $changes = git status --porcelain
+          if (-not $changes) {
+            Write-Host "Sem mudanças para commitar."
+            exit 0
+          }
+
+          git commit -m "Atualiza dados Sienge (auto)"
+          git push
