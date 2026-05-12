@@ -745,6 +745,34 @@ function obraFromMovement(data, row) {
   return centros.map((centroId) => index.get(centroId)).find(Boolean) || null;
 }
 
+function isObraFaturavel(obra) {
+  const nome = norm(obra?.nome);
+  if (!nome) return false;
+
+  // Heurística para excluir itens administrativos cadastrados como “obra” no Sienge.
+  // Objetivo: em “Faturamento”, listar só obras/projetos.
+  const banned = [
+    'ESCRITORIO',
+    'ESCRITÓRIO',
+    'ALMOXARIFADO',
+    'LICITACAO',
+    'LICITAÇÃO',
+    'LOGISTICA',
+    'LOGÍSTICA',
+    'CENTRO DE GESTAO INTEGRADA',
+    'CENTRO DE GESTÃO INTEGRADA',
+  ];
+  for (const bad of banned) {
+    if (nome.includes(norm(bad))) return false;
+  }
+
+  if (/^VT\s*\d+\b/.test(nome)) return false;
+  if (/\bCGI\b/.test(nome)) return false;
+  if (nome === norm('RAFAEL DE SÁ CRUZ') || nome === norm('RAFAEL DE SA CRUZ')) return false;
+
+  return true;
+}
+
 function isFaturamentoMovement(row) {
   return row?.tipo === 'Entrada' && text(row?.tipoExtrato) === 'Recebimento';
 }
@@ -762,7 +790,11 @@ function renderRelatorioFaturamento(data, filters) {
 
   const applied = { ...filters, tipoAnalise: 'entradas' };
   const filtered = filterData(data, applied);
-  const faturamentoMovs = filtered.movimentos.filter((row) => isFaturamentoMovement(row) && obraFromMovement(data, row));
+  const faturamentoMovs = filtered.movimentos.filter((row) => {
+    if (!isFaturamentoMovement(row)) return false;
+    const obra = obraFromMovement(data, row);
+    return obra && isObraFaturavel(obra);
+  });
 
   const order = text(el('reportOrder')?.value) || 'Centro de custo/Cliente';
   const rows = faturamentoMovs
@@ -795,6 +827,14 @@ function renderRelatorioFaturamento(data, filters) {
     .slice(0, 200);
 
   body.innerHTML = '';
+
+  {
+    const total = sum(rows, (r) => r.valor);
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td><strong>TOTAL</strong></td><td style="text-align:right"><strong>${formatBRL(total)}</strong></td>`;
+    body.appendChild(tr);
+  }
+
   for (const item of top) {
     const tr = document.createElement('tr');
     tr.innerHTML = `<td>${item.grupo}</td><td style="text-align:right">${formatBRL(item.valor)}</td>`;
@@ -1295,7 +1335,11 @@ function renderFaturamentoGeral(data, filters) {
 
   const onlyEntradas = { ...filters, tipoAnalise: 'entradas' };
   const filtered = filterData(data, onlyEntradas);
-  const movimentos = filtered.movimentos.filter((row) => isFaturamentoMovement(row) && obraFromMovement(data, row));
+  const movimentos = filtered.movimentos.filter((row) => {
+    if (!isFaturamentoMovement(row)) return false;
+    const obra = obraFromMovement(data, row);
+    return obra && isObraFaturavel(obra);
+  });
 
   const tbody = document.querySelector('#tblFaturamentoGeral tbody');
   const thead = document.querySelector('#tblFaturamentoGeral thead');
@@ -1306,17 +1350,22 @@ function renderFaturamentoGeral(data, filters) {
 
   const index = data._obraIndex;
   const perObra = new Map();
+  const totalByMonth = new Map();
+  let totalGeral = 0;
   for (const row of movimentos) {
     const key = monthKey(row.data);
     if (headerMonths.length && !headerMonths.includes(key)) continue;
     const obra = obraFromMovement(data, row);
-    if (!obra) continue;
+    if (!obra || !isObraFaturavel(obra)) continue;
     const obraId = obra?.id || '-';
     const current = perObra.get(obraId) || { obraId, obraNome: obra?.nome || '(Sem obra mapeada)', months: new Map(), total: 0 };
     const v = number(row.valor);
     current.months.set(key, (current.months.get(key) || 0) + v);
     current.total += v;
     perObra.set(obraId, current);
+
+    totalByMonth.set(key, (totalByMonth.get(key) || 0) + v);
+    totalGeral += v;
   }
 
   const items = [...perObra.values()].sort((a, b) => b.total - a.total).slice(0, 60);
@@ -1330,6 +1379,16 @@ function renderFaturamentoGeral(data, filters) {
   `;
 
   tbody.innerHTML = '';
+
+  {
+    const tds = headerMonths
+      .map((m) => `<td class="num" style="text-align:right"><strong>${formatBRL(totalByMonth.get(m) || 0)}</strong></td>`)
+      .join('');
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td><strong>TOTAL</strong></td>${tds}<td class="num" style="text-align:right"><strong>${formatBRL(totalGeral)}</strong></td>`;
+    tbody.appendChild(tr);
+  }
+
   for (const item of items) {
     const tds = headerMonths
       .map((m) => `<td class="num" style="text-align:right">${formatBRL(item.months.get(m) || 0)}</td>`)
@@ -1339,7 +1398,7 @@ function renderFaturamentoGeral(data, filters) {
     tbody.appendChild(tr);
   }
 
-  setText('faturamentoResumo', `${formatBRL(sum(movimentos, (r) => r.valor))} em recebimentos (faturamento) no período.`);
+  setText('faturamentoResumo', `${formatBRL(totalGeral)} em recebimentos (faturamento) no período.`);
   renderActiveFilters(filters);
 }
 
