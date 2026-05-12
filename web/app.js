@@ -674,6 +674,11 @@ function movementMatches(row, filters, obraCentros) {
   return searchMatches(row, filters);
 }
 
+const INTERNAL_MOV_TYPES = new Set(['Transferência', 'Saque', 'Transf.entre Caixas']);
+function isInternalMovement(row) {
+  return INTERNAL_MOV_TYPES.has(text(row?.tipoExtrato));
+}
+
 function payableMatches(row, filters) {
   if (!inDateRange(row.data, filters)) return false;
   if (filters.empresaId && row.empresaId !== filters.empresaId) return false;
@@ -701,7 +706,9 @@ function filterData(data, filters) {
   const obraCentros = f.obraId ? obraCentroSet(data, f.obraId) : null;
 
   const saldos = data.fatos.saldos.filter((row) => balanceMatches(row, f));
-  const movimentos = data.fatos.movimentos.filter((row) => movementMatches(row, f, obraCentros));
+  const movimentos = data.fatos.movimentos
+    .filter((row) => movementMatches(row, f, obraCentros))
+    .filter((row) => !isInternalMovement(row));
   const despesas = data.fatos.despesas.filter((row) => payableMatches(row, f));
   const titulosReceber = data.fatos.titulosReceber.filter((row) => receivableMatches(row, f));
 
@@ -730,6 +737,23 @@ function ensureObraIndex(data) {
   Object.defineProperty(data, '_obraIndex', { value: index, enumerable: false });
 }
 
+function obraFromMovement(data, row) {
+  ensureObraIndex(data);
+  const index = data?._obraIndex;
+  if (!index) return null;
+  const centros = Array.isArray(row?.centroCustoIds) ? row.centroCustoIds : [];
+  return centros.map((centroId) => index.get(centroId)).find(Boolean) || null;
+}
+
+function isFaturamentoMovement(row) {
+  return row?.tipo === 'Entrada' && text(row?.tipoExtrato) === 'Recebimento';
+}
+
+function isRealCashMovement(row) {
+  const t = text(row?.tipoExtrato);
+  return t === 'Recebimento' || t === 'Pagamento';
+}
+
 function renderRelatorioFaturamento(data, filters) {
   const table = el('tblRelatorioFaturamento');
   if (!table) return;
@@ -738,30 +762,31 @@ function renderRelatorioFaturamento(data, filters) {
 
   const applied = { ...filters, tipoAnalise: 'entradas' };
   const filtered = filterData(data, applied);
+  const faturamentoMovs = filtered.movimentos.filter((row) => isFaturamentoMovement(row) && obraFromMovement(data, row));
 
   const order = text(el('reportOrder')?.value) || 'Centro de custo/Cliente';
-  const centroNome = (centroId) => data.dimensoes.centrosCusto.find((c) => c.id === centroId)?.nome || centroId;
+  const rows = faturamentoMovs
+    .map((row) => {
+      const obra = obraFromMovement(data, row);
+      if (!obra) return null;
 
-  const rows = filtered.movimentos.map((row) => {
-    const centros = Array.isArray(row.centroCustoIds) ? row.centroCustoIds : [];
-    const centroLabel = centros.length ? centroNome(centros[0]) : '-';
-    const pessoa = row.pessoaNome || row.clienteNome || row.contaNome || '-';
-    const documento = row.documento || '';
+      const obraNome = obra.nome || '(Obra sem nome)';
+      const pessoa = row.pessoaNome || row.clienteNome || '-';
+      const documento = row.documento || '';
 
-    let group;
-    if (order === 'Cliente/Centro de custo') group = `${pessoa} • ${centroLabel}`;
-    else if (order === 'Documento') group = documento || '(sem documento)';
-    else group = `${centroLabel} • ${pessoa}`;
+      let group;
+      if (order === 'Documento') group = documento || '(sem documento)';
+      else group = obraNome;
 
-    return {
-      grupo: group,
-      data: row.data,
-      documento,
-      centro: centroLabel,
-      pessoa,
-      valor: row.valor,
-    };
-  });
+      return {
+        grupo: group,
+        data: row.data,
+        documento,
+        pessoa,
+        valor: row.valor,
+      };
+    })
+    .filter(Boolean);
 
   const totals = groupSum(rows, (r) => r.grupo, (r) => r.valor);
   const top = [...totals.entries()]
@@ -776,14 +801,14 @@ function renderRelatorioFaturamento(data, filters) {
     body.appendChild(tr);
   }
 
-  setText('relatorioResumo', `${formatNumber(filtered.movimentos.length)} entradas encontradas.`);
+  setText('relatorioResumo', `${formatNumber(rows.length)} recebimentos (faturamento) em obras encontrados.`);
   renderActiveFilters(filters);
 }
 
 function renderFinanceiroObras(data, filters) {
   ensureObraIndex(data);
   const filtered = filterData(data, filters);
-  const movimentos = filtered.movimentos;
+  const movimentos = filtered.movimentos.filter((row) => obraFromMovement(data, row) && isRealCashMovement(row));
 
   const entradas = sum(movimentos, (row) => (row.tipo === 'Entrada' ? row.valor : 0));
   const saidas = sum(movimentos, (row) => (row.tipo === 'Saida' ? row.valor : 0));
@@ -1270,7 +1295,7 @@ function renderFaturamentoGeral(data, filters) {
 
   const onlyEntradas = { ...filters, tipoAnalise: 'entradas' };
   const filtered = filterData(data, onlyEntradas);
-  const movimentos = filtered.movimentos;
+  const movimentos = filtered.movimentos.filter((row) => isFaturamentoMovement(row) && obraFromMovement(data, row));
 
   const tbody = document.querySelector('#tblFaturamentoGeral tbody');
   const thead = document.querySelector('#tblFaturamentoGeral thead');
@@ -1284,8 +1309,8 @@ function renderFaturamentoGeral(data, filters) {
   for (const row of movimentos) {
     const key = monthKey(row.data);
     if (headerMonths.length && !headerMonths.includes(key)) continue;
-    const centros = Array.isArray(row.centroCustoIds) ? row.centroCustoIds : [];
-    const obra = centros.map((centroId) => index.get(centroId)).find(Boolean);
+    const obra = obraFromMovement(data, row);
+    if (!obra) continue;
     const obraId = obra?.id || '-';
     const current = perObra.get(obraId) || { obraId, obraNome: obra?.nome || '(Sem obra mapeada)', months: new Map(), total: 0 };
     const v = number(row.valor);
@@ -1314,7 +1339,7 @@ function renderFaturamentoGeral(data, filters) {
     tbody.appendChild(tr);
   }
 
-  setText('faturamentoResumo', `${formatBRL(sum(movimentos, (r) => r.valor))} em entradas no período.`);
+  setText('faturamentoResumo', `${formatBRL(sum(movimentos, (r) => r.valor))} em recebimentos (faturamento) no período.`);
   renderActiveFilters(filters);
 }
 
