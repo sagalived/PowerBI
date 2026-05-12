@@ -16,6 +16,9 @@ concurrency:
 jobs:
   update:
     runs-on: windows-latest
+    env:
+      # Opt-in antecipado: GitHub Actions vai migrar JS actions para Node 24.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout
@@ -26,7 +29,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: "24"
 
       - name: Baixar dados Sienge (REST)
         shell: powershell

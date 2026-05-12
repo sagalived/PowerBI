@@ -16,6 +16,9 @@ concurrency:
 
 jobs:
   deploy:
+    env:
+      # Opt-in antecipado: GitHub Actions vai migrar JS actions para Node 24.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
