@@ -766,8 +766,8 @@ function isObraFaturavel(obra) {
     if (nome.includes(norm(bad))) return false;
   }
 
-  if (/^VT\s*\d+\b/.test(nome)) return false;
-  if (/\bCGI\b/.test(nome)) return false;
+  if (/^vt\s*\d+\b/.test(nome)) return false;
+  if (/\bcgi\b/.test(nome)) return false;
   if (nome === norm('RAFAEL DE SÁ CRUZ') || nome === norm('RAFAEL DE SA CRUZ')) return false;
 
   return true;
