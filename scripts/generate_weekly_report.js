@@ -144,6 +144,23 @@ function latestSnapshotPath() {
   return path.join(snapshotsDir, names[names.length - 1]);
 }
 
+function latestSnapshotPathBefore(runDateIso) {
+  const cutoff = text(runDateIso);
+  const names = listSnapshots().filter((name) => {
+    const m = /^dashboard_(\d{4}-\d{2}-\d{2})\.json$/.exec(name);
+    if (!m) return false;
+    return m[1] < cutoff;
+  });
+  if (!names.length) return null;
+  return path.join(snapshotsDir, names[names.length - 1]);
+}
+
+function getFacts(data) {
+  const facts = data?.fatos;
+  if (facts && typeof facts === 'object') return facts;
+  return data || {};
+}
+
 function toBRL(value) {
   const v = number(value);
   const safe = Object.is(v, -0) ? 0 : v;
@@ -196,9 +213,10 @@ function cls(value) {
 }
 
 function buildWeekMetrics(data, startUtc, endUtc) {
-  const movimentos = (data?.movimentos || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
-  const despesas = (data?.despesas || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
-  const titulos = (data?.titulosReceber || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
+  const facts = getFacts(data);
+  const movimentos = (facts?.movimentos || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
+  const despesas = (facts?.despesas || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
+  const titulos = (facts?.titulosReceber || []).filter((r) => inRangeUtc(r.data, startUtc, endUtc));
 
   const entradas = sum(movimentos, (r) => (r.tipo === 'Entrada' ? r.valor : 0));
   const saidas = sum(movimentos, (r) => (r.tipo === 'Saida' ? r.valor : 0));
@@ -382,7 +400,8 @@ function buildSnapshotSummary(data) {
   const meta = data?.meta || {};
   const totais = meta?.totais || {};
 
-  const saldos = data?.saldos || [];
+  const facts = getFacts(data);
+  const saldos = facts?.saldos || [];
   const saldoAtual = sum(saldos, (r) => r.valor);
   const saldoConc = sum(saldos, (r) => r.valorConciliado);
 
@@ -407,15 +426,17 @@ function buildSnapshotSummary(data) {
       saldoConciliado: saldoConc,
     },
     duplicidades: {
-      movimentosIdDuplicado: duplicatesById(data?.movimentos || []).length,
-      despesasIdDuplicado: duplicatesById(data?.despesas || []).length,
-      titulosReceberIdDuplicado: duplicatesById(data?.titulosReceber || [], 'id').length,
+      movimentosIdDuplicado: duplicatesById(facts?.movimentos || []).length,
+      despesasIdDuplicado: duplicatesById(facts?.despesas || []).length,
+      titulosReceberIdDuplicado: duplicatesById(facts?.titulosReceber || [], 'id').length,
     },
   };
 }
 
 function buildHtmlReport(context) {
   const { runDateIso, week, prevWeek, snapshotNow } = context;
+
+  const facts = getFacts(context.data);
 
   const logoDataUri = findLogoDataUri();
   const weekStart = week.range.start;
@@ -437,8 +458,8 @@ function buildHtmlReport(context) {
   const prevStartUtc = parseIsoDate(prevWeek.range.start);
   const prevEndUtc = parseIsoDate(prevWeek.range.end);
 
-  const movimentosSemana = (context.data?.movimentos || []).filter((r) => (weekStartUtc && weekEndUtc ? inRangeUtc(r.data, weekStartUtc, weekEndUtc) : false));
-  const movPrev = (context.data?.movimentos || []).filter((r) => (prevStartUtc && prevEndUtc ? inRangeUtc(r.data, prevStartUtc, prevEndUtc) : false));
+  const movimentosSemana = (facts?.movimentos || []).filter((r) => (weekStartUtc && weekEndUtc ? inRangeUtc(r.data, weekStartUtc, weekEndUtc) : false));
+  const movPrev = (facts?.movimentos || []).filter((r) => (prevStartUtc && prevEndUtc ? inRangeUtc(r.data, prevStartUtc, prevEndUtc) : false));
 
   const byEmpresa = new Map();
   const byEmpresaPrev = new Map();
@@ -829,7 +850,7 @@ function main() {
   const prevWeek = buildWeekMetrics(data, prevWeekStart, prevWeekEnd);
 
   const snapshotNow = buildSnapshotSummary(data);
-  const prevSnapshotPath = latestSnapshotPath();
+  const prevSnapshotPath = latestSnapshotPathBefore(runDateIso);
   const snapshotPrev = prevSnapshotPath ? buildSnapshotSummary(safeReadJson(prevSnapshotPath)) : null;
 
   const snapshotFile = path.join(snapshotsDir, `dashboard_${runDateIso}.json`);
