@@ -3,7 +3,7 @@
                  {
                      "amount":  177.32,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "0000000007",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -25,7 +25,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "AGORA",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -45,9 +45,9 @@
                                ]
                  },
                  {
-                     "amount":  421.73,
+                     "amount":  318.73,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "ATILA",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -69,7 +69,7 @@
                  {
                      "amount":  1175.83,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "BCO-ITAU",
                      "companyId":  3,
                      "accountStatus":  "ENABLED",
@@ -91,7 +91,7 @@
                  {
                      "amount":  35152.47,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "BCONORDEST",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -113,7 +113,7 @@
                  {
                      "amount":  76.13,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "BRADESCO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -135,7 +135,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "BRADESCOJF",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -157,7 +157,7 @@
                  {
                      "amount":  -58042.13,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "BSANTANDER",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -179,7 +179,7 @@
                  {
                      "amount":  -371147.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "C6BANKSMN",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -201,7 +201,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -223,7 +223,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -245,7 +245,7 @@
                  {
                      "amount":  -5719.13,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  3,
                      "accountStatus":  "ENABLED",
@@ -267,7 +267,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  4,
                      "accountStatus":  "ENABLED",
@@ -289,7 +289,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  5,
                      "accountStatus":  "ENABLED",
@@ -311,7 +311,7 @@
                  {
                      "amount":  -361.19,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -333,7 +333,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -355,7 +355,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -377,7 +377,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  9,
                      "accountStatus":  "ENABLED",
@@ -399,7 +399,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXA",
                      "companyId":  10,
                      "accountStatus":  "ENABLED",
@@ -421,7 +421,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAADM",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -443,7 +443,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAGALPA",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -465,7 +465,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAINTE",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -487,7 +487,7 @@
                  {
                      "amount":  -212502.85,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAINTER",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -507,9 +507,9 @@
                                ]
                  },
                  {
-                     "amount":  -338797.71,
+                     "amount":  -338986.71,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAJFK",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -529,9 +529,9 @@
                                ]
                  },
                  {
-                     "amount":  -4603496.86,
+                     "amount":  -4605529.86,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAMUSY",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -553,7 +553,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAIXAVANIE",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -575,7 +575,7 @@
                  {
                      "amount":  288.08,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CAJU",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -597,7 +597,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CARROPAULO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -619,7 +619,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CASA55",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -639,9 +639,9 @@
                                ]
                  },
                  {
-                     "amount":  -9514.44,
+                     "amount":  -9634.41,
                      "reconciledAmount":  -568150.81,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CEF",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -661,9 +661,9 @@
                                ]
                  },
                  {
-                     "amount":  961.41,
+                     "amount":  891.13,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CEFA",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -683,9 +683,9 @@
                                ]
                  },
                  {
-                     "amount":  204.15,
+                     "amount":  20.04,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CEFP",
                      "companyId":  5,
                      "accountStatus":  "ENABLED",
@@ -705,9 +705,31 @@
                                ]
                  },
                  {
+                     "amount":  -199.98,
+                     "reconciledAmount":  0.0,
+                     "balanceDate":  "2026-05-13",
+                     "accountNumber":  "CORINGA014",
+                     "companyId":  1,
+                     "accountStatus":  "ENABLED",
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA014"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   }
+                               ]
+                 },
+                 {
                      "amount":  1619.09,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CORINGA05",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -729,7 +751,7 @@
                  {
                      "amount":  1440.22,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CORINGA06",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -751,7 +773,7 @@
                  {
                      "amount":  1661.76,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CORINGA07",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -773,7 +795,7 @@
                  {
                      "amount":  4326.3,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CORINGA08",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -793,9 +815,9 @@
                                ]
                  },
                  {
-                     "amount":  108.82,
+                     "amount":  358.68,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXCICERO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -817,7 +839,7 @@
                  {
                      "amount":  -10.28,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXDIOGENES",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -839,7 +861,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXDODO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -861,7 +883,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXEDUARDO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -883,7 +905,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXEIGO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -905,7 +927,7 @@
                  {
                      "amount":  -634.93,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXFERNANDO",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -927,7 +949,7 @@
                  {
                      "amount":  367.04,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXFIN",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -949,7 +971,7 @@
                  {
                      "amount":  84.54,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXGEAN",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -971,7 +993,7 @@
                  {
                      "amount":  40.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXGENESIS",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -993,7 +1015,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXGUSTAVO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1015,7 +1037,7 @@
                  {
                      "amount":  365.36,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXHENRIQUE",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1037,7 +1059,7 @@
                  {
                      "amount":  10.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXHERBETT",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1059,7 +1081,7 @@
                  {
                      "amount":  600.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXJOAO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1081,7 +1103,7 @@
                  {
                      "amount":  -1659.12,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXJUNIOR",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1103,7 +1125,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXLIDIANE",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1125,7 +1147,7 @@
                  {
                      "amount":  249.57,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXMARCELA",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1147,7 +1169,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXMAURICIO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1169,7 +1191,7 @@
                  {
                      "amount":  -371.18,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXMEDINA",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1191,7 +1213,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXMONICA",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1213,7 +1235,7 @@
                  {
                      "amount":  29.64,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXMOTORIST",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1233,9 +1255,9 @@
                                ]
                  },
                  {
-                     "amount":  462.45,
+                     "amount":  312.41,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXPAULO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1255,9 +1277,9 @@
                                ]
                  },
                  {
-                     "amount":  251.7,
+                     "amount":  52.77,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXPRF",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1277,9 +1299,9 @@
                                ]
                  },
                  {
-                     "amount":  500.0,
+                     "amount":  167.55,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXRH",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1301,7 +1323,7 @@
                  {
                      "amount":  561.07,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXROGEISON",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1323,7 +1345,7 @@
                  {
                      "amount":  -9174.7,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXRUDIERI",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1345,7 +1367,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXVALERIA",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1367,7 +1389,7 @@
                  {
                      "amount":  247.66,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXVITOR",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1387,9 +1409,9 @@
                                ]
                  },
                  {
-                     "amount":  600.0,
+                     "amount":  95.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXWALISSON",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1411,7 +1433,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "CXYURI",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1431,9 +1453,9 @@
                                ]
                  },
                  {
-                     "amount":  -165934.69,
+                     "amount":  -167859.69,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "DREQ",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -1455,7 +1477,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1477,7 +1499,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -1499,7 +1521,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  3,
                      "accountStatus":  "ENABLED",
@@ -1521,7 +1543,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  4,
                      "accountStatus":  "ENABLED",
@@ -1543,7 +1565,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  5,
                      "accountStatus":  "ENABLED",
@@ -1565,7 +1587,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -1587,7 +1609,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -1609,7 +1631,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -1631,7 +1653,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  9,
                      "accountStatus":  "ENABLED",
@@ -1653,7 +1675,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "EMISSAOCHQ",
                      "companyId":  10,
                      "accountStatus":  "ENABLED",
@@ -1673,9 +1695,9 @@
                                ]
                  },
                  {
-                     "amount":  680.67,
+                     "amount":  609.85,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "ESCRITORIO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1697,7 +1719,7 @@
                  {
                      "amount":  419.05,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "FINANCEIRO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1719,7 +1741,7 @@
                  {
                      "amount":  1709.74,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "FWX-1895",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1741,7 +1763,7 @@
                  {
                      "amount":  419.31,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "GGA-4519",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1763,7 +1785,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "ITAU",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1785,7 +1807,7 @@
                  {
                      "amount":  201810.59,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "ITAUPJ",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1807,7 +1829,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "LICITACAO",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1829,7 +1851,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "LIDIANE",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -1851,7 +1873,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MARKETING",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1873,7 +1895,7 @@
                  {
                      "amount":  -294863.79,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "METALURGIC",
                      "companyId":  3,
                      "accountStatus":  "ENABLED",
@@ -1895,7 +1917,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MOTDENIS",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1917,7 +1939,7 @@
                  {
                      "amount":  287.51,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MOTORISTAJ",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -1939,7 +1961,7 @@
                  {
                      "amount":  -285145.32,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTOBRASIL",
                      "companyId":  9,
                      "accountStatus":  "ENABLED",
@@ -1959,9 +1981,9 @@
                                ]
                  },
                  {
-                     "amount":  2587442.21,
+                     "amount":  2587807.08,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOARAUJ",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -1981,9 +2003,9 @@
                                ]
                  },
                  {
-                     "amount":  -876570.84,
+                     "amount":  -876678.84,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOARCRU",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -2003,9 +2025,9 @@
                                ]
                  },
                  {
-                     "amount":  -1111047.95,
+                     "amount":  -1106940.18,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUODINAM",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -2025,9 +2047,9 @@
                                ]
                  },
                  {
-                     "amount":  163539.31,
+                     "amount":  159674.67,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOJFK",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -2049,7 +2071,7 @@
                  {
                      "amount":  -21357.2,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOPOTEN",
                      "companyId":  5,
                      "accountStatus":  "ENABLED",
@@ -2071,7 +2093,7 @@
                  {
                      "amount":  -144822.96,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOSMN",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -2093,7 +2115,7 @@
                  {
                      "amount":  -12035.36,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOTHEOR",
                      "companyId":  4,
                      "accountStatus":  "ENABLED",
@@ -2113,9 +2135,9 @@
                                ]
                  },
                  {
-                     "amount":  -60178.66,
+                     "amount":  -60678.66,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "MUTUOVSANT",
                      "companyId":  10,
                      "accountStatus":  "ENABLED",
@@ -2137,7 +2159,7 @@
                  {
                      "amount":  1215162.94,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -2159,7 +2181,7 @@
                  {
                      "amount":  -21630.07,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  2,
                      "accountStatus":  "ENABLED",
@@ -2181,7 +2203,7 @@
                  {
                      "amount":  72309.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  3,
                      "accountStatus":  "ENABLED",
@@ -2203,7 +2225,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  4,
                      "accountStatus":  "ENABLED",
@@ -2225,7 +2247,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  5,
                      "accountStatus":  "ENABLED",
@@ -2247,7 +2269,7 @@
                  {
                      "amount":  -186.07,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  6,
                      "accountStatus":  "ENABLED",
@@ -2269,7 +2291,7 @@
                  {
                      "amount":  -1230329.81,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -2291,7 +2313,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -2313,7 +2335,7 @@
                  {
                      "amount":  -9739.17,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  9,
                      "accountStatus":  "ENABLED",
@@ -2335,7 +2357,7 @@
                  {
                      "amount":  0.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "REAPROPFIN",
                      "companyId":  10,
                      "accountStatus":  "ENABLED",
@@ -2355,9 +2377,9 @@
                                ]
                  },
                  {
-                     "amount":  -183321.72,
+                     "amount":  -147957.87,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "SANTANDER",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -2379,7 +2401,7 @@
                  {
                      "amount":  2.0,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "SANTANDERB",
                      "companyId":  9,
                      "accountStatus":  "ENABLED",
@@ -2399,9 +2421,9 @@
                                ]
                  },
                  {
-                     "amount":  -2111339.52,
+                     "amount":  -2111663.05,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "SANTANDERM",
                      "companyId":  7,
                      "accountStatus":  "ENABLED",
@@ -2423,7 +2445,7 @@
                  {
                      "amount":  -544505.91,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "SANTANDERS",
                      "companyId":  8,
                      "accountStatus":  "ENABLED",
@@ -2445,7 +2467,7 @@
                  {
                      "amount":  1099.99,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "TICKET",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",
@@ -2467,7 +2489,7 @@
                  {
                      "amount":  -40874.37,
                      "reconciledAmount":  0.0,
-                     "balanceDate":  "2026-05-12",
+                     "balanceDate":  "2026-05-13",
                      "accountNumber":  "TXADM",
                      "companyId":  1,
                      "accountStatus":  "ENABLED",

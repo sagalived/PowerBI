@@ -1743,6 +1743,19 @@
                      "payOffDate":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1663,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1810",
+                     "issueDate":  "2026-05-12",
+                     "receivableBillValue":  6769.92,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
+                     "payOffDate":  null
+                 },
+                 {
                      "customerId":  86,
                      "receivableBillId":  956,
                      "documentId":  "NFSE",
@@ -8244,6 +8257,19 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1664,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1811",
+                     "issueDate":  "2026-05-12",
+                     "receivableBillValue":  13923.53,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO DA 11ª E 12ª, REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA\r\nEXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS PARACURU DO IFCE NO SISTEMA\r\nCONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 13/2025.\r\nPROCESSO Nº 23255.000876/2025-26.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1202,
                      "documentId":  "NFSE",
                      "documentNumber":  "1297",
@@ -9098,6 +9124,19 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 3° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE BLOCO COM QUATRO SALAS NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME. (PROJETO BÁSICO 5753995). CONTRATO DE OBRA DE ENGENHARIA Nº 02/2024. PROCESSO Nº 23492.000024/2024-55.",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  96,
+                     "receivableBillId":  1661,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1809",
+                     "issueDate":  "2026-05-11",
+                     "receivableBillValue":  4400.31,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 26ª MEDIÇÃO DO OBJETO: CONSTRUÇÃO DA UNIDADE OPERACIONAL DA POLÍCIA RODOVIÁRIA FEDERAL EM POCINHOS / PB.\r\nVALOR MEDIDO R$ 4.400,31 (PREÇOS UNITÁRIOS DA PROPOSTA ORIGINAL R$ 3.957,44 E CORREÇÃO MONETÁRIA R$ 442,87).\r\nCONFORME TERMO DE APOSTILAMENTO 10 (11,1909%).\r\nCONTRATO Nº 78/2022.\r\nPROCESSO Nº 08650.037267/2022-23.\r\n\"Conforme art 114 da IN 2110/2022, não se aplica a retenção referente ao recolhimento de INSS na fonte: Art. 114. Não se aplica a retenção de que trata\r\no art. 110 à contratação de serviços: II - por órgãos públicos da administração direta, autarquias e fundações de direito público, quando contratantes de\r\nobra de construção civil, reforma ou acréscimo, por meio de empreitada total, observado o disposto no inciso II do § 2º do art. 135.\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null
                  },
                  {
@@ -13115,6 +13154,19 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 16ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/01/2024 À 31/01/2024 - OBJETO: REFORMA E AMPLIAÇÃO DA ESCOLA MUNICIPAL DIOGO VITAL DE SIQUEIRA, NO BAIRRO PREFEITO JOSÉ WALTER, MUNICÍPIO DE FORTALEZA. (Lote 01). MAPPFOR: 16 - REFORMA E AMPLIAÇÃO DE ESCOLAS MUNICIPAIS DE TEMPO INTEGRAL. CONTRATO Nº 20/2022  FME-I - RDC PRESENCIAL Nº 039/2022.",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1662,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1810",
+                     "issueDate":  "2026-05-12",
+                     "receivableBillValue":  6769.92,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
                      "payOffDate":  null
                  },
                  {

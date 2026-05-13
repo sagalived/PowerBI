@@ -1810,15 +1810,6 @@
                      "flImposto":  "N"
                  },
                  {
-                     "id":  "2040303",
-                     "name":  "PIS/COFINS/CSLL",
-                     "tpConta":  "R",
-                     "flRedutora":  "N",
-                     "flAtiva":  "S",
-                     "flAdiantamento":  "N",
-                     "flImposto":  "N"
-                 },
-                 {
                      "id":  "2040304",
                      "name":  "INSS Terceiros PF",
                      "tpConta":  "R",
@@ -3063,6 +3054,15 @@
                  {
                      "id":  "2010715",
                      "name":  "Perdas / Reparos obras",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2040303",
+                     "name":  "CSRF",
                      "tpConta":  "R",
                      "flRedutora":  "N",
                      "flAtiva":  "S",
