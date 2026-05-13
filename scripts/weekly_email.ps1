@@ -1,6 +1,7 @@
 param(
     [switch]$SkipSiengeUpdate,
-    [switch]$SkipAttachments
+    [switch]$SkipAttachments,
+    [switch]$LayoutTest
 )
 
 $ErrorActionPreference = 'Stop'
@@ -53,12 +54,27 @@ $credential = New-Object System.Management.Automation.PSCredential($smtpUser, $s
 
 $weekStart = $reportInfo.week.start
 $weekEnd = $reportInfo.week.end
-$subject = "Relatorio financeiro semanal (Sienge) - $weekStart a $weekEnd"
 
-$body = @"
+$subject = if ($LayoutTest) {
+    "Teste de layout do relatório (HTML + PDF) - semana $weekStart a $weekEnd"
+}
+else {
+    "Relatorio financeiro semanal (Sienge) - $weekStart a $weekEnd"
+}
+
+$body = if ($LayoutTest) {
+@"
+<p>Segue um <strong>teste de layout</strong> do relat&oacute;rio semanal (semana <strong>$weekStart</strong> a <strong>$weekEnd</strong>).</p>
+<p>Anexos: <strong>PDF</strong> e <strong>HTML</strong>.</p>
+<p>Objetivo: validar o <strong>layout</strong> e a <strong>renderiza&ccedil;&atilde;o</strong> (logo, tipografia, espa&ccedil;amentos e gr&aacute;ficos) no e-mail.</p>
+"@
+}
+else {
+@"
 <p>Segue o relat&oacute;rio semanal (semana fechada <strong>$weekStart</strong> a <strong>$weekEnd</strong>), com evolu&ccedil;&atilde;o de valores e volume de dados.</p>
 <p>Anexos: <strong>PDF</strong> (para leitura/compartilhamento) e <strong>HTML</strong> (vers&atilde;o interativa).</p>
 "@
+}
 
 if ($dashboardUrl) {
     $body += "<p>Dashboard: <a href=`"$dashboardUrl`">$dashboardUrl</a></p>"
