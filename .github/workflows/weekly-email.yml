@@ -1,0 +1,48 @@
+name: Enviar relatório semanal (e-mail)
+
+on:
+  schedule:
+    # GitHub Actions usa UTC. 07:00 BRT (UTC-3) = 10:00 UTC.
+    - cron: "0 10 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "weekly-email"
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: windows-latest
+    env:
+      # Opt-in antecipado: GitHub Actions vai migrar JS actions para Node 24.
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Gerar e enviar relatório (HTML + PDF)
+        shell: powershell
+        env:
+          SIENGE_INSTANCE: ${{ secrets.SIENGE_INSTANCE }}
+          SIENGE_ACCESS_NAME: ${{ secrets.SIENGE_ACCESS_NAME }}
+          SIENGE_TOKEN: ${{ secrets.SIENGE_TOKEN }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File scripts\weekly_email.ps1

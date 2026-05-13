@@ -16,3 +16,7 @@ secrets*.json
 
 # Scripts temporários locais
 scripts/_tmp_*
+
+# Relatórios gerados (snapshot semanal / HTML)
+reports/
+
