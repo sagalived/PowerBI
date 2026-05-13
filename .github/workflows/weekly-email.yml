@@ -2,8 +2,8 @@ name: Enviar relatório semanal (e-mail)
 
 on:
   schedule:
-    # GitHub Actions usa UTC. 07:00 BRT (UTC-3) = 10:00 UTC.
-    - cron: "0 10 * * 1"
+    # GitHub Actions usa UTC. 17:59 BRT (UTC-3) = 20:59 UTC.
+    - cron: "59 20 * * 5"
   workflow_dispatch:
 
 permissions:
