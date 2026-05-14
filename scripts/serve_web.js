@@ -136,14 +136,23 @@ async function runWeeklyReportEmail() {
   const steps = [];
   const ps = powershellPath();
 
+  const emailScript = path.join(root, 'scripts', 'weekly_email.ps1');
+  const psScriptPath = emailScript.replace(/'/g, "''");
+  const psCommand = [
+    "$ErrorActionPreference='Stop';",
+    "$vars=@('SMTP_HOST','SMTP_PORT','SMTP_USER','SMTP_PASS','SMTP_FROM','SMTP_TO','DASHBOARD_URL');",
+    'foreach($v in $vars){ Remove-Item -Path ("Env:" + $v) -ErrorAction SilentlyContinue }',
+    `& '${psScriptPath}' -SkipSiengeUpdate;`,
+    'exit $LASTEXITCODE;',
+  ].join(' ');
+
   steps.push(
     await runCommand('Enviar relatorio semanal (email)', ps, [
       '-NoProfile',
       '-ExecutionPolicy',
       'Bypass',
-      '-File',
-      path.join(root, 'scripts', 'weekly_email.ps1'),
-      '-SkipSiengeUpdate',
+      '-Command',
+      psCommand,
     ])
   );
 
