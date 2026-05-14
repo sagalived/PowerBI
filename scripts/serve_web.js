@@ -18,6 +18,7 @@ function argValue(names) {
 
 const port = Number(process.env.PORT || argValue(['--port', '-p']) || defaultPort);
 let updatePromise = null;
+let reportPromise = null;
 
 const mimeTypes = {
   '.css': 'text/css; charset=utf-8',
@@ -130,10 +131,39 @@ async function runSiengeUpdate() {
   };
 }
 
+async function runWeeklyReportEmail() {
+  const startedAt = new Date().toISOString();
+  const steps = [];
+  const ps = powershellPath();
+
+  steps.push(
+    await runCommand('Enviar relatorio semanal (email)', ps, [
+      '-NoProfile',
+      '-ExecutionPolicy',
+      'Bypass',
+      '-File',
+      path.join(root, 'scripts', 'weekly_email.ps1'),
+      '-SkipSiengeUpdate',
+    ])
+  );
+
+  return {
+    ok: true,
+    startedAt,
+    finishedAt: new Date().toISOString(),
+    steps,
+  };
+}
+
 async function handleUpdate(req, res) {
   req.resume();
   if (updatePromise) {
     sendJson(res, 409, { ok: false, error: 'Atualizacao Sienge ja esta em andamento.' });
+    return;
+  }
+
+  if (reportPromise) {
+    sendJson(res, 409, { ok: false, error: 'Envio de relatorio ja esta em andamento.' });
     return;
   }
 
@@ -150,6 +180,34 @@ async function handleUpdate(req, res) {
     });
   } finally {
     updatePromise = null;
+  }
+}
+
+async function handleWeeklyReportEmail(req, res) {
+  req.resume();
+  if (reportPromise) {
+    sendJson(res, 409, { ok: false, error: 'Envio de relatorio ja esta em andamento.' });
+    return;
+  }
+
+  if (updatePromise) {
+    sendJson(res, 409, { ok: false, error: 'Atualizacao Sienge em andamento. Aguarde terminar para enviar o relatorio.' });
+    return;
+  }
+
+  reportPromise = runWeeklyReportEmail();
+  try {
+    const result = await reportPromise;
+    sendJson(res, 200, result);
+  } catch (error) {
+    sendJson(res, 500, {
+      ok: false,
+      error: error.message || 'Falha ao enviar relatorio.',
+      step: error.step || null,
+      output: trimLog(error.output || error.step?.output || ''),
+    });
+  } finally {
+    reportPromise = null;
   }
 }
 
@@ -214,6 +272,11 @@ const server = http.createServer((req, res) => {
     return;
   }
 
+  if (req.method === 'POST' && url.pathname === '/api/enviar-relatorio') {
+    void handleWeeklyReportEmail(req, res);
+    return;
+  }
+
   if (req.method !== 'GET' && req.method !== 'HEAD') {
     sendJson(res, 405, { ok: false, error: 'Metodo nao permitido.' });
     return;
@@ -226,4 +289,5 @@ server.listen(port, () => {
   console.log(`Servindo ${root} em http://localhost:${port}`);
   console.log(`Abra http://localhost:${port}/web/index.html`);
   console.log('API: POST /api/atualizar-sienge');
+  console.log('API: POST /api/enviar-relatorio');
 });

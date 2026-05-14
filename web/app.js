@@ -1,6 +1,7 @@
 const DATA_URL = 'data/dashboard_financeiro.json';
 const REFERENCIAS_URL = 'data/referencias_modelo.json';
 const UPDATE_SIENGE_URL = '/api/atualizar-sienge';
+const SEND_WEEKLY_REPORT_URL = '/api/enviar-relatorio';
 const STORAGE_KEY = 'sienge_finance_web_filters_v2';
 const FORECAST_STORAGE_KEY = 'sienge_finance_web_forecast_inputs_v1';
 const REF_OPTIONS_KEY = 'sienge_finance_web_ref_options_v1';
@@ -8,6 +9,7 @@ const REF_OPTIONS_KEY = 'sienge_finance_web_ref_options_v1';
 let APP_DATA = null;
 let LAST_EXPORT_ROWS = [];
 let SIENGE_UPDATE_RUNNING = false;
+let WEEKLY_REPORT_RUNNING = false;
 
 function el(id) {
   return document.getElementById(id);
@@ -1907,6 +1909,13 @@ function updateSiengeButton(button, busy) {
   button.textContent = busy ? 'Atualizando...' : 'Atualizar Sienge';
 }
 
+function updateWeeklyReportButton(button, busy) {
+  if (!button) return;
+  button.disabled = busy;
+  button.classList.toggle('is-busy', busy);
+  button.textContent = busy ? 'Enviando...' : 'Enviar relatório';
+}
+
 function siengeUpdateSupport() {
   const protocol = text(window.location?.protocol);
   const host = text(window.location?.hostname);
@@ -1920,6 +1929,38 @@ function siengeUpdateSupport() {
   if (!isLocalhost) return { ok: false, reason: '' };
 
   return { ok: true, reason: '' };
+}
+
+async function runWeeklyReportEmail(button, status) {
+  if (WEEKLY_REPORT_RUNNING) return;
+  WEEKLY_REPORT_RUNNING = true;
+  updateWeeklyReportButton(button, true);
+  updateSiengeStatus(status, 'Enviando relatório semanal...');
+
+  try {
+    const support = siengeUpdateSupport();
+    if (!support.ok) throw new Error(support.reason);
+
+    const response = await fetch(SEND_WEEKLY_REPORT_URL, {
+      method: 'POST',
+      headers: { Accept: 'application/json' },
+    });
+    const contentType = response.headers.get('content-type') || '';
+    const payload = contentType.includes('application/json') ? await response.json() : await response.text();
+
+    if (!response.ok || !payload?.ok) {
+      const message = payload?.error || payload?.message || `HTTP ${response.status}`;
+      throw new Error(message);
+    }
+
+    updateSiengeStatus(status, 'Relatório enviado.', 'success');
+    updateWeeklyReportButton(button, false);
+  } catch (error) {
+    updateSiengeStatus(status, error.message || 'Falha ao enviar relatório.', 'error');
+    updateWeeklyReportButton(button, false);
+  } finally {
+    WEEKLY_REPORT_RUNNING = false;
+  }
 }
 
 async function runSiengeUpdate(button, status) {
@@ -1968,6 +2009,12 @@ function initSiengeUpdater() {
   button.dataset.action = 'atualizar-sienge';
   button.textContent = 'Atualizar Sienge';
 
+  const buttonReport = document.createElement('button');
+  buttonReport.className = 'button sync-button';
+  buttonReport.type = 'button';
+  buttonReport.dataset.action = 'enviar-relatorio';
+  buttonReport.textContent = 'Enviar relatório';
+
   const status = document.createElement('span');
   status.className = 'sync-status';
   status.setAttribute('aria-live', 'polite');
@@ -1976,7 +2023,12 @@ function initSiengeUpdater() {
     void runSiengeUpdate(button, status);
   });
 
+  buttonReport.addEventListener('click', () => {
+    void runWeeklyReportEmail(buttonReport, status);
+  });
+
   target.appendChild(button);
+  target.appendChild(buttonReport);
   target.appendChild(status);
 }
 
