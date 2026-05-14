@@ -865,7 +865,7 @@ function main() {
   };
 
   const html = buildHtmlReport({ ...reportContext, data });
-  const outBase = `weekly_report_${runDateIso}`;
+  const outBase = `Relatorio_Semanal_${runDateIso}`;
   const htmlPath = path.join(weeklyDir, `${outBase}.html`);
   const jsonPath = path.join(weeklyDir, `${outBase}.json`);
   const pdfPath = path.join(weeklyDir, `${outBase}.pdf`);
