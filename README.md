@@ -42,6 +42,27 @@ No GitHub do repositório:
 
 O deploy é feito pelo workflow em `.github/workflows/pages.yml`.
 
+## Enviar relatório semanal automaticamente (toda sexta)
+
+O envio do relatório semanal é feito pelo workflow `.github/workflows/weekly-email.yml` (agendado para sexta-feira; o `cron` do GitHub roda em UTC).
+
+### Configurar secrets do SMTP (Actions)
+
+No GitHub do repositório:
+
+1. Settings → Secrets and variables → Actions
+2. Crie os **Repository secrets** abaixo (nomes exatos):
+
+- `SMTP_HOST` (ex.: `smtp.office365.com`)
+- `SMTP_PORT` (ex.: `587`)
+- `SMTP_USER` (ex.: `servicotecnicos@dinamicaempreendimentos.com`)
+- `SMTP_PASS` (senha / app password)
+- `SMTP_FROM` (remetente)
+- `SMTP_TO` (destinatários separados por `;`)
+- `DASHBOARD_URL` (opcional: URL do GitHub Pages)
+
+Observação: nunca salve senha no código. Use `secrets` do GitHub.
+
 ### 2) Configurar secrets do Sienge (Actions)
 
 No GitHub do repositório:

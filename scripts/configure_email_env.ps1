@@ -10,7 +10,7 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-function Ensure-Value {
+function Get-RequiredValue {
     param(
         [string]$Current,
         [string]$Label
@@ -23,7 +23,7 @@ function Ensure-Value {
     return Read-Host -Prompt $Label
 }
 
-function Ensure-Secret {
+function Get-RequiredSecret {
     param(
         [string]$Current,
         [string]$Label
@@ -45,10 +45,18 @@ function Ensure-Secret {
 
 if (-not $SmtpPort) { $SmtpPort = 587 }
 
-$SmtpHost = Ensure-Value -Current $SmtpHost -Label 'SMTP_HOST (ex: smtp.office365.com)'
-$SmtpUser = Ensure-Value -Current $SmtpUser -Label 'SMTP_USER (email/usuario do SMTP)'
-$SmtpPass = Ensure-Secret -Current $SmtpPass -Label 'SMTP_PASS (senha/app password)'
-$MailFrom = Ensure-Value -Current $MailFrom -Label 'SMTP_FROM (remetente, ex: financeiro@empresa.com)'
+if (-not $SmtpUser) {
+    $SmtpUser = 'servicotecnicos@dinamicaempreendimentos.com'
+}
+
+if (-not $MailFrom) {
+    $MailFrom = 'servicotecnicos@dinamicaempreendimentos.com'
+}
+
+$SmtpHost = Get-RequiredValue -Current $SmtpHost -Label 'SMTP_HOST (ex: smtp.office365.com)'
+$SmtpUser = Get-RequiredValue -Current $SmtpUser -Label 'SMTP_USER (email/usuario do SMTP)'
+$SmtpPass = Get-RequiredSecret -Current $SmtpPass -Label 'SMTP_PASS (senha/app password)'
+$MailFrom = Get-RequiredValue -Current $MailFrom -Label 'SMTP_FROM (remetente, ex: financeiro@empresa.com)'
 
 if (-not $Recipients) {
     $Recipients = 'rafael@dinamicaempreendimentos.com.br;gestao@dinamicaempreendimentos.com.br;gestaoti@dinamicaempreendimentos.com;financeiro@dinamicaempreendimentos.com.br;lnoronha.almeida@gmail.com'
