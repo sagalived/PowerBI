@@ -1,6 +1,63 @@
 {
     "data":  [
                  {
+                     "id":  166,
+                     "personType":  "Jurídica",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-05-14",
+                     "modifiedAt":  "2026-05-14",
+                     "issuingBody":  null,
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "RUA PEDRO LOPES",
+                                           "number":  "21",
+                                           "complement":  "",
+                                           "neighborhood":  "GUAJIRU",
+                                           "cityId":  18,
+                                           "city":  "Fortaleza",
+                                           "state":  "CE",
+                                           "zipCode":  "60843-290",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "cnpj":  "38301838000198",
+                     "email":  "EXTREMECARSERV@GMAIL.COM",
+                     "name":  "MICHELLE FERNANDA SALES DE ALMEIDA 92925057349",
+                     "stateRegistrationNumber":  "",
+                     "cityRegistrationNumber":  "",
+                     "fantasyName":  "EXTREME CAR",
+                     "contactName":  "",
+                     "site":  "",
+                     "creaNumber":  "",
+                     "cnaeNumber":  "",
+                     "technicalManager":  "",
+                     "note":  "",
+                     "activityId":  null,
+                     "activityDescription":  null,
+                     "governmentEntityId":  null,
+                     "governmentEntityDescription":  null,
+                     "agents":  [
+
+                                ],
+                     "shareCapital":  0.0,
+                     "establishmentDate":  null
+                 },
+                 {
                      "id":  165,
                      "personType":  "Física",
                      "foreigner":  "N",

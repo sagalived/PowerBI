@@ -8217,6 +8217,19 @@
                      "payOffDate":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1667,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1813",
+                     "issueDate":  "2026-05-14",
+                     "receivableBillValue":  700.75,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARANGUAPE\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null
+                 },
+                 {
                      "customerId":  68,
                      "receivableBillId":  1211,
                      "documentId":  "NFSE",
@@ -13158,6 +13171,19 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1666,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1812",
+                     "issueDate":  "2026-05-14",
+                     "receivableBillValue":  17378.92,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "5ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARANGUAPE.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1662,
                      "documentId":  "NFSE",
                      "documentNumber":  "1810",
@@ -14558,6 +14584,19 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "3ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 04 - CAMPUS ACOPIARA.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 32 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  166,
+                     "receivableBillId":  1665,
+                     "documentId":  "REC ",
+                     "documentNumber":  "NFSE 136",
+                     "issueDate":  "2026-05-01",
+                     "receivableBillValue":  36.54,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REF. ESTORNO DE VALOR DO ISS RETIDO | PAG. REALIZADO NO CARTÃO DE CRÉDITO ",
                      "payOffDate":  null
                  },
                  {

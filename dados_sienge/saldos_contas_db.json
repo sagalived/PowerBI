@@ -507,7 +507,7 @@
                                ]
                  },
                  {
-                     "amount":  -352146.15,
+                     "amount":  -352136.15,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "CAIXAJFK",
@@ -529,7 +529,7 @@
                                ]
                  },
                  {
-                     "amount":  -4605529.86,
+                     "amount":  -4606029.86,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "CAIXAMUSY",
@@ -639,7 +639,7 @@
                                ]
                  },
                  {
-                     "amount":  -9891.18,
+                     "amount":  -9854.54,
                      "reconciledAmount":  -568150.81,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "CEF",
@@ -1981,7 +1981,7 @@
                                ]
                  },
                  {
-                     "amount":  2587807.08,
+                     "amount":  2587807.18,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "MUTUOARAUJ",
@@ -2025,7 +2025,7 @@
                                ]
                  },
                  {
-                     "amount":  -1105202.93,
+                     "amount":  -1101703.03,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "MUTUODINAM",
@@ -2047,7 +2047,7 @@
                                ]
                  },
                  {
-                     "amount":  158686.57,
+                     "amount":  155186.57,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "MUTUOJFK",
@@ -2377,7 +2377,7 @@
                                ]
                  },
                  {
-                     "amount":  -132099.92,
+                     "amount":  -141117.02,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-14",
                      "accountNumber":  "SANTANDER",
