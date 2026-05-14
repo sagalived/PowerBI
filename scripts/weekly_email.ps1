@@ -80,6 +80,17 @@ function Get-EnvOrEmpty {
     return $value
 }
 
+function Format-IsoToBrDate {
+    param([string]$Iso)
+
+    $raw = [string]$Iso
+    if (-not $raw) { return $raw }
+    if ($raw -match '^(\d{4})-(\d{2})-(\d{2})$') {
+        return "$($Matches[3])/$($Matches[2])/$($Matches[1])"
+    }
+    return $raw
+}
+
 $root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
 
 if (-not $SkipSiengeUpdate) {
@@ -126,11 +137,14 @@ $credential = New-Object System.Management.Automation.PSCredential($smtpUser, $s
 $weekStart = $reportInfo.week.start
 $weekEnd = $reportInfo.week.end
 
+$weekStartBr = Format-IsoToBrDate $weekStart
+$weekEndBr = Format-IsoToBrDate $weekEnd
+
 $subject = if ($LayoutTest) {
-    "Teste de layout do relatório (HTML + PDF) - semana $weekStart a $weekEnd"
+    "Teste de layout do relatório (HTML + PDF) - semana $weekStartBr a $weekEndBr"
 }
 else {
-    "Relatorio financeiro semanal (Sienge) - $weekStart a $weekEnd"
+    "Relatorio financeiro semanal (Sienge) - $weekStartBr a $weekEndBr"
 }
 
 $body = if ($LayoutTest) {
@@ -142,7 +156,7 @@ $body = if ($LayoutTest) {
 }
 else {
 @"
-<p>Segue o relat&oacute;rio semanal (semana fechada <strong>$weekStart</strong> a <strong>$weekEnd</strong>), com evolu&ccedil;&atilde;o de valores e volume de dados.</p>
+<p>Segue o relat&oacute;rio semanal (semana fechada <strong>$weekStartBr</strong> a <strong>$weekEndBr</strong>), com evolu&ccedil;&atilde;o de valores e volume de dados.</p>
 <p>Anexos: <strong>PDF</strong> (para leitura/compartilhamento) e <strong>HTML</strong> (vers&atilde;o interativa).</p>
 "@
 }

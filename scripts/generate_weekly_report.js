@@ -77,6 +77,18 @@ function isoDateUtc(date) {
   return date.toISOString().slice(0, 10);
 }
 
+function pad2(value) {
+  return String(value).padStart(2, '0');
+}
+
+function formatDateUtc(date, sep) {
+  const d = date instanceof Date ? date : new Date(date);
+  const yyyy = d.getUTCFullYear();
+  const mm = pad2(d.getUTCMonth() + 1);
+  const dd = pad2(d.getUTCDate());
+  return `${dd}${sep}${mm}${sep}${yyyy}`;
+}
+
 function addDaysUtc(date, days) {
   const next = new Date(date.getTime());
   next.setUTCDate(next.getUTCDate() + days);
@@ -865,7 +877,8 @@ function main() {
   };
 
   const html = buildHtmlReport({ ...reportContext, data });
-  const outBase = `Relatorio_Semanal_${runDateIso}`;
+  const runDateForFile = parseIsoDate(runDateIso) || nowUtc;
+  const outBase = `Relatorio_Semanal_${formatDateUtc(runDateForFile, '-')}`;
   const htmlPath = path.join(weeklyDir, `${outBase}.html`);
   const jsonPath = path.join(weeklyDir, `${outBase}.json`);
   const pdfPath = path.join(weeklyDir, `${outBase}.pdf`);
