@@ -30,11 +30,7 @@ function Parse-EmailList {
     $clean = $raw.Replace('；', ';')
     $clean = $clean -replace '[\r\n\t]+', ' '
 
-    $items = @(
-        $clean -split '[;,\s]+'
-        | ForEach-Object { $_.Trim(' ', '"', "'") }
-        | Where-Object { $_ }
-    )
+    $items = @((($clean -split '[;,\s]+') | ForEach-Object { $_.Trim(' ', '"', "'") } | Where-Object { $_ }))
 
     foreach ($email in $items) {
         if ($email -match '[;,\s]') {
