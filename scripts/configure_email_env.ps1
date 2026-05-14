@@ -59,7 +59,13 @@ $SmtpPass = Get-RequiredSecret -Current $SmtpPass -Label 'SMTP_PASS (senha/app p
 $MailFrom = Get-RequiredValue -Current $MailFrom -Label 'SMTP_FROM (remetente, ex: financeiro@empresa.com)'
 
 if (-not $Recipients) {
-    $Recipients = 'rafael@dinamicaempreendimentos.com.br;gestao@dinamicaempreendimentos.com.br;gestaoti@dinamicaempreendimentos.com;financeiro@dinamicaempreendimentos.com.br;lnoronha.almeida@gmail.com'
+    $existingRecipients = [Environment]::GetEnvironmentVariable('SMTP_TO', 'User')
+    if ($existingRecipients) {
+        $Recipients = $existingRecipients
+    }
+    else {
+        $Recipients = Read-Host -Prompt 'SMTP_TO (destinatarios separados por ; )'
+    }
 }
 
 if (-not $DashboardUrl) {
