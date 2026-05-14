@@ -51,7 +51,7 @@ $SmtpPass = Ensure-Secret -Current $SmtpPass -Label 'SMTP_PASS (senha/app passwo
 $MailFrom = Ensure-Value -Current $MailFrom -Label 'SMTP_FROM (remetente, ex: financeiro@empresa.com)'
 
 if (-not $Recipients) {
-    $Recipients = 'rafael@dinamicaempreendimentos.com.br;gestao@dinamicaempreendimentos.com.br;gestaoti@dinamicaempreendimentos.com'
+    $Recipients = 'rafael@dinamicaempreendimentos.com.br;gestao@dinamicaempreendimentos.com.br;gestaoti@dinamicaempreendimentos.com;financeiro@dinamicaempreendimentos.com.br;lnoronha.almeida@gmail.com'
 }
 
 if (-not $DashboardUrl) {

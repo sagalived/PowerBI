@@ -115,6 +115,59 @@ function cssVar(name, fallback) {
   return value || fallback;
 }
 
+function ensureChartTooltip(canvas) {
+  if (!canvas) return null;
+  const host = canvas.parentElement;
+  if (!host) return null;
+
+  const style = getComputedStyle(host);
+  if (style.position === 'static') host.style.position = 'relative';
+
+  let node = host.querySelector('.chart-tooltip');
+  if (!node) {
+    node = document.createElement('div');
+    node.className = 'chart-tooltip';
+    host.appendChild(node);
+  }
+  return node;
+}
+
+function bindCanvasTooltip(canvas) {
+  if (!canvas || canvas.__tooltipBound) return;
+  canvas.__tooltipBound = true;
+
+  const tip = ensureChartTooltip(canvas);
+  if (!tip) return;
+
+  const hide = () => {
+    tip.style.display = 'none';
+  };
+
+  canvas.addEventListener('mouseleave', hide);
+  canvas.addEventListener('mousemove', (ev) => {
+    const state = canvas.__tooltipState;
+    if (!state || typeof state.getText !== 'function') {
+      hide();
+      return;
+    }
+
+    const rect = canvas.getBoundingClientRect();
+    const x = ev.clientX - rect.left;
+    const y = ev.clientY - rect.top;
+    const textOut = state.getText(x, y);
+    if (!textOut) {
+      hide();
+      return;
+    }
+
+    const hostRect = canvas.parentElement.getBoundingClientRect();
+    tip.style.left = `${ev.clientX - hostRect.left}px`;
+    tip.style.top = `${ev.clientY - hostRect.top}px`;
+    tip.textContent = textOut;
+    tip.style.display = 'block';
+  });
+}
+
 function drawElectronicLineChart(canvas, points) {
   if (!canvas) return;
   const ctx = canvas.getContext('2d');
@@ -153,6 +206,7 @@ function drawElectronicLineChart(canvas, points) {
     ctx.fillStyle = muted;
     ctx.font = '12px system-ui';
     ctx.fillText('Sem dados para o período.', pad, pad + 14);
+    canvas.__tooltipState = null;
     return;
   }
 
@@ -167,6 +221,30 @@ function drawElectronicLineChart(canvas, points) {
 
   const mapX = (x) => pad + ((x - minX) / spanX) * plotW;
   const mapY = (y) => pad + plotH - ((y - minY) / spanY) * plotH;
+
+  // tooltip
+  canvas.__tooltipState = {
+    getText(mouseX) {
+      if (mouseX < pad || mouseX > width - pad) return '';
+      const xValue = minX + ((mouseX - pad) / Math.max(1, plotW)) * spanX;
+
+      let best = points[0];
+      let bestDist = Math.abs(points[0].x - xValue);
+      for (let i = 1; i < points.length; i++) {
+        const d = Math.abs(points[i].x - xValue);
+        if (d < bestDist) {
+          best = points[i];
+          bestDist = d;
+        }
+      }
+
+      const label = text(best.label);
+      const dateLabel = label ? formatIsoBr(label) : '';
+      const valueLabel = formatBRLAccounting(best.y);
+      return dateLabel ? `${dateLabel} • ${valueLabel}` : valueLabel;
+    },
+  };
+  bindCanvasTooltip(canvas);
 
   // glow pass
   ctx.save();
@@ -849,7 +927,7 @@ function renderRelatorioFaturamento(data, filters) {
 function renderFinanceiroObras(data, filters) {
   ensureObraIndex(data);
   const filtered = filterData(data, filters);
-  const movimentos = filtered.movimentos.filter((row) => obraFromMovement(data, row) && isRealCashMovement(row));
+  const movimentos = filtered.movimentos.filter((row) => isRealCashMovement(row));
 
   const entradas = sum(movimentos, (row) => (row.tipo === 'Entrada' ? row.valor : 0));
   const saidas = sum(movimentos, (row) => (row.tipo === 'Saida' ? row.valor : 0));
@@ -860,16 +938,9 @@ function renderFinanceiroObras(data, filters) {
   setText('kpiObrasLiquido', formatBRL(liquido));
   setText('kpiObrasMovimentos', formatNumber(movimentos.length));
 
-  // gráfico: líquido por dia (efeito "eletrônico")
-  const daily = new Map();
-  for (const row of movimentos) {
-    const signed = row.tipo === 'Saida' ? -number(row.valor) : number(row.valor);
-    const key = text(row.data);
-    daily.set(key, (daily.get(key) || 0) + signed);
-  }
-  const dates = [...daily.keys()].sort();
-  const points = dates.map((d, i) => ({ x: i, y: daily.get(d) || 0 }));
-  drawElectronicLineChart(el('chartObrasResumo'), points);
+  // gráfico: entradas x saídas por dia (mesmo recorte dos KPIs)
+  const days = seriesByDay(movimentos);
+  drawBars(el('chartObrasResumo'), days);
 
   const tbody = document.querySelector('#tblFinanceiroObras tbody');
   if (!tbody) return;
@@ -1481,6 +1552,7 @@ function drawBars(canvas, points) {
     ctx.fillStyle = 'rgba(255,255,255,.65)';
     ctx.font = '12px Segoe UI';
     ctx.fillText('Sem dados para os filtros selecionados.', 14, 26);
+    canvas.__tooltipState = null;
     return;
   }
 
@@ -1507,6 +1579,21 @@ function drawBars(canvas, points) {
     ctx.fillStyle = '#ff6758';
     ctx.fillRect(x + group * 0.65, base - expenseH, barW, expenseH);
   });
+
+  canvas.__tooltipState = {
+    getText(mouseX) {
+      if (mouseX < pad || mouseX > w - pad) return '';
+      const index = Math.max(0, Math.min(points.length - 1, Math.floor((mouseX - pad) / Math.max(1, group))));
+      const p = points[index];
+      if (!p) return '';
+      const dateLabel = p.date ? formatIsoBr(p.date) : '';
+      const inLabel = `Entradas: ${formatBRL(p.income)}`;
+      const outLabel = `Saídas: ${formatBRL(p.expense)}`;
+      const netLabel = `Líquido: ${formatBRLAccounting(p.net)}`;
+      return dateLabel ? `${dateLabel} • ${inLabel} • ${outLabel} • ${netLabel}` : `${inLabel} • ${outLabel} • ${netLabel}`;
+    },
+  };
+  bindCanvasTooltip(canvas);
 }
 
 function drawLineArea(canvas, points) {
@@ -1522,6 +1609,7 @@ function drawLineArea(canvas, points) {
     ctx.fillStyle = 'rgba(255,255,255,.65)';
     ctx.font = '12px Segoe UI';
     ctx.fillText('Sem dados para os filtros selecionados.', 14, 26);
+    canvas.__tooltipState = null;
     return;
   }
 
@@ -1551,6 +1639,19 @@ function drawLineArea(canvas, points) {
   ctx.strokeStyle = '#5fc178';
   ctx.lineWidth = 2;
   ctx.stroke();
+
+  canvas.__tooltipState = {
+    getText(mouseX) {
+      if (mouseX < pad || mouseX > w - pad) return '';
+      const idx = Math.max(0, Math.min(points.length - 1, Math.round(((mouseX - pad) / Math.max(1, chartW)) * Math.max(1, points.length - 1))));
+      const p = points[idx];
+      if (!p) return '';
+      const dateLabel = p.date ? formatIsoBr(p.date) : '';
+      const valueLabel = formatBRLAccounting(p.value);
+      return dateLabel ? `${dateLabel} • ${valueLabel}` : valueLabel;
+    },
+  };
+  bindCanvasTooltip(canvas);
 }
 
 function renderGauge(container, value, min, max) {

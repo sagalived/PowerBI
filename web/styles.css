@@ -307,7 +307,23 @@ body[data-page="dre"] .dre-top-controls{width:100%; justify-content:space-betwee
   background: rgba(255,255,255,0.02);
 }
 
-.chart-wrap{margin-top:12px}
+.chart-wrap{margin-top:12px; position:relative}
+
+.chart-tooltip{
+  position:absolute;
+  z-index:20;
+  display:none;
+  padding:6px 8px;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:rgba(17,19,25,0.96);
+  color:var(--text);
+  font-size:12px;
+  line-height:1.25;
+  white-space:nowrap;
+  pointer-events:none;
+  transform:translate(10px, -12px);
+}
 
 .chip{
   display:inline-flex;
