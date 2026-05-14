@@ -10,11 +10,11 @@ function Invoke-Step {
     param(
         [string]$Label,
         [string]$Exe,
-        [string[]]$Args
+        [string[]]$Arguments
     )
 
     Write-Host $Label -ForegroundColor Cyan
-    & $Exe @Args
+    & $Exe @Arguments
     $code = $LASTEXITCODE
     if ($code -ne 0) {
         throw "$Label (exit code=$code)"
@@ -52,7 +52,7 @@ function Parse-EmailSingle {
 
     $email = ([string]$Value).Trim(' ', '"', "'")
     if (-not $email) { throw "$Name vazio" }
-    if ($email -match '[;,\s]') { throw "$Name invalido: '$email'" }
+    if ($email -match '[;,\s]') { throw "$Name invalido (deve ser 1 email). Parece lista (verifique secrets SMTP_FROM vs SMTP_TO): '$email'" }
     try {
         [void]([System.Net.Mail.MailAddress]::new($email))
     }
