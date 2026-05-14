@@ -1907,6 +1907,21 @@ function updateSiengeButton(button, busy) {
   button.textContent = busy ? 'Atualizando...' : 'Atualizar Sienge';
 }
 
+function siengeUpdateSupport() {
+  const protocol = text(window.location?.protocol);
+  const host = text(window.location?.hostname);
+
+  if (protocol === 'file:') {
+    return { ok: false, reason: 'Abra pelo servidor local: scripts/serve_web.ps1' };
+  }
+
+  // O endpoint /api/atualizar-sienge só existe no servidor local.
+  const isLocalhost = host === 'localhost' || host === '127.0.0.1' || host === '::1';
+  if (!isLocalhost) return { ok: false, reason: '' };
+
+  return { ok: true, reason: '' };
+}
+
 async function runSiengeUpdate(button, status) {
   if (SIENGE_UPDATE_RUNNING) return;
   SIENGE_UPDATE_RUNNING = true;
@@ -1914,9 +1929,8 @@ async function runSiengeUpdate(button, status) {
   updateSiengeStatus(status, 'Baixando dados do Sienge...');
 
   try {
-    if (window.location.protocol === 'file:') {
-      throw new Error('Abra pelo servidor local: scripts/serve_web.ps1');
-    }
+    const support = siengeUpdateSupport();
+    if (!support.ok) throw new Error(support.reason);
 
     const response = await fetch(UPDATE_SIENGE_URL, {
       method: 'POST',
@@ -1944,6 +1958,9 @@ async function runSiengeUpdate(button, status) {
 function initSiengeUpdater() {
   const target = document.querySelector('.topbar .dre-actions') || document.querySelector('.topbar .controls');
   if (!target || target.querySelector('[data-action="atualizar-sienge"]')) return;
+
+  const support = siengeUpdateSupport();
+  if (!support.ok) return;
 
   const button = document.createElement('button');
   button.className = 'button primary sync-button';
