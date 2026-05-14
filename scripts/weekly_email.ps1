@@ -6,7 +6,67 @@ param(
 
 $ErrorActionPreference = 'Stop'
 
-function Require-Env {
+function Invoke-Step {
+    param(
+        [string]$Label,
+        [string]$Exe,
+        [string[]]$Args
+    )
+
+    Write-Host $Label -ForegroundColor Cyan
+    & $Exe @Args
+    $code = $LASTEXITCODE
+    if ($code -ne 0) {
+        throw "$Label (exit code=$code)"
+    }
+}
+
+function Parse-EmailList {
+    param([string]$Value)
+
+    $raw = [string]$Value
+    if (-not $raw) { return @() }
+
+    $clean = $raw.Replace('；', ';')
+    $clean = $clean -replace '[\r\n\t]+', ' '
+
+    $items = @(
+        $clean -split '[;,\s]+'
+        | ForEach-Object { $_.Trim(' ', '"', "'") }
+        | Where-Object { $_ }
+    )
+
+    foreach ($email in $items) {
+        if ($email -match '[;,\s]') {
+            throw "SMTP_TO invalido: endereco contem separador/espaco: '$email'"
+        }
+        try {
+            [void]([System.Net.Mail.MailAddress]::new($email))
+        }
+        catch {
+            throw "SMTP_TO invalido: '$email'"
+        }
+    }
+
+    return $items
+}
+
+function Parse-EmailSingle {
+    param([string]$Value, [string]$Name)
+
+    $email = ([string]$Value).Trim(' ', '"', "'")
+    if (-not $email) { throw "$Name vazio" }
+    if ($email -match '[;,\s]') { throw "$Name invalido: '$email'" }
+    try {
+        [void]([System.Net.Mail.MailAddress]::new($email))
+    }
+    catch {
+        throw "$Name invalido: '$email'"
+    }
+    return $email
+}
+
+function Get-RequiredEnv {
     param([string]$Name)
     # Prioriza variavel da sessao atual (Process) para permitir overrides em testes
     $value = (Get-Item -Path "Env:$Name" -ErrorAction SilentlyContinue).Value
@@ -27,27 +87,42 @@ function Get-EnvOrEmpty {
 $root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
 
 if (-not $SkipSiengeUpdate) {
-    Write-Host 'Atualizando dados do Sienge (REST -> normalizacao -> JSON)...' -ForegroundColor Cyan
-    & powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $root 'scripts\download_sienge_financeiro_rest.ps1')
-    & powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $root 'scripts\normalize_dados_sienge.ps1')
-    & node (Join-Path $root 'scripts\build_web_dashboard_data.js')
+    Invoke-Step 'Atualizando dados do Sienge (REST)...' 'powershell' @(
+        '-NoProfile','-ExecutionPolicy','Bypass','-File',(Join-Path $root 'scripts\download_sienge_financeiro_rest.ps1')
+    )
+    Invoke-Step 'Normalizando dados do Sienge...' 'powershell' @(
+        '-NoProfile','-ExecutionPolicy','Bypass','-File',(Join-Path $root 'scripts\normalize_dados_sienge.ps1')
+    )
+    Invoke-Step 'Gerando JSON do dashboard web...' 'node' @(
+        (Join-Path $root 'scripts\build_web_dashboard_data.js')
+    )
 }
 
 Write-Host 'Gerando relatorio semanal (HTML + PDF + snapshot)...' -ForegroundColor Cyan
 $reportJsonRaw = & node (Join-Path $root 'scripts\generate_weekly_report.js')
+$code = $LASTEXITCODE
+if ($code -ne 0) {
+    throw "Falha ao gerar relatorio semanal (exit code=$code)."
+}
 $reportInfo = $reportJsonRaw | ConvertFrom-Json
 
 if (-not $reportInfo.ok) {
     throw 'Falha ao gerar relatorio semanal.'
 }
 
-$smtpHost = Require-Env 'SMTP_HOST'
-$smtpPort = [int](Require-Env 'SMTP_PORT')
-$smtpUser = Require-Env 'SMTP_USER'
-$smtpPass = Require-Env 'SMTP_PASS'
-$smtpFrom = Require-Env 'SMTP_FROM'
-$smtpTo = Require-Env 'SMTP_TO'
+$smtpHost = Get-RequiredEnv 'SMTP_HOST'
+$smtpPort = [int](Get-RequiredEnv 'SMTP_PORT')
+$smtpUser = Get-RequiredEnv 'SMTP_USER'
+$smtpPass = Get-RequiredEnv 'SMTP_PASS'
+$smtpFrom = Get-RequiredEnv 'SMTP_FROM'
+$smtpTo = Get-RequiredEnv 'SMTP_TO'
 $dashboardUrl = Get-EnvOrEmpty 'DASHBOARD_URL'
+
+$smtpFrom = Parse-EmailSingle -Value $smtpFrom -Name 'SMTP_FROM'
+$smtpToList = Parse-EmailList -Value $smtpTo
+if (-not $smtpToList -or $smtpToList.Count -eq 0) {
+    throw 'SMTP_TO vazio (nenhum destinatario valido)'
+}
 
 $securePass = ConvertTo-SecureString $smtpPass -AsPlainText -Force
 $credential = New-Object System.Management.Automation.PSCredential($smtpUser, $securePass)
@@ -101,7 +176,7 @@ $mailParams = @{
     UseSsl = $true
     Credential = $credential
     From = $smtpFrom
-    To = ($smtpTo -split '[;,\s]+' | Where-Object { $_ })
+    To = $smtpToList
     Subject = $subject
     BodyAsHtml = $true
     Body = $body
