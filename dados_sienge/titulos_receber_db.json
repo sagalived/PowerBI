@@ -1847,19 +1847,6 @@
                      "payOffDate":  null
                  },
                  {
-                     "customerId":  6,
-                     "receivableBillId":  1653,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1769",
-                     "issueDate":  "2026-04-24",
-                     "receivableBillValue":  3136.9,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 04 - CAMPUS IGUATU\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
-                     "payOffDate":  null
-                 },
-                 {
                      "customerId":  81,
                      "receivableBillId":  657,
                      "documentId":  "NFSE",
@@ -2299,19 +2286,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "31ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE.",
-                     "payOffDate":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1652,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1768",
-                     "issueDate":  "2026-04-24",
-                     "receivableBillValue":  77796.27,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "5ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 04 - CAMPUS IGUATU.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null
                  },
                  {
@@ -13700,6 +13674,19 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 1° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DOS SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE UMA ESCOLA DE\r\nEMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DE ESCNO DISTRITO DE MONTE ALVERNE, NO MUNICÍPIO DE CRATO/CE.\r\nPERÍODO DE: 15/11/2022 À 15/12/2022.CONTRATO Nº 2022.10.06.1.",
+                     "payOffDate":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1668,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1814",
+                     "issueDate":  "2026-05-15",
+                     "receivableBillValue":  12525.06,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAUCAIA DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 12/2025.\r\nPROCESSO Nº 23255.000875/2025-81.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643 - 8\r\nCNPJ / PIX: 25.025.604/0001-13",
                      "payOffDate":  null
                  },
                  {
