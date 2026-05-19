@@ -48793,6 +48793,42 @@
                                ]
                  },
                  {
+                     "id":  152498,
+                     "value":  100.0,
+                     "date":  "2026-05-02",
+                     "documentNumber":  "17457",
+                     "description":  "AMV COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58292,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  151446,
                      "value":  600.0,
                      "date":  "2026-05-04",
