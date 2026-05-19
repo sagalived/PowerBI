@@ -705,7 +705,7 @@
                                ]
                  },
                  {
-                     "amount":  1000.02,
+                     "amount":  780.02,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CORINGA014",
@@ -727,7 +727,7 @@
                                ]
                  },
                  {
-                     "amount":  1619.09,
+                     "amount":  -23.79,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CORINGA05",
@@ -749,7 +749,7 @@
                                ]
                  },
                  {
-                     "amount":  1440.22,
+                     "amount":  1040.22,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CORINGA06",
@@ -793,7 +793,7 @@
                                ]
                  },
                  {
-                     "amount":  4326.3,
+                     "amount":  206.13,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CORINGA08",
@@ -969,7 +969,7 @@
                                ]
                  },
                  {
-                     "amount":  84.54,
+                     "amount":  4.54,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CXGEAN",
@@ -1255,7 +1255,7 @@
                                ]
                  },
                  {
-                     "amount":  189.66,
+                     "amount":  106.66,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CXPAULO",
@@ -1299,7 +1299,7 @@
                                ]
                  },
                  {
-                     "amount":  318.97,
+                     "amount":  263.54,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "CXRH",
@@ -1695,7 +1695,7 @@
                                ]
                  },
                  {
-                     "amount":  609.85,
+                     "amount":  562.45,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "ESCRITORIO",
@@ -1981,7 +1981,7 @@
                                ]
                  },
                  {
-                     "amount":  2681212.0,
+                     "amount":  2679098.03,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "MUTUOARAUJ",
@@ -2025,7 +2025,7 @@
                                ]
                  },
                  {
-                     "amount":  -1192601.03,
+                     "amount":  -1190487.06,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "MUTUODINAM",
@@ -2157,7 +2157,7 @@
                                ]
                  },
                  {
-                     "amount":  1215162.94,
+                     "amount":  1215540.19,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "REAPROPFIN",
@@ -2201,7 +2201,7 @@
                                ]
                  },
                  {
-                     "amount":  72309.0,
+                     "amount":  72376.95,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "REAPROPFIN",
@@ -2289,7 +2289,7 @@
                                ]
                  },
                  {
-                     "amount":  -1230329.81,
+                     "amount":  -1230775.01,
                      "reconciledAmount":  0.0,
                      "balanceDate":  "2026-05-19",
                      "accountNumber":  "REAPROPFIN",
