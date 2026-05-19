@@ -43,6 +43,6 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           SMTP_FROM: ${{ secrets.SMTP_FROM }}
           SMTP_TO: ${{ secrets.SMTP_TO }}
-          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL || '' }}
         run: |
           powershell -NoProfile -ExecutionPolicy Bypass -File scripts\weekly_email.ps1

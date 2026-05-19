@@ -59,7 +59,12 @@ No GitHub do repositório:
 - `SMTP_PASS` (senha / app password)
 - `SMTP_FROM` (remetente)
 - `SMTP_TO` (destinatários separados por `;`)
-- `DASHBOARD_URL` (opcional: URL do GitHub Pages)
+
+Opcional (recomendado como **Repository variable**, não secret):
+
+Settings → Secrets and variables → Actions → **Variables**
+
+- `DASHBOARD_URL` (URL do GitHub Pages)
 
 Observação: nunca salve senha no código. Use `secrets` do GitHub.
 
