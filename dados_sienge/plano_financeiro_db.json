@@ -3068,6 +3068,15 @@
                      "flAtiva":  "S",
                      "flAdiantamento":  "N",
                      "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2011123",
+                     "name":  "Prestação de serviço - Administrativo",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
                  }
              ]
 }

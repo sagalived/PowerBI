@@ -20884,7 +20884,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2020-07-06",
-                     "lastModificationDate":  "2020-07-06",
+                     "lastModificationDate":  "2026-05-20",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -172527,39 +172527,50 @@
                  },
                  {
                      "id":  3364,
-                     "name":  "EWERTON COSME DE ALMEIDA GURGEL",
+                     "name":  "57.705.892 EWERTON COSME DE ALMEIDA GURGEL",
                      "tradeName":  "",
-                     "cpf":  "016.777.684-36",
-                     "cnpj":  null,
+                     "cpf":  null,
+                     "cnpj":  "57.705.892/0001-43",
                      "supplier":  true,
                      "broker":  false,
                      "employee":  false,
                      "active":  true,
                      "stateRegistrationNumber":  "",
-                     "stateRegistrationType":  " ",
+                     "stateRegistrationType":  "N",
                      "taxClassificationId":  null,
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-04-23",
-                     "lastModificationDate":  "2026-04-23",
+                     "lastModificationDate":  "2026-05-20",
                      "address":  {
-                                     "cityId":  3780,
-                                     "cityName":  "Mossoró",
-                                     "streetName":  "Rua Tibério Burlamaqui",
-                                     "number":  "117 ",
-                                     "complement":  "A",
-                                     "neighborhood":  "",
+                                     "cityId":  3719,
+                                     "cityName":  "Caraúbas",
+                                     "streetName":  "PRACA REINALDO PIMENTA",
+                                     "number":  "55",
+                                     "complement":  "",
+                                     "neighborhood":  "CENTRO",
                                      "state":  "RN",
-                                     "zipCode":  ""
+                                     "zipCode":  "59780-000"
                                  },
                      "phones":  [
-
+                                    {
+                                        "ddd":  "84",
+                                        "number":  "9651-3252",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
                                 ],
                      "contacts":  [
 
                                   ],
                      "otherContactMethods":  [
-
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "EWERTONCAG@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
                                              ],
                      "links":  [
                                    {
@@ -172584,7 +172595,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-04-23",
-                     "lastModificationDate":  "2026-04-23",
+                     "lastModificationDate":  "2026-05-20",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -172692,7 +172703,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-04-23",
-                     "lastModificationDate":  "2026-04-23",
+                     "lastModificationDate":  "2026-05-20",
                      "address":  {
                                      "cityId":  674,
                                      "cityName":  "Campos Sales",
@@ -176744,6 +176755,49 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3440/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3441,
+                     "name":  "VERIDIANO PEREIRA RODRIGUES ",
+                     "tradeName":  "",
+                     "cpf":  "028.944.133-19",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-20",
+                     "lastModificationDate":  "2026-05-20",
+                     "address":  {
+                                     "cityId":  682,
+                                     "cityName":  "Cascavel",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3441/bank-informations"
                                    }
                                ]
                  }
