@@ -176800,6 +176800,60 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3441/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3442,
+                     "name":  "57.868.040 DAVIDSON GOMES DA SILVA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "57.868.040/0001-77",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-21",
+                     "lastModificationDate":  "2026-05-21",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA F",
+                                     "number":  "41",
+                                     "complement":  "",
+                                     "neighborhood":  "PREFEITO JOSE WALTER",
+                                     "state":  "CE",
+                                     "zipCode":  "60750-050"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9748-3008",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "DTGACESSORIOS@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3442/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

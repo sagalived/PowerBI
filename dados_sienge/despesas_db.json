@@ -1527,7 +1527,7 @@
                      "registeredDate":  "2025-12-23 10:28:33",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-05-07 10:46:19",
+                     "changedDate":  "2026-05-21 10:18:14",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -18947,7 +18947,7 @@
                      "registeredDate":  "2026-01-14 14:41:20",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-16 08:31:56",
+                     "changedDate":  "2026-05-21 10:15:04",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -20871,7 +20871,7 @@
                      "registeredDate":  "2026-01-15 09:26:33",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-16 08:49:31",
+                     "changedDate":  "2026-05-21 10:17:15",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -25083,7 +25083,7 @@
                      "registeredDate":  "2026-01-19 14:48:08",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-05-20 08:06:07",
+                     "changedDate":  "2026-05-21 09:43:43",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -29035,7 +29035,7 @@
                      "registeredDate":  "2026-01-21 16:26:22",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-16 08:33:05",
+                     "changedDate":  "2026-05-21 10:15:30",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -34131,7 +34131,7 @@
                      "registeredDate":  "2026-01-26 16:45:36",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-16 09:09:42",
+                     "changedDate":  "2026-05-21 09:44:28",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -34183,7 +34183,7 @@
                      "registeredDate":  "2026-01-26 16:48:01",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-16 09:06:36",
+                     "changedDate":  "2026-05-21 09:45:26",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -129445,9 +129445,9 @@
                      "registeredUserId":  "JACKSON",
                      "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
                      "registeredDate":  "2026-04-08 16:55:37",
-                     "changedUserId":  "SARAH",
-                     "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-10 08:11:23",
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-05-20 16:26:14",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -129965,9 +129965,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-04-09 09:39:41",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:50:04",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -144525,9 +144525,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-04-22 07:51:39",
-                     "changedUserId":  "VICTORJEFFERSON",
-                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
-                     "changedDate":  "2026-04-22 07:52:13",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:19:35",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -144579,7 +144579,7 @@
                      "registeredDate":  "2026-04-22 08:05:19",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-04-22 09:38:48",
+                     "changedDate":  "2026-05-21 10:19:06",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -147853,9 +147853,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 11:43:26",
-                     "changedUserId":  "JACKSON",
-                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
-                     "changedDate":  "2026-04-23 11:57:40",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:16:42",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148063,7 +148063,7 @@
                      "registeredDate":  "2026-04-23 14:09:08",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-05-18 11:15:06",
+                     "changedDate":  "2026-05-20 17:56:52",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148217,9 +148217,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:27:28",
-                     "changedUserId":  "JACKSON",
-                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
-                     "changedDate":  "2026-05-20 09:13:15",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:57:12",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148425,9 +148425,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:35:51",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:34:33",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:57:35",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148633,9 +148633,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:45:48",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:33:45",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:59:12",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148685,9 +148685,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:53:24",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:35:46",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:58:05",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148737,9 +148737,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:59:33",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:37:16",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:58:26",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148841,9 +148841,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 15:21:00",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:38:09",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:55:40",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148997,9 +148997,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 15:31:11",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 10:40:16",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:58:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -153261,9 +153261,9 @@
                      "registeredUserId":  "JACKSON",
                      "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
                      "registeredDate":  "2026-04-28 09:07:38",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:16:07",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -154509,9 +154509,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-04-28 10:54:54",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:49:35",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -155759,7 +155759,7 @@
                      "registeredDate":  "2026-04-28 22:33:48",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-05-06 09:57:48",
+                     "changedDate":  "2026-05-21 10:01:03",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -155809,9 +155809,9 @@
                      "registeredUserId":  "WALISSON",
                      "registeredBy":  "WALISSON PEREIRA NASCIMENTO DA SILVA",
                      "registeredDate":  "2026-04-28 22:35:16",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:59:23",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157317,9 +157317,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 18:01:17",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:07:01",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157369,9 +157369,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 18:08:38",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:04:39",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157629,9 +157629,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 18:18:14",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:05:43",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157681,9 +157681,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 20:32:03",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:07:37",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157733,9 +157733,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 20:35:26",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:06:13",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -157785,9 +157785,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-04-29 20:38:09",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:05:09",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -159855,7 +159855,7 @@
                      "documentIdentificationId":  "PPC ",
                      "documentNumber":  "15796",
                      "issueDate":  "2026-05-04",
-                     "installmentsNumber":  3,
+                     "installmentsNumber":  1,
                      "totalInvoiceAmount":  7016.3,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  null,
@@ -159865,9 +159865,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-05-04 09:20:47",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "GEAN",
+                     "changedBy":  "GEAN FROTA MOREIRA",
+                     "changedDate":  "2026-05-21 10:43:12",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -159969,9 +159969,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-05-04 10:15:47",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:57:54",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -161789,9 +161789,9 @@
                      "registeredUserId":  "SARAH",
                      "registeredBy":  "SARAH FERREIRA SILVA",
                      "registeredDate":  "2026-05-04 17:22:05",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:18:40",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -161945,9 +161945,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-05-04 17:31:37",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:49:05",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -162621,9 +162621,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-05-05 09:04:28",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:51:43",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -163037,9 +163037,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-05 11:48:51",
-                     "changedUserId":  "JACKSON",
-                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
-                     "changedDate":  "2026-05-14 15:39:41",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:48:24",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -163193,9 +163193,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-05 12:52:03",
-                     "changedUserId":  "JACKSON",
-                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
-                     "changedDate":  "2026-05-14 15:07:15",
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-05-20 16:57:15",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167041,9 +167041,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:22:27",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:57:26",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167093,9 +167093,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:26:57",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:58:53",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167145,9 +167145,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:38:20",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:58:24",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167197,9 +167197,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:45:06",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:03:36",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167249,9 +167249,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:50:29",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:04:06",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167301,9 +167301,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:56:50",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:08:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -167353,9 +167353,9 @@
                      "registeredUserId":  "EWERTON",
                      "registeredBy":  "EWERTON COSME DE ALMEIDA GURGEL",
                      "registeredDate":  "2026-05-06 23:59:28",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:03:10",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -170733,9 +170733,9 @@
                      "registeredUserId":  "GEAN",
                      "registeredBy":  "GEAN FROTA MOREIRA",
                      "registeredDate":  "2026-05-11 16:15:54",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:47:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -173021,9 +173021,9 @@
                      "registeredUserId":  "SARAH",
                      "registeredBy":  "SARAH FERREIRA SILVA",
                      "registeredDate":  "2026-05-12 17:22:07",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:17:47",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -173177,9 +173177,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-12 17:39:59",
-                     "changedUserId":  "ERICA",
-                     "changedBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
-                     "changedDate":  "2026-05-13 09:45:38",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:20:58",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -173229,9 +173229,9 @@
                      "registeredUserId":  "CICERO",
                      "registeredBy":  "CICERO DE OLIVEIRA GUALBERTO",
                      "registeredDate":  "2026-05-12 20:35:37",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:52:38",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -173437,9 +173437,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-13 09:48:36",
-                     "changedUserId":  "ERICA",
-                     "changedBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
-                     "changedDate":  "2026-05-13 09:55:00",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:21:26",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -173697,9 +173697,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-13 10:07:44",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 08:42:14",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:50:31",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -175049,9 +175049,9 @@
                      "registeredUserId":  "ATILA",
                      "registeredBy":  "FRANCISCO ATILA SILVA FERREIRA",
                      "registeredDate":  "2026-05-13 21:14:37",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:45:55",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -175829,9 +175829,9 @@
                      "registeredUserId":  "LUISPAULO",
                      "registeredBy":  "LUIS PAULO BRAZ DA SILVA",
                      "registeredDate":  "2026-05-14 13:37:04",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:01:30",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -175933,9 +175933,9 @@
                      "registeredUserId":  "ATILA",
                      "registeredBy":  "FRANCISCO ATILA SILVA FERREIRA",
                      "registeredDate":  "2026-05-14 15:30:06",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:46:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -175985,9 +175985,9 @@
                      "registeredUserId":  "ATILA",
                      "registeredBy":  "FRANCISCO ATILA SILVA FERREIRA",
                      "registeredDate":  "2026-05-14 15:31:38",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-05-20 16:48:59",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -176349,9 +176349,9 @@
                      "registeredUserId":  "LIDIAPAIVA",
                      "registeredBy":  "ANA LIDIA PAIVA DE ALMEIDA",
                      "registeredDate":  "2026-05-15 09:19:16",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-05-20 17:05:28",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -176505,9 +176505,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-15 12:17:46",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-05-20 15:57:18",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -176559,7 +176559,7 @@
                      "registeredDate":  "2026-05-15 13:40:25",
                      "changedUserId":  "VICTORJEFFERSON",
                      "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
-                     "changedDate":  "2026-05-20 14:15:18",
+                     "changedDate":  "2026-05-20 16:47:00",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -177113,58 +177113,6 @@
                                ]
                  },
                  {
-                     "id":  58266,
-                     "debtorId":  1,
-                     "creditorId":  1754,
-                     "documentIdentificationId":  "CO  ",
-                     "documentNumber":  "GUIA PROCESSO ALAN",
-                     "issueDate":  "2026-05-15",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  6000.0,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "GUIA CUSTAS PROCESSO  ALAN SILVA DE CARVALHO",
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "CP",
-                     "registeredUserId":  "ERICA",
-                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
-                     "registeredDate":  "2026-05-15 16:41:05",
-                     "changedUserId":  "ERICA",
-                     "changedBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
-                     "changedDate":  "2026-05-15 16:47:38",
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58266/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58266/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58266/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1754"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58266/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58266/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
                      "id":  58267,
                      "debtorId":  7,
                      "creditorId":  2404,
@@ -177285,9 +177233,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-15 17:57:42",
-                     "changedUserId":  "JACKSON",
-                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
-                     "changedDate":  "2026-05-19 18:42:06",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:46:57",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -177545,9 +177493,9 @@
                      "registeredUserId":  "SARAH",
                      "registeredBy":  "SARAH FERREIRA SILVA",
                      "registeredDate":  "2026-05-18 12:06:01",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:21:47",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -177649,9 +177597,9 @@
                      "registeredUserId":  "SARAH",
                      "registeredBy":  "SARAH FERREIRA SILVA",
                      "registeredDate":  "2026-05-18 13:26:02",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:42:18",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -179521,9 +179469,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-19 17:42:04",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:20:33",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180249,9 +180197,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-05-19 18:09:34",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:47:24",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180509,9 +180457,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:10:35",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:01:48",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180561,9 +180509,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:11:28",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:02:15",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180613,9 +180561,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:12:19",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 13:53:42",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:02:44",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180665,9 +180613,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:13:18",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:03:04",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180717,9 +180665,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:14:22",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 14:18:53",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:03:29",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180769,9 +180717,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:15:12",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:03:55",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180821,9 +180769,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:16:11",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:04:18",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180873,9 +180821,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:17:04",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:04:39",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180925,9 +180873,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:18:06",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:05:04",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -180977,9 +180925,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:19:00",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:05:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181029,9 +180977,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:20:00",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:05:47",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181081,9 +181029,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:20:48",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:06:19",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181133,9 +181081,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:21:40",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:06:41",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181185,9 +181133,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:22:31",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 14:25:45",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:07:07",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181237,9 +181185,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-19 18:23:35",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:07:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181341,9 +181289,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:14:54",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:07:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181393,9 +181341,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:15:56",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:08:11",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181445,9 +181393,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:18:50",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:08:40",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181497,9 +181445,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:19:44",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:11:09",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181549,9 +181497,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:20:42",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:11:34",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181601,9 +181549,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:21:54",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:11:55",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181643,7 +181591,7 @@
                      "documentIdentificationId":  "CO  ",
                      "documentNumber":  "1ª MAIO GENESIS DINA",
                      "issueDate":  "2026-05-20",
-                     "installmentsNumber":  1,
+                     "installmentsNumber":  2,
                      "totalInvoiceAmount":  10318.37,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "1ª QUINZENA DE MAIO -GÊNESIS DINÂMICA",
@@ -181653,9 +181601,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:22:53",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:12:20",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181705,9 +181653,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:23:54",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 14:34:42",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:12:48",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181757,9 +181705,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:25:01",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:13:07",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181799,7 +181747,7 @@
                      "documentIdentificationId":  "CO  ",
                      "documentNumber":  "1ª MAIO PRF",
                      "issueDate":  "2026-05-20",
-                     "installmentsNumber":  1,
+                     "installmentsNumber":  2,
                      "totalInvoiceAmount":  2004.48,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "1ª QUINZENA DE MAIO - PRF",
@@ -181809,9 +181757,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:25:52",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:13:30",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181861,9 +181809,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:26:37",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:13:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181913,9 +181861,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:28:02",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:59:40",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -181965,9 +181913,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:28:57",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:00:02",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182017,9 +181965,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:30:05",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:00:24",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182059,7 +182007,7 @@
                      "documentIdentificationId":  "CO  ",
                      "documentNumber":  "1ª MAIO GENESIS JFK",
                      "issueDate":  "2026-05-20",
-                     "installmentsNumber":  1,
+                     "installmentsNumber":  2,
                      "totalInvoiceAmount":  13109.29,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "1ª QUINZENA DE MAIO - GÊNESIS JFK",
@@ -182069,9 +182017,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:31:39",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:00:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182121,9 +182069,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 08:33:18",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 18:01:13",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182225,9 +182173,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-05-20 08:43:39",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:50:52",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182277,9 +182225,9 @@
                      "registeredUserId":  "LIDIAPAIVA",
                      "registeredBy":  "ANA LIDIA PAIVA DE ALMEIDA",
                      "registeredDate":  "2026-05-20 08:44:33",
-                     "changedUserId":  "LIDIAPAIVA",
-                     "changedBy":  "ANA LIDIA PAIVA DE ALMEIDA",
-                     "changedDate":  "2026-05-20 11:55:16",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 09:43:09",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182329,9 +182277,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-05-20 09:02:19",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-05-20 09:04:30",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 17:56:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -182381,9 +182329,9 @@
                      "registeredUserId":  "SARAH",
                      "registeredBy":  "SARAH FERREIRA SILVA",
                      "registeredDate":  "2026-05-20 09:16:58",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-05-20 09:34:47",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-20 16:25:55",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -183109,9 +183057,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-05-20 10:55:59",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-05-21 10:20:08",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -183163,7 +183111,7 @@
                      "registeredDate":  "2026-05-20 11:00:40",
                      "changedUserId":  "GEAN",
                      "changedBy":  "GEAN FROTA MOREIRA",
-                     "changedDate":  "2026-05-20 12:05:28",
+                     "changedDate":  "2026-05-21 09:02:15",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -183509,58 +183457,6 @@
                                ]
                  },
                  {
-                     "id":  58392,
-                     "debtorId":  7,
-                     "creditorId":  3436,
-                     "documentIdentificationId":  "BOL ",
-                     "documentNumber":  "382739",
-                     "issueDate":  "2026-05-20",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  0.0,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "Nota fiscal associada ao pedido de compra: 15847.",
-                     "discount":  0.0,
-                     "status":  "N",
-                     "originId":  "AC",
-                     "registeredUserId":  "VICTORJEFFERSON",
-                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
-                     "registeredDate":  "2026-05-20 14:15:17",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58392/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58392/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58392/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3436"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58392/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58392/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
                      "id":  58393,
                      "debtorId":  1,
                      "creditorId":  3368,
@@ -183769,58 +183665,6 @@
                                ]
                  },
                  {
-                     "id":  58397,
-                     "debtorId":  2,
-                     "creditorId":  27,
-                     "documentIdentificationId":  "PPC ",
-                     "documentNumber":  "15865",
-                     "issueDate":  "2026-05-20",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  637.0,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  null,
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "AC",
-                     "registeredUserId":  "RAFAEL",
-                     "registeredBy":  "RAFAEL DE SA CRUZ",
-                     "registeredDate":  "2026-05-20 14:45:42",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58397/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58397/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58397/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/27"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58397/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58397/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
                      "id":  58398,
                      "debtorId":  7,
                      "creditorId":  3382,
@@ -183869,6 +183713,786 @@
                                    {
                                        "rel":  "buildingsCost",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58398/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58399,
+                     "debtorId":  1,
+                     "creditorId":  122,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "648",
+                     "issueDate":  "2026-05-20",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  89.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-05-20 15:07:17",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58399/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58399/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58399/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/122"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58399/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58399/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58400,
+                     "debtorId":  7,
+                     "creditorId":  3436,
+                     "documentIdentificationId":  "CC  ",
+                     "documentNumber":  "382739",
+                     "issueDate":  "2026-05-09",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  23299.55,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 15847.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-05-20 16:46:59",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-05-20 16:50:18",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58400/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58400/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58400/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3436"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58400/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58400/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58401,
+                     "debtorId":  1,
+                     "creditorId":  237,
+                     "documentIdentificationId":  "PPC ",
+                     "documentNumber":  "15867",
+                     "issueDate":  "2026-05-20",
+                     "installmentsNumber":  2,
+                     "totalInvoiceAmount":  1883.97,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  null,
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "RAFAEL",
+                     "registeredBy":  "RAFAEL DE SA CRUZ",
+                     "registeredDate":  "2026-05-20 16:57:47",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58401/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58401/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58401/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/237"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58401/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58401/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58402,
+                     "debtorId":  1,
+                     "creditorId":  1659,
+                     "documentIdentificationId":  "PPC ",
+                     "documentNumber":  "15868",
+                     "issueDate":  "2026-05-20",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  610.88,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  null,
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "RAFAEL",
+                     "registeredBy":  "RAFAEL DE SA CRUZ",
+                     "registeredDate":  "2026-05-20 16:57:48",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58402/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58402/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58402/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1659"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58402/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58402/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58403,
+                     "debtorId":  2,
+                     "creditorId":  27,
+                     "documentIdentificationId":  "PPC ",
+                     "documentNumber":  "15865",
+                     "issueDate":  "2026-05-20",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  598.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "RAFAEL",
+                     "registeredBy":  "RAFAEL DE SA CRUZ",
+                     "registeredDate":  "2026-05-20 16:57:48",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58403/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58403/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58403/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/27"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58403/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58403/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58404,
+                     "debtorId":  1,
+                     "creditorId":  7,
+                     "documentIdentificationId":  "PPC ",
+                     "documentNumber":  "15866",
+                     "issueDate":  "2026-05-20",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  14335.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  null,
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "RAFAEL",
+                     "registeredBy":  "RAFAEL DE SA CRUZ",
+                     "registeredDate":  "2026-05-20 16:57:48",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58404/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58404/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58404/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/7"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58404/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58404/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58405,
+                     "debtorId":  1,
+                     "creditorId":  3434,
+                     "documentIdentificationId":  "RPF ",
+                     "documentNumber":  "3434.1",
+                     "issueDate":  "2026-05-11",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  700.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "GEAN",
+                     "registeredBy":  "GEAN FROTA MOREIRA",
+                     "registeredDate":  "2026-05-20 18:04:41",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58405/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58405/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58405/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3434"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58405/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58405/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58406,
+                     "debtorId":  1,
+                     "creditorId":  3442,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "BRINDES 10 ANOS DINÂ",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  2,
+                     "totalInvoiceAmount":  5630.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "BRINDES GARRAFAS E COPOS | 50% ADIANTAMENTO 21/05 - 50% SALDO 05/06\n\nChave Pix - dtgacessorios@gmail.com\n",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "LIDIAPAIVA",
+                     "registeredBy":  "ANA LIDIA PAIVA DE ALMEIDA",
+                     "registeredDate":  "2026-05-21 09:42:59",
+                     "changedUserId":  "LIDIAPAIVA",
+                     "changedBy":  "ANA LIDIA PAIVA DE ALMEIDA",
+                     "changedDate":  "2026-05-21 09:51:29",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58406/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58406/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58406/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3442"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58406/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58406/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58407,
+                     "debtorId":  1,
+                     "creditorId":  27,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "364801",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  7044.88,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 15796.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "GEAN",
+                     "registeredBy":  "GEAN FROTA MOREIRA",
+                     "registeredDate":  "2026-05-21 10:43:11",
+                     "changedUserId":  "GEAN",
+                     "changedBy":  "GEAN FROTA MOREIRA",
+                     "changedDate":  "2026-05-21 10:58:52",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58407/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58407/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58407/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/27"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58407/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58407/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58408,
+                     "debtorId":  1,
+                     "creditorId":  178,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "SEGURO 04/26 JFK ADM",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  234.09,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "SEGURO ABRIL/26 JFK ADMINISTRAÇÃO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-05-21 11:49:46",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58408/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58408/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58408/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/178"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58408/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58408/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58409,
+                     "debtorId":  6,
+                     "creditorId":  178,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "SEGURO 4/26 ÁGORA",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  13.77,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "SEGURO DE VIDA ABRIL/2026 - ÁGORA",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-05-21 11:51:13",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58409/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58409/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58409/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/178"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58409/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58409/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58410,
+                     "debtorId":  7,
+                     "creditorId":  178,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "SEGURO 4/6 GENE JFK",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  289.17,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "SEGURO DE VIDA ABRIL 2026 - GÊNESIS JFK",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-05-21 11:52:37",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58410/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58410/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58410/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/178"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58410/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58410/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58411,
+                     "debtorId":  1,
+                     "creditorId":  178,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "SEGURO DINA ABRIL 26",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  1206.25,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "SEGURO DE VIDA DINÂMICA - ABRIL 2026",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-05-21 11:59:07",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58411/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58411/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58411/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/178"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58411/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58411/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58412,
+                     "debtorId":  7,
+                     "creditorId":  178,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "SEGURO GEN JFK 4/26",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  142.89,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "SEGURO DE VIDA GÊNESIS JFK - ABRIL 2026",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-05-21 12:00:11",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58412/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58412/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58412/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/178"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58412/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58412/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  58413,
+                     "debtorId":  1,
+                     "creditorId":  1188,
+                     "documentIdentificationId":  "CTM ",
+                     "documentNumber":  "1837",
+                     "issueDate":  "2026-05-21",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  9740.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Faturamento da medição 1 da obra 249 - EXPANSÃO IV DO IFCE - CAMPUS CASCAVEL - CIDADE CASCAVEL do contrato CTM/1837.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "ME",
+                     "registeredUserId":  "GUSTAVO",
+                     "registeredBy":  "GUSTAVO NASCIMENTO SOUSA",
+                     "registeredDate":  "2026-05-21 12:04:19",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58413/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58413/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58413/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1188"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58413/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58413/buildings-cost"
                                    }
                                ]
                  }

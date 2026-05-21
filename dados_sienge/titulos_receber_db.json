@@ -4678,6 +4678,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1678,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1824",
+                     "issueDate":  "2026-05-20",
+                     "receivableBillValue":  47.12,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARACANAÚ\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1616,
                      "documentId":  "NFSE",
                      "documentNumber":  "1760",
@@ -5406,20 +5420,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1647,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1797",
-                     "issueDate":  "2026-05-30",
-                     "receivableBillValue":  941955.44,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "REFERENTE A 02ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE OBRA DE ENGENHARIA DA CONSTRUÇÃO DO CAMPUS CAMPOS SALES\r\nPERTENCENTE A EXPANSÃO IV DO IFCE.\r\nCONTRATO DE OBRA DE ENGENHARIA No 02/2026.\r\nPROCESSO No 23255.000507/2025-33.\r\nMATERIAL 40% - R$ 376.782,18.\r\nMÃO DE OBRA 60% - R$ 565.173,26.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643 - 8\r\nCNPJ / PIX: 25.025.604/0001-13",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1434,
                      "documentId":  "NFSE",
                      "documentNumber":  "1565",
@@ -5765,6 +5765,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "4ª MEDIÇÃO SERVIÇOS DE CONCLUSÃO DE 2 QUADRAS POLIESPORTIVAS COBERTAS COM PALCO(ESCOLAS MARIA DE LOURDES ROCHA E PEDRO LAURINDO DE OLIVEIRA) CAUCAIA CE. CONTRATO N° 201905300201 (LUCIANO)",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1674,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1820",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  4940.74,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS TIANGUÁ DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 08/2025.\r\nPROCESSO Nº 23255.000868/2025-80.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -8425,6 +8439,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "FINANÇAS",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1672,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1818",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  5698.57,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE AO REAJUSTE DA 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE\r\nUNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAMOCIM DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 11/2025.\r\nPROCESSO Nº 23255.000873/2025-92.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -11425,6 +11453,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1679,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1825",
+                     "issueDate":  "2026-05-20",
+                     "receivableBillValue":  942655.97,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 01ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE OBRA DE ENGENHARIA DA CONSTRUÇÃO DO CAMPUS CASCAVEL\r\nPERTENCENTE A EXPANSÃO IV DO IFCE.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 03/2026.\r\nPROCESSO Nº 23255.000500/2025-11.\r\nMATERIAL 40% - R$ 377.062,39.\r\nMÃO DE OBRA 60% - R$ 565.593,58.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643 - 8\r\nCNPJ / PIX: 25.025.604/0001-13",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  77,
                      "receivableBillId":  675,
                      "documentId":  "NFSE",
@@ -13791,6 +13833,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1677,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1823",
+                     "issueDate":  "2026-05-20",
+                     "receivableBillValue":  1168.56,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "7ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARACANAÚ.\r\n\"SERVIÇO DE EXECUÇÃO EMERGENCIAL\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  93,
                      "receivableBillId":  873,
                      "documentId":  "NFSE",
@@ -14323,6 +14379,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1673,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1819",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  66592.13,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS TIANGUÁ DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 08/2025.\r\nPROCESSO Nº 23255.000868/2025-80.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  45,
                      "receivableBillId":  56,
                      "documentId":  "NFSE",
@@ -14417,6 +14487,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 5ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01 A 30/06/2022 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS\r\nOBRAS DE REFORMA DA ESCOLA MUNICIPAL FREI TITO DE ALENCAR LIMA, BAIRRO PRAIA DO FUTURO II, NO MUNICÍPIO DE FORTALEZA.\r\nMAPPFOR: 10 - REFORMA E AMPLIAÇÃO DO PARQUE ESCOLAR.CONTRATO Nº 01/2022  FME-I - RDC PRESENCIAL Nº 004/2021",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1676,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1822",
+                     "issueDate":  "2026-05-20",
+                     "receivableBillValue":  62.82,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARACANAÚ\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16913,6 +16997,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1669,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1815",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  229123.7,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 11ª MEDIÇÃO 02ª MEDIÇÃO ADITIVO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA\r\nCONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  80,
                      "receivableBillId":  594,
                      "documentId":  "NFSE",
@@ -18197,6 +18295,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "1ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS PARA EXECUÇÃO DA OBRA DE REFORMA DE EDIFICAÇÃO PARA IMPLANTAÇÃO DA\r\nSEDE DO RAIO E POG NO MUNICÍPIO DE PENTECOSTE. CONTRATO N° 01-2021.10.07.52 - TP - ADM. TOMADA DE PREÇOS Nº 2021.10.07.52 - TP - ADM.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1647,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1797",
+                     "issueDate":  "2026-04-30",
+                     "receivableBillValue":  941955.44,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 02ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE OBRA DE ENGENHARIA DA CONSTRUÇÃO DO CAMPUS CAMPOS SALES\r\nPERTENCENTE A EXPANSÃO IV DO IFCE.\r\nCONTRATO DE OBRA DE ENGENHARIA No 02/2026.\r\nPROCESSO No 23255.000507/2025-33.\r\nMATERIAL 40% - R$ 376.782,18.\r\nMÃO DE OBRA 60% - R$ 565.173,26.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643 - 8\r\nCNPJ / PIX: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -19587,6 +19699,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1670,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1816",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  147087.58,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  77,
                      "receivableBillId":  554,
                      "documentId":  "NFSE",
@@ -20343,6 +20469,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1675,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1821",
+                     "issueDate":  "2026-05-20",
+                     "receivableBillValue":  1558.08,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "6ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS MARACANAÚ\r\n\"SERVIÇO DE EXECUÇÃO EMERGENCIAL\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  86,
                      "receivableBillId":  1092,
                      "documentId":  "NFSE",
@@ -20493,6 +20633,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "3ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS HORIZONTE. \"SERVIÇO DE EXECUÇÃO PREVENTIVA\" CONTRATO Nº 29 / 2023. PROCESSO Nº 23255.001512/2023-00.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1671,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1817",
+                     "issueDate":  "2026-05-19",
+                     "receivableBillValue":  76806.31,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAMOCIM DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 11/2025.\r\nPROCESSO Nº 23255.000873/2025-92.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
