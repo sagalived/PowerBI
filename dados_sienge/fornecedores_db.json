@@ -176854,6 +176854,203 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3442/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3443,
+                     "name":  "IDX CERTIFICACAO DIGITAL E SOLUCOES EMPRESARIAIS LTDA",
+                     "tradeName":  "IDX CERTIFICADO DIGITAL",
+                     "cpf":  null,
+                     "cnpj":  "47.472.740/0001-94",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-21",
+                     "lastModificationDate":  "2026-05-21",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA DESEMBARGADOR MOREIRA",
+                                     "number":  "2800",
+                                     "complement":  "      SALA 204",
+                                     "neighborhood":  "DIONISIO TORRES",
+                                     "state":  "CE",
+                                     "zipCode":  "60170-172"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9610-0800",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "IDXCERTIFICACAODIGITAL@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3443/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3444,
+                     "name":  "JOSE COELHO MATOS",
+                     "tradeName":  "J C COMERCIO DE CIMENTOS LTDA ",
+                     "cpf":  null,
+                     "cnpj":  "12.355.160/0001-32",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-22",
+                     "lastModificationDate":  "2026-05-22",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "AVENIDA CONTORNO LESTE",
+                                     "number":  "S N",
+                                     "complement":  "",
+                                     "neighborhood":  "CONJ NOVA METROPOLE",
+                                     "state":  "CE",
+                                     "zipCode":  "61605-600"
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3444/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3445,
+                     "name":  "ELIZEU FERREIRA MARCELINO ",
+                     "tradeName":  "",
+                     "cpf":  "502.873.463-15",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-22",
+                     "lastModificationDate":  "2026-05-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "99239-3425",
+                                        "main":  true,
+                                        "type":  1,
+                                        "extension":  "",
+                                        "observation":  ""
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3445/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3446,
+                     "name":  "PAULO WAGNER DE LIMA MARTINS ",
+                     "tradeName":  "",
+                     "cpf":  "030.621.013-42",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-22",
+                     "lastModificationDate":  "2026-05-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "98580-4234",
+                                        "main":  true,
+                                        "type":  3,
+                                        "extension":  "",
+                                        "observation":  ""
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3446/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
