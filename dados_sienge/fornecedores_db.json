@@ -177051,6 +177051,68 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3446/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3447,
+                     "name":  "B L PONTE SERVICOS DE PERICIA TECNICA E SEGURANCA DO TRABALHO EIRELI",
+                     "tradeName":  "PERSONAL - QSSMA",
+                     "cpf":  null,
+                     "cnpj":  "27.107.918/0001-90",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-22",
+                     "lastModificationDate":  "2026-05-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA CAIO CID",
+                                     "number":  "259",
+                                     "complement":  "LOJA  15",
+                                     "neighborhood":  "ENGENHEIRO LUCIANO CAVALCANTE",
+                                     "state":  "CE",
+                                     "zipCode":  "60811-150"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3086-1491",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3109-1496",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "BRUNOPONTELIFE@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3447/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
