@@ -156489,7 +156489,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2025-11-04",
-                     "lastModificationDate":  "2025-11-04",
+                     "lastModificationDate":  "2026-05-25",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -177165,6 +177165,576 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3448/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3449,
+                     "name":  "ROBERVAL ARAUJO ROCHA 32194234349",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "43.462.194/0001-50",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-25",
+                     "lastModificationDate":  "2026-05-25",
+                     "address":  {
+                                     "cityId":  781,
+                                     "cityName":  "Pindoretama",
+                                     "streetName":  "RUA ANA GAMA COUTINHO",
+                                     "number":  "775",
+                                     "complement":  "GALPAO A",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "62860-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8111-9556",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "GUILHERMECONT09@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3449/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3450,
+                     "name":  "D R LOCACOES DE MAQUINAS LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "60.709.784/0001-53",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-25",
+                     "lastModificationDate":  "2026-05-25",
+                     "address":  {
+                                     "cityId":  682,
+                                     "cityName":  "Cascavel",
+                                     "streetName":  "AREA CORONEL BIA",
+                                     "number":  "2572",
+                                     "complement":  "",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "62850-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9982-9650",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "DEPOSITOROSARIO2@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3450/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3451,
+                     "name":  "EVERARDO LEMOS ROCHA 04992567860",
+                     "tradeName":  "EVERARDO REFRIGERACAO",
+                     "cpf":  null,
+                     "cnpj":  "20.908.567/0001-78",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-25",
+                     "lastModificationDate":  "2026-05-25",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA A (LOT LAGUNA PARK)",
+                                     "number":  "14",
+                                     "complement":  "",
+                                     "neighborhood":  "LAGOA REDONDA",
+                                     "state":  "CE",
+                                     "zipCode":  "60831-222"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3021-0557",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "everardo.refrigeracao@hotmail.com",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3451/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3452,
+                     "name":  "ROGÉRIO NICOLAU DE BARROS ",
+                     "tradeName":  "",
+                     "cpf":  "812.277.103-30",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "Rua Vicente Lopes",
+                                     "number":  "242",
+                                     "complement":  "",
+                                     "neighborhood":  "Bairro Jardim das Oliveiras",
+                                     "state":  "CE",
+                                     "zipCode":  "60822-525"
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3452/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3453,
+                     "name":  "FRANCISCO MARQUES DA COSTA ",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3453/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3454,
+                     "name":  "ROMARIO AMORIM DA SILVA LTDA",
+                     "tradeName":  "BRITADOR WR. AMORIM",
+                     "cpf":  null,
+                     "cnpj":  "48.034.034/0001-23",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  660,
+                                     "cityName":  "Assaré",
+                                     "streetName":  "SITIO POCO DO CAVALO",
+                                     "number":  "SN",
+                                     "complement":  "",
+                                     "neighborhood":  "ARATAMA",
+                                     "state":  "CE",
+                                     "zipCode":  "63140-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "3546-1393",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ROMARIOAMORIM910@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3454/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3455,
+                     "name":  "MIKEIAS AUGUSTO SILVA DE SOUZA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3455/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3456,
+                     "name":  "MARIA IRANDI LEANDRO DE SOUZA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "06.269.212/0001-55",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  823,
+                                     "cityName":  "Várzea Alegre",
+                                     "streetName":  "AVENIDA PEDRO TENENTE",
+                                     "number":  "172",
+                                     "complement":  "",
+                                     "neighborhood":  "ALTO DO TENENTE",
+                                     "state":  "CE",
+                                     "zipCode":  "63540-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "3541-1048",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3456/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3457,
+                     "name":  "RACHEL NOGUEIRA BRAGA FURTADO",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3457/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3458,
+                     "name":  "55.146.325 RAYSSA ALVES PIRES",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "55.146.325/0001-79",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  692,
+                                     "cityName":  "Crato",
+                                     "streetName":  "AVENIDA PADRE CICERO",
+                                     "number":  "2742",
+                                     "complement":  "",
+                                     "neighborhood":  "MURITI",
+                                     "state":  "CE",
+                                     "zipCode":  "63132-022"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "9232-5912",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "RAYSSAALVESPIRES@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3458/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3459,
+                     "name":  "M T C MATERIAL DE CONSTRUCAO LTDA",
+                     "tradeName":  "CONSTRUMIX",
+                     "cpf":  null,
+                     "cnpj":  "56.908.665/0001-52",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  660,
+                                     "cityName":  "Assaré",
+                                     "streetName":  "AVENIDA FILEMON FREIRE",
+                                     "number":  "122",
+                                     "complement":  "",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "63140-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "9266-5843",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "CONSTRUMIXASSARE@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3459/bank-informations"
                                    }
                                ]
                  }
