@@ -2577,6 +2577,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  165,
+                     "receivableBillId":  1681,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "2",
+                     "issueDate":  "2025-06-30",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "128 F4N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1437,
                      "documentId":  "NFSE",
@@ -5471,6 +5485,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 8ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1683,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1828",
+                     "issueDate":  "2026-05-27",
+                     "receivableBillValue":  95027.16,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAUCAIA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 12/2025.\r\nPROCESSO Nº 23255.000875/2025-81.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -8439,6 +8467,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "FINANÇAS",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1682,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1827",
+                     "issueDate":  "2026-05-26",
+                     "receivableBillValue":  69550.02,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },

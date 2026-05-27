@@ -1657,6 +1657,54 @@
                                ]
                  },
                  {
+                     "id":  153209,
+                     "value":  0.02,
+                     "date":  "2026-01-05",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  141700,
                      "value":  7000.0,
                      "date":  "2026-01-06",
@@ -13809,6 +13857,54 @@
                                ]
                  },
                  {
+                     "id":  153210,
+                     "value":  0.07,
+                     "date":  "2026-02-03",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/41"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  144431,
                      "value":  108.0,
                      "date":  "2026-02-04",
@@ -14362,7 +14458,7 @@
                  },
                  {
                      "id":  144544,
-                     "value":  200000.0,
+                     "value":  220000.0,
                      "date":  "2026-02-05",
                      "documentNumber":  "1",
                      "description":  "TRANSFERÊNCIA ENTRE CONTAS | CAIXA P/ ITAÚ",
@@ -15837,6 +15933,54 @@
                                ]
                  },
                  {
+                     "id":  153211,
+                     "value":  0.33,
+                     "date":  "2026-02-09",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  144816,
                      "value":  183.54,
                      "date":  "2026-02-10",
@@ -17292,6 +17436,54 @@
                      "statementTypeNotes":  "Transferência",
                      "budgetCategories":  [
 
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153212,
+                     "value":  0.08,
+                     "date":  "2026-02-13",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
                                           ],
                      "links":  [
                                    {
@@ -22825,6 +23017,54 @@
                                    {
                                        "rel":  "bank-account",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXMOTORIST"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153213,
+                     "value":  0.03,
+                     "date":  "2026-03-03",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
                                    },
                                    {
                                        "rel":  "company",
@@ -32393,6 +32633,54 @@
                                ]
                  },
                  {
+                     "id":  153214,
+                     "value":  0.23,
+                     "date":  "2026-03-24",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  148675,
                      "value":  8791.38,
                      "date":  "2026-03-26",
@@ -33025,6 +33313,54 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CTM "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153216,
+                     "value":  0.64,
+                     "date":  "2026-03-26",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
                                    }
                                ]
                  },
@@ -36657,6 +36993,54 @@
                                    {
                                        "rel":  "bank-account",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153217,
+                     "value":  0.01,
+                     "date":  "2026-04-02",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
                                    },
                                    {
                                        "rel":  "company",
@@ -49861,6 +50245,54 @@
                                ]
                  },
                  {
+                     "id":  153206,
+                     "value":  160.35,
+                     "date":  "2026-05-05",
+                     "documentNumber":  "01",
+                     "description":  "BANCO ITAUCARD S.A.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58551,
+                     "installmentNumber":  5,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/41"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  151660,
                      "value":  47.98,
                      "date":  "2026-05-06",
@@ -53913,6 +54345,42 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153187,
+                     "value":  60.0,
+                     "date":  "2026-05-13",
+                     "documentNumber":  "01",
+                     "description":  "DIÁRIAS DE SERVIÇOS",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58544,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
                                    }
                                ]
                  },
@@ -59185,6 +59653,42 @@
                                ]
                  },
                  {
+                     "id":  153190,
+                     "value":  250.0,
+                     "date":  "2026-05-21",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA | JOÃO PAULO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MOTORISTAJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  152950,
                      "value":  985.0,
                      "date":  "2026-05-22",
@@ -59361,6 +59865,54 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153219,
+                     "value":  0.03,
+                     "date":  "2026-05-22",
+                     "documentNumber":  "01",
+                     "description":  "RENDIMENTO EM CONTA CORRENTE",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
                                    }
                                ]
                  },
@@ -59961,6 +60513,378 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153128,
+                     "value":  942.14,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153129,
+                     "value":  942.14,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153132,
+                     "value":  559.01,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153133,
+                     "value":  559.01,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153144,
+                     "value":  17.64,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "9908",
+                     "description":  "B L PONTE SERVICOS DE PERICIA TECNICA E SEGURANCA DO TRABALHO EIRELI",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58442,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/41"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153158,
+                     "value":  14.86,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "GRRF RONAILTON",
+                     "description":  "CAIXA ECONOMICA FEDERAL",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58327,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153161,
+                     "value":  544.15,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "TRCT RONAILTON LOPES",
+                     "description":  "RESCISÃO CONTRATUAL (TRCT)",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58326,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153164,
+                     "value":  93.86,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "GRRF DANIEL ABREU",
+                     "description":  "CAIXA ECONOMICA FEDERAL",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58323,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153168,
+                     "value":  848.28,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "TRCT DANIEL ABREU",
+                     "description":  "RESCISÃO CONTRATUAL (TRCT)",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58322,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153171,
+                     "value":  20000.0,
+                     "date":  "2026-05-26",
+                     "documentNumber":  "1880",
+                     "description":  "NAFRAME STEEL FRAME E DRYWALL LTDA",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  55660,
+                     "installmentNumber":  3,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
                                    }
                                ]
                  }

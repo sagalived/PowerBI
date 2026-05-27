@@ -177737,6 +177737,114 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3459/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3460,
+                     "name":  "CERAMICA LUMA LTDA EPP",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "08.290.557/0001-16",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-26",
+                     "lastModificationDate":  "2026-05-26",
+                     "address":  {
+                                     "cityId":  682,
+                                     "cityName":  "Cascavel",
+                                     "streetName":  "RODOVIA CE 040",
+                                     "number":  "SN",
+                                     "complement":  "",
+                                     "neighborhood":  "CHORO ALTO SANTANA",
+                                     "state":  "CE",
+                                     "zipCode":  "62850-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3033-6250",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "CADASTRO@PLANNAPLUS.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3460/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3461,
+                     "name":  "HUGO ROCHA CARVALHO LIMA NETO",
+                     "tradeName":  "AKI ALUMINIO",
+                     "cpf":  null,
+                     "cnpj":  "10.985.632/0001-05",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-27",
+                     "lastModificationDate":  "2026-05-27",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA ODILON GUIMARAES",
+                                     "number":  "2360",
+                                     "complement":  "",
+                                     "neighborhood":  "CURIO",
+                                     "state":  "CE",
+                                     "zipCode":  "60844-070"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3274-9508",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "AKIALUMINIO@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3461/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
