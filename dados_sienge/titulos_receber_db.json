@@ -5839,6 +5839,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  177,
+                     "receivableBillId":  1685,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "7",
+                     "issueDate":  "2025-06-30",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "11 F4N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1495,
                      "documentId":  "NFSE",
@@ -19865,6 +19879,20 @@
                      "note":  "13ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA\r\nDAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 30 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  171,
+                     "receivableBillId":  1684,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "4",
+                     "issueDate":  "2026-03-17",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "04 F4P"
                  },
                  {
                      "customerId":  6,
