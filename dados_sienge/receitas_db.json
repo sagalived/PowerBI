@@ -61067,6 +61067,750 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
                                    }
                                ]
+                 },
+                 {
+                     "id":  153257,
+                     "value":  18043.38,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1790",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1640,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/287"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153263,
+                     "value":  12525.06,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1814",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1668,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/280"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153269,
+                     "value":  147087.58,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1816",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1670,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/284"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153275,
+                     "value":  4940.74,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1820",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1674,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/283"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153281,
+                     "value":  5698.57,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1818",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1672,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/279"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153285,
+                     "value":  229123.7,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1815",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1669,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/284"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153291,
+                     "value":  76806.31,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1817",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1671,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/279"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153297,
+                     "value":  66592.13,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "1819",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1673,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/283"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153307,
+                     "value":  2331.1,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153308,
+                     "value":  2331.1,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153311,
+                     "value":  3069.8,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153312,
+                     "value":  3069.8,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153315,
+                     "value":  646.8,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BSANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153316,
+                     "value":  646.8,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153319,
+                     "value":  9339.9,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "02",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BSANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153320,
+                     "value":  9339.9,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "02",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153323,
+                     "value":  180000.0,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/ITAUPJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153325,
+                     "value":  25000.0,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
                  }
              ]
 }

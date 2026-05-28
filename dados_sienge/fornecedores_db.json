@@ -177888,6 +177888,172 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3462/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3463,
+                     "name":  "ADMINISTRADORA VIA SUL DE SHOPPING CENTERS LTDA",
+                     "tradeName":  "VIA SUL ADMINISTRADORA",
+                     "cpf":  null,
+                     "cnpj":  "19.807.185/0001-79",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-28",
+                     "lastModificationDate":  "2026-05-28",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA WASHINGTON SOARES",
+                                     "number":  "4335",
+                                     "complement":  "LOJA 418",
+                                     "neighborhood":  "SAPIRANGA",
+                                     "state":  "CE",
+                                     "zipCode":  "60833-005"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3606-4310",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3463/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3464,
+                     "name":  "PAGAR.ME INSTITUICAO DE PAGAMENTO S.A",
+                     "tradeName":  "PAGAR.ME PAGAMENTOS",
+                     "cpf":  null,
+                     "cnpj":  "18.727.053/0001-74",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-28",
+                     "lastModificationDate":  "2026-05-28",
+                     "address":  {
+                                     "cityId":  3,
+                                     "cityName":  "São Paulo",
+                                     "streetName":  "AVENIDA REBOUCAS",
+                                     "number":  "2880",
+                                     "complement":  "ANDAR 2                   SALA  1",
+                                     "neighborhood":  "PINHEIROS",
+                                     "state":  "SP",
+                                     "zipCode":  "05402-500"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "11",
+                                        "number":  "3031-2367",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "RELACIONAMENTO@PAGAR.ME",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3464/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3465,
+                     "name":  "FUMINAS INDUSTRIA E COMERCIO DE FUNDIDOS LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "56.776.776/0001-52",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "374019055118",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-28",
+                     "lastModificationDate":  "2026-05-28",
+                     "address":  {
+                                     "cityId":  5049,
+                                     "cityName":  "Itapira",
+                                     "streetName":  "ESTRADA ANACLETO AVANCINI",
+                                     "number":  "S/N",
+                                     "complement":  "KM    163 / EST SP 352",
+                                     "neighborhood":  "MACUCOS",
+                                     "state":  "SP",
+                                     "zipCode":  "13974-720"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "19",
+                                        "number":  "3843-5050",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "11",
+                                        "number":  "3766-2144",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "FUMINAS@FUMINAS.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3465/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
