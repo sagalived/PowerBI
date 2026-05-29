@@ -178054,6 +178054,60 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3465/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3466,
+                     "name":  "FUPLASTIC INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+                     "tradeName":  "FUPLASTIC",
+                     "cpf":  null,
+                     "cnpj":  "04.283.240/0001-00",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "278325920115",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-28",
+                     "lastModificationDate":  "2026-05-28",
+                     "address":  {
+                                     "cityId":  4934,
+                                     "cityName":  "Cotia",
+                                     "streetName":  "RUA SANTA MONICA",
+                                     "number":  "204",
+                                     "complement":  "LOTE  01 A 06",
+                                     "neighborhood":  "PARQUE INDUSTRIAL SAN JOSE",
+                                     "state":  "SP",
+                                     "zipCode":  "06715-865"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "11",
+                                        "number":  "3677-2144",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ATENDIMENTO@FUMINAS.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3466/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

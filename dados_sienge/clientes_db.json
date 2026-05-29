@@ -1,6 +1,124 @@
 {
     "data":  [
                  {
+                     "id":  351,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-05-29",
+                     "modifiedAt":  "2026-05-29",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "Rua Francisca Idalina do Nascimento",
+                                           "number":  "150",
+                                           "complement":  "",
+                                           "neighborhood":  "Lagoinha",
+                                           "cityId":  697,
+                                           "city":  "Eusébio",
+                                           "state":  "CE",
+                                           "zipCode":  "61760-740",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "64224007487",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Masculino",
+                     "matrimonialRegime":  "",
+                     "name":  "MARCONI WAGNER FÉLIX DA SILVA",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
+                     "id":  350,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-05-28",
+                     "modifiedAt":  "2026-05-28",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "Rua Visconde de Mauá",
+                                           "number":  "1661",
+                                           "complement":  "apt 1902",
+                                           "neighborhood":  "Meireles",
+                                           "cityId":  18,
+                                           "city":  "Fortaleza",
+                                           "state":  "CE",
+                                           "zipCode":  "60125-160",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "22391258372",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Masculino",
+                     "matrimonialRegime":  "",
+                     "name":  "FRANCISCO ELITON ARAÚJO",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
                      "id":  349,
                      "personType":  "Física",
                      "foreigner":  "N",
