@@ -178108,6 +178108,441 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3466/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3467,
+                     "name":  "JUSTICA FEDERAL DE PRIMEIRA INSTANCIA SECAO JUDICIARIA DO CEARA",
+                     "tradeName":  "SECAO JUDICIARIA DO CEARA",
+                     "cpf":  null,
+                     "cnpj":  "05.424.487/0001-53",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-05-31",
+                     "lastModificationDate":  "2026-05-31",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "PRACA MURILO BORGES",
+                                     "number":  "1",
+                                     "complement":  "EDIFICIO RAUL BARBOSA",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "60035-210"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3521-2722",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3521-2622",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "nufip@jfce.jus.br",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3467/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3468,
+                     "name":  "SUA MORADA BN SERVICOS IMOBILIARIOS LTDA",
+                     "tradeName":  "BANDEIRA NETO IMOVEIS",
+                     "cpf":  null,
+                     "cnpj":  "46.570.174/0001-90",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  697,
+                                     "cityName":  "Eusébio",
+                                     "streetName":  "AVENIDA EUSEBIO DE QUEIROZ",
+                                     "number":  "4808",
+                                     "complement":  "SALA  303                 ANDAR 3",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "61760-051"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8413-1415",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "IMOBSUAMORADA@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3468/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3469,
+                     "name":  "TEREZA DAVILA COSTA RODRIGUES 05036943392",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "20.475.835/0001-05",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  767,
+                                     "cityName":  "Pacajus",
+                                     "streetName":  "RUA RUA TABELIAO JOSE GAMA FILHO",
+                                     "number":  "SN",
+                                     "complement":  "",
+                                     "neighborhood":  "BURITI",
+                                     "state":  "CE",
+                                     "zipCode":  "62870-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8138-7979",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "theresa_davylla@hotmail.com",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3469/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3470,
+                     "name":  "FRANCISCO ELIAS NONATO DE CARVALHO",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3470/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3471,
+                     "name":  "ANTÔNIO MARCOS DE OLIVEIRA COSTA",
+                     "tradeName":  "",
+                     "cpf":  "042.007.673-50",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3471/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3472,
+                     "name":  "ERASMO SILVESTRE DA SILVA",
+                     "tradeName":  "",
+                     "cpf":  "060.442.653-40",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3472/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3473,
+                     "name":  "EDUARDA JORVINO DA SILVA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3473/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3474,
+                     "name":  "MAGNUM DE CASTRO DUARTE 04835663306",
+                     "tradeName":  "DUARTE CONSTRUCOES",
+                     "cpf":  null,
+                     "cnpj":  "35.028.713/0001-48",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "TRAVESSA FERNANDES VIEIRA",
+                                     "number":  "188",
+                                     "complement":  "",
+                                     "neighborhood":  "APARECIDA",
+                                     "state":  "CE",
+                                     "zipCode":  "63150-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "9997-1151",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3474/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3475,
+                     "name":  "JOÃO PAULO AFONSO ALENCAR ARRAIS",
+                     "tradeName":  "",
+                     "cpf":  "042.521.313-75",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-01",
+                     "lastModificationDate":  "2026-06-01",
+                     "address":  {
+                                     "cityId":  674,
+                                     "cityName":  "Campos Sales",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3475/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

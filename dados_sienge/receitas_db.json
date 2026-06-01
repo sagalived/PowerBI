@@ -62879,6 +62879,546 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
                                    }
                                ]
+                 },
+                 {
+                     "id":  153472,
+                     "value":  2784.8,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VT 1ª JUNHO GEN JFK",
+                     "description":  "VALE TRANSPORTE",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58510,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153475,
+                     "value":  285.0,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VA 1ª JUNHO GEN JFK",
+                     "description":  "VALE ALIMENTAÇÃO",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58531,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153478,
+                     "value":  1000.64,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "TRCT ALESSANDRO LIMA",
+                     "description":  "RESCISÃO CONTRATUAL (TRCT)",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58660,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153481,
+                     "value":  3932.0,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VR JUNHO/26 ADM JFK",
+                     "description":  "VR BENEFICIOS E SERVICOS DE PROCESSAMENTO S.A",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58555,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153484,
+                     "value":  105.9,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "GRRF ALESSANDRO LIMA",
+                     "description":  "CAIXA ECONOMICA FEDERAL",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58661,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153487,
+                     "value":  245.0,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VR JUNHO 26 ÁGORA",
+                     "description":  "VR BENEFICIOS E SERVICOS DE PROCESSAMENTO S.A",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58554,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153490,
+                     "value":  4524.32,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VR JUNHO 26 GEN JFK",
+                     "description":  "VR BENEFICIOS E SERVICOS DE PROCESSAMENTO S.A",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58553,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153496,
+                     "value":  2231.1,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VT 1ª JUNHO GEN DINA",
+                     "description":  "VALE TRANSPORTE",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58508,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153520,
+                     "value":  208.6,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "CLIN GEN DINA 05/26",
+                     "description":  "NACIONAL ODONTO OPERADORA DE PLANOS ODONTOLOGICOS LTDA",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58542,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153526,
+                     "value":  308.5,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "CLIN GEN JFK 05/26",
+                     "description":  "NACIONAL ODONTO OPERADORA DE PLANOS ODONTOLOGICOS LTDA",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58546,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153529,
+                     "value":  438.2,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "CLIN ADM JFK 05/2026",
+                     "description":  "NACIONAL ODONTO OPERADORA DE PLANOS ODONTOLOGICOS LTDA",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58547,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153542,
+                     "value":  1927.02,
+                     "date":  "2026-05-29",
+                     "documentNumber":  "VR JUNHO/26 GEN DINA",
+                     "description":  "VR BENEFICIOS E SERVICOS DE PROCESSAMENTO S.A",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58556,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153570,
+                     "value":  100.0,
+                     "date":  "2026-06-01",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA ",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/ATILA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153571,
+                     "value":  100.0,
+                     "date":  "2026-06-01",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA ",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  153582,
+                     "value":  0.69,
+                     "date":  "2026-06-01",
+                     "documentNumber":  "01",
+                     "description":  "RESGATE DE SALDO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CAJU"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
                  }
              ]
 }
