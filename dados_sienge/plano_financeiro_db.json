@@ -2971,15 +2971,6 @@
                      "flImposto":  "N"
                  },
                  {
-                     "id":  "2030104",
-                     "name":  "Juros / Perdas",
-                     "tpConta":  "R",
-                     "flRedutora":  "N",
-                     "flAtiva":  "S",
-                     "flAdiantamento":  "N",
-                     "flImposto":  "N"
-                 },
-                 {
                      "id":  "2010213",
                      "name":  "Treinamentos/palestras",
                      "tpConta":  "R",
@@ -3072,6 +3063,15 @@
                  {
                      "id":  "2011123",
                      "name":  "Prestação de serviço - Administrativo",
+                     "tpConta":  "R",
+                     "flRedutora":  "N",
+                     "flAtiva":  "S",
+                     "flAdiantamento":  "N",
+                     "flImposto":  "N"
+                 },
+                 {
+                     "id":  "2030104",
+                     "name":  "Juros",
                      "tpConta":  "R",
                      "flRedutora":  "N",
                      "flAtiva":  "S",
