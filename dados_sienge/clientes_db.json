@@ -1,6 +1,65 @@
 {
     "data":  [
                  {
+                     "id":  352,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-06-03",
+                     "modifiedAt":  "2026-06-03",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "2 The Beeches, Headington, Oxford, OX3 9JY",
+                                           "number":  "",
+                                           "complement":  "",
+                                           "neighborhood":  "",
+                                           "cityId":  null,
+                                           "city":  null,
+                                           "state":  "",
+                                           "zipCode":  "",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "82547416972",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Feminino",
+                     "matrimonialRegime":  "",
+                     "name":  "MARISTELA APARECIDA SAVEGNADO",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
                      "id":  351,
                      "personType":  "Física",
                      "foreigner":  "N",

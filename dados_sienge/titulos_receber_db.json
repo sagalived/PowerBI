@@ -15359,6 +15359,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1711,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1829",
+                     "issueDate":  "2026-06-01",
+                     "receivableBillValue":  17430.26,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "16ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  50,
                      "receivableBillId":  406,
                      "documentId":  "NFSE",
@@ -18645,6 +18659,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "ÚLTIMA MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DOS SERVIÇOS DE CONCLUSÃO DE 01 QUADRA POLIESPORTIVA COBERTA COM PALCO DA ESCOLA MARIA DE LOURDES ROCHA (OBRAS REMANESCENTES), JUNTO À SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE CAUCAIA/CE.\r\nCONTRATO Nº 20190503002-01",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1712,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1830",
+                     "issueDate":  "2026-06-01",
+                     "receivableBillValue":  702.82,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
                  },

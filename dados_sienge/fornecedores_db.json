@@ -178629,6 +178629,196 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3477/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3478,
+                     "name":  "VANIA DE LARILAC DAS CHAGAS MOURA",
+                     "tradeName":  "LARILAC CONFECCOES",
+                     "cpf":  null,
+                     "cnpj":  "86.752.516/0001-08",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-02",
+                     "lastModificationDate":  "2026-06-02",
+                     "address":  {
+                                     "cityId":  23,
+                                     "cityName":  "Teresina",
+                                     "streetName":  "CONJUNTO DIRCEU ARCOVERDE II",
+                                     "number":  "06",
+                                     "complement":  "QUADRA227                 CASA",
+                                     "neighborhood":  "DIRCEU ARCOVERDE II",
+                                     "state":  "PI",
+                                     "zipCode":  "64078-200"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "86",
+                                        "number":  "3235-5324",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3478/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3479,
+                     "name":  "MARISTELA APARECIDA SAVEGNADO",
+                     "tradeName":  "",
+                     "cpf":  "825.474.169-72",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-03",
+                     "lastModificationDate":  "2026-06-03",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "2 THE BEECHES",
+                                     "number":  "",
+                                     "complement":  "Headington, Oxford, OX3 9JY",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3479/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3480,
+                     "name":  "LUIS FERNANDO DE OLIVEIRA 02975519141",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "43.212.669/0001-50",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-03",
+                     "lastModificationDate":  "2026-06-03",
+                     "address":  {
+                                     "cityId":  8,
+                                     "cityName":  "Brasília",
+                                     "streetName":  "SETOR HABITACIONAL SOL NASCENTE",
+                                     "number":  "19",
+                                     "complement":  "",
+                                     "neighborhood":  "CEILANDIA SUL (CEILANDIA)",
+                                     "state":  "DF",
+                                     "zipCode":  "72236-800"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "61",
+                                        "number":  "9225-4345",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "LUISLFF2018@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3480/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3481,
+                     "name":  "LUÍS ANTÔNIO SANTOS DA COSTA",
+                     "tradeName":  "",
+                     "cpf":  "055.688.233-40",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-03",
+                     "lastModificationDate":  "2026-06-03",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3481/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
