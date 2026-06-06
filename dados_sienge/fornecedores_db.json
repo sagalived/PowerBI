@@ -178873,6 +178873,49 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3482/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3483,
+                     "name":  "J E E R IMPORTA CAO E EXPORTACAO LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "03.087.727/0001-46",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "062786890",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-05",
+                     "lastModificationDate":  "2026-06-05",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA SENADOR ALMINO",
+                                     "number":  "160",
+                                     "complement":  "",
+                                     "neighborhood":  "PRAIA DE IRACEMA",
+                                     "state":  "CE",
+                                     "zipCode":  "60060-220"
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3483/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

@@ -1,6 +1,65 @@
 {
     "data":  [
                  {
+                     "id":  353,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-06-05",
+                     "modifiedAt":  "2026-06-05",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "Rua Fausto Cabral",
+                                           "number":  "",
+                                           "complement":  "",
+                                           "neighborhood":  "Vicente Pinzon",
+                                           "cityId":  18,
+                                           "city":  "Fortaleza",
+                                           "state":  "CE",
+                                           "zipCode":  "60181-227",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "01767625405",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Masculino",
+                     "matrimonialRegime":  "",
+                     "name":  "VINICIUS DE AZEVEDO MENEZES",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
                      "id":  352,
                      "personType":  "Física",
                      "foreigner":  "N",
