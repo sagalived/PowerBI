@@ -55125,10 +55125,10 @@
                      "debtorId":  9,
                      "creditorId":  377,
                      "documentIdentificationId":  "CFA ",
-                     "documentNumber":  "MENSALIDADE 2015",
+                     "documentNumber":  "MENSALIDADE",
                      "issueDate":  "2026-01-01",
-                     "installmentsNumber":  5,
-                     "totalInvoiceAmount":  3967.6,
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  2380.56,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "MENSALIDADE DE SERVIÇOS CONTÁBEIS 2026 (BSC)",
                      "discount":  0.0,
@@ -55137,9 +55137,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-02-10 09:31:00",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-06-06 13:42:54",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -200457,58 +200457,6 @@
                                    {
                                        "rel":  "buildingsCost",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58746/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
-                     "id":  58747,
-                     "debtorId":  7,
-                     "creditorId":  2094,
-                     "documentIdentificationId":  "CPF ",
-                     "documentNumber":  "50915",
-                     "issueDate":  "2026-05-27",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  50.0,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "ABASTECIMENTO.",
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "CP",
-                     "registeredUserId":  "APRENDIZ",
-                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
-                     "registeredDate":  "2026-06-03 10:31:41",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58747/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58747/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58747/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58747/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/58747/buildings-cost"
                                    }
                                ]
                  },
