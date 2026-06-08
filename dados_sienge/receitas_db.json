@@ -41593,102 +41593,6 @@
                                ]
                  },
                  {
-                     "id":  150112,
-                     "value":  8699.01,
-                     "date":  "2026-04-15",
-                     "documentNumber":  "1701",
-                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
-                     "documentId":  "NFSE",
-                     "type":  "Income",
-                     "reconciliationDate":  null,
-                     "billId":  1551,
-                     "installmentNumber":  1,
-                     "statementOrigin":  "CR",
-                     "statementType":  "Recebimento",
-                     "statementTypeNotes":  "Recebimento",
-                     "budgetCategories":  [
-                                              {
-                                                  "percentage":  100.0,
-                                                  "links":  [
-                                                                {
-                                                                    "rel":  "cost-center",
-                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/213"
-                                                                },
-                                                                {
-                                                                    "rel":  "payment-categories",
-                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010102"
-                                                                }
-                                                            ]
-                                              }
-                                          ],
-                     "links":  [
-                                   {
-                                       "rel":  "bank-account",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "company-group",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
-                                   },
-                                   {
-                                       "rel":  "document",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
-                                   }
-                               ]
-                 },
-                 {
-                     "id":  150119,
-                     "value":  350.76,
-                     "date":  "2026-04-15",
-                     "documentNumber":  "1702",
-                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
-                     "documentId":  "NFSE",
-                     "type":  "Income",
-                     "reconciliationDate":  null,
-                     "billId":  1552,
-                     "installmentNumber":  1,
-                     "statementOrigin":  "CR",
-                     "statementType":  "Recebimento",
-                     "statementTypeNotes":  "Recebimento",
-                     "budgetCategories":  [
-                                              {
-                                                  "percentage":  100.0,
-                                                  "links":  [
-                                                                {
-                                                                    "rel":  "cost-center",
-                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/213"
-                                                                },
-                                                                {
-                                                                    "rel":  "payment-categories",
-                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010102"
-                                                                }
-                                                            ]
-                                              }
-                                          ],
-                     "links":  [
-                                   {
-                                       "rel":  "bank-account",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "company-group",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
-                                   },
-                                   {
-                                       "rel":  "document",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
-                                   }
-                               ]
-                 },
-                 {
                      "id":  150127,
                      "value":  616.0,
                      "date":  "2026-04-15",
@@ -42333,6 +42237,102 @@
                                    {
                                        "rel":  "bank-account",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154047,
+                     "value":  8699.01,
+                     "date":  "2026-04-15",
+                     "documentNumber":  "1701",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1551,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/213"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154054,
+                     "value":  350.76,
+                     "date":  "2026-04-15",
+                     "documentNumber":  "1702",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1552,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/213"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010102"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
                                    },
                                    {
                                        "rel":  "company",
@@ -65893,6 +65893,114 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154036,
+                     "value":  910.0,
+                     "date":  "2026-06-05",
+                     "documentNumber":  "1290",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "NFE ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58745,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFE "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154039,
+                     "value":  780.0,
+                     "date":  "2026-06-05",
+                     "documentNumber":  "1266",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "NFE ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58742,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFE "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154042,
+                     "value":  570.0,
+                     "date":  "2026-06-05",
+                     "documentNumber":  "1279",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "NFE ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58743,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFE "
                                    }
                                ]
                  }

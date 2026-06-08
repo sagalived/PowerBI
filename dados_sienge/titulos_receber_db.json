@@ -2185,6 +2185,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1552,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1702",
+                     "issueDate":  "2026-03-23",
+                     "receivableBillValue":  350.76,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CRATEUS.\r\nCONTRATO Nº 29/2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  55,
                      "receivableBillId":  850,
                      "documentId":  "NFSE",
@@ -3217,20 +3231,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "4ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES\r\nDAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS - CAMPUS REITORIA. CONTRATO Nº 55/2019.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1578,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1725",
-                     "issueDate":  "2026-04-06",
-                     "receivableBillValue":  140641.38,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS TIANGUÁ DO IFCE NO SISTEMA\r\nCONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 08/2025.\r\nPROCESSO Nº 23255.000868/2025-80.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -7982,6 +7982,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1714,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1810",
+                     "issueDate":  "2026-05-12",
+                     "receivableBillValue":  6769.92,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1473,
                      "documentId":  "NFSE",
                      "documentNumber":  "1605",
@@ -9027,20 +9041,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "26ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE.\r\n",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1551,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1701",
-                     "issueDate":  "2026-02-23",
-                     "receivableBillValue":  8699.01,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "6ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCEGRUPO\r\n02 - CAMPUS CRATEÚS.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 30 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -11608,20 +11608,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1552,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1702",
-                     "issueDate":  "2026-02-23",
-                     "receivableBillValue":  350.76,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CRATEUS.\r\nCONTRATO Nº 29/2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1152,
                      "documentId":  "NFSE",
                      "documentNumber":  "1253",
@@ -13437,6 +13423,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "VALOR REFERENTE A CONTRAPARTIDA DA 1ª MEDIÇÃO DOS SERVIÇOS DE REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE DO HOSPITAL MUNICIPAL DR. JOÃO ELISIO DE HOLANDA, MUNICIPIO DE MARACANAÚ, CORRESPONDENTE AO PT 0375348-16 DA CAIXA ECONÔMICA FEDERAL, CONVÊNIO N.º 768783, DO MINISTÉRIO DA SAÚDE.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1551,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1701",
+                     "issueDate":  "2026-03-23",
+                     "receivableBillValue":  8699.01,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "6ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCEGRUPO\r\n02 - CAMPUS CRATEÚS.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 30 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
