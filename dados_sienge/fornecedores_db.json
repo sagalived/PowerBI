@@ -164774,7 +164774,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-01-29",
-                     "lastModificationDate":  "2026-01-29",
+                     "lastModificationDate":  "2026-06-09",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -178914,6 +178914,103 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3483/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3484,
+                     "name":  "ROCHA SERVICOS E ENGENHARIA LTDA",
+                     "tradeName":  "MR SERVICOS",
+                     "cpf":  null,
+                     "cnpj":  "38.299.982/0001-37",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-09",
+                     "lastModificationDate":  "2026-06-09",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA PROFESSOR GOMES DE MATOS",
+                                     "number":  "1424",
+                                     "complement":  "",
+                                     "neighborhood":  "MONTESE",
+                                     "state":  "CE",
+                                     "zipCode":  "60420-432"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9946-0659",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ELANO.CONTADOR@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3484/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3485,
+                     "name":  "JOSÉ MARIA DA SILVA MACHADO",
+                     "tradeName":  "",
+                     "cpf":  "813.515.933-15",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-09",
+                     "lastModificationDate":  "2026-06-09",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3485/bank-informations"
                                    }
                                ]
                  }

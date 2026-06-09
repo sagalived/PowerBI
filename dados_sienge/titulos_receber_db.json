@@ -43,6 +43,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  224,
+                     "receivableBillId":  1694,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "39",
+                     "issueDate":  "2026-01-08",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "55 F3N"
+                 },
+                 {
                      "customerId":  82,
                      "receivableBillId":  970,
                      "documentId":  "NFSE",
@@ -421,6 +435,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  194,
+                     "receivableBillId":  1779,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "15",
+                     "issueDate":  "2025-09-24",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "27 F1P"
+                 },
+                 {
                      "customerId":  79,
                      "receivableBillId":  821,
                      "documentId":  "NFSE",
@@ -433,6 +461,20 @@
                      "note":  "1ª MEDIÇÃO DE SOLONOPOLES",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  339,
+                     "receivableBillId":  1787,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "105",
+                     "issueDate":  "2025-09-12",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "143 F2P"
                  },
                  {
                      "customerId":  82,
@@ -503,6 +545,20 @@
                      "note":  "EDMUNDO PEREIRA",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  271,
+                     "receivableBillId":  1774,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "53",
+                     "issueDate":  "2025-10-13",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "95 F4N"
                  },
                  {
                      "customerId":  91,
@@ -1065,6 +1121,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  275,
+                     "receivableBillId":  1758,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "55",
+                     "issueDate":  "2025-10-14",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "98 F3N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1610,
                      "documentId":  "NFSE",
@@ -1105,6 +1175,20 @@
                      "note":  "8ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS BATURITE.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  237,
+                     "receivableBillId":  1731,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "80",
+                     "issueDate":  "2025-10-01",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "66 F3P"
                  },
                  {
                      "customerId":  87,
@@ -1273,6 +1357,20 @@
                      "note":  "05ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA E PREVENTIVA DAS\r\nSUBESTAÇÕES DO IFCE - CAMPUS REITORIA.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  351,
+                     "receivableBillId":  1698,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "37",
+                     "issueDate":  "2026-05-11",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "53 F1N"
                  },
                  {
                      "customerId":  6,
@@ -1849,6 +1947,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  192,
+                     "receivableBillId":  1692,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "16",
+                     "issueDate":  "2025-07-01",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "24 F2P"
+                 },
+                 {
                      "customerId":  74,
                      "receivableBillId":  477,
                      "documentId":  "NFSE",
@@ -2059,6 +2171,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  331,
+                     "receivableBillId":  1800,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "115",
+                     "issueDate":  "2025-12-15",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "137 F1N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1570,
                      "documentId":  "NFSE",
@@ -2267,6 +2393,20 @@
                      "note":  "2ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM. \"SERVIÇO DE EXECUÇÃO EMERGENCIAL\" CONTRATO Nº 30 / 2023. PROCESSO Nº 23255.001512/2023-00",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  284,
+                     "receivableBillId":  1717,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "94",
+                     "issueDate":  "2025-11-13",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "106 F2P"
                  },
                  {
                      "customerId":  36,
@@ -2521,6 +2661,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  217,
+                     "receivableBillId":  1700,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "33",
+                     "issueDate":  "2025-07-16",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "49 F1N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1528,
                      "documentId":  "NFSE",
@@ -2533,6 +2687,20 @@
                      "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  181,
+                     "receivableBillId":  1691,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "10",
+                     "issueDate":  "2025-12-18",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "15 F4N"
                  },
                  {
                      "customerId":  81,
@@ -2577,6 +2745,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  307,
+                     "receivableBillId":  1761,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "58",
+                     "issueDate":  "2025-06-04",
+                     "receivableBillValue":  400000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "123 F3N"
+                 },
+                 {
                      "customerId":  86,
                      "receivableBillId":  884,
                      "documentId":  "NFSE",
@@ -2589,6 +2771,20 @@
                      "note":  "13ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE.\r\n\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  165,
+                     "receivableBillId":  1681,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "2",
+                     "issueDate":  "2025-06-30",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "128 F4N"
                  },
                  {
                      "customerId":  6,
@@ -2773,6 +2969,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  212,
+                     "receivableBillId":  1703,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "31",
+                     "issueDate":  "2025-09-05",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "47 F3N"
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  797,
                      "documentId":  "NFSE",
@@ -2801,6 +3011,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  251,
+                     "receivableBillId":  1722,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "89",
+                     "issueDate":  "2025-09-23",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "77 F2P"
+                 },
+                 {
                      "customerId":  93,
                      "receivableBillId":  1581,
                      "documentId":  "NFSE",
@@ -2827,6 +3051,20 @@
                      "note":  "REFERENTE A 7ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS MORADA NOVA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 06/2025.\r\nPROCESSO Nº 23255.007479/2024-02.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  228,
+                     "receivableBillId":  1778,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "41",
+                     "issueDate":  "2025-07-08",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "57 F1N"
                  },
                  {
                      "customerId":  6,
@@ -3151,6 +3389,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  248,
+                     "receivableBillId":  1724,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "87",
+                     "issueDate":  "2025-10-27",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "74 F3P"
+                 },
+                 {
                      "customerId":  78,
                      "receivableBillId":  544,
                      "documentId":  "NFSE",
@@ -3233,6 +3485,20 @@
                      "note":  "4ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES\r\nDAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS - CAMPUS REITORIA. CONTRATO Nº 55/2019.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  320,
+                     "receivableBillId":  1751,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "64",
+                     "issueDate":  "2025-11-17",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "130 F2N"
                  },
                  {
                      "customerId":  6,
@@ -3373,6 +3639,20 @@
                      "note":  "1ª (ADITIVO) MEDIÇÃO - OBJETO: CONTRATAÇÃO DA PRESTAÇÃO DE SERVIÇOS DE EXECUÇÃO DOS SERVIÇOS REMANESCENTES DA OBRA DE\r\nPAVIMENTAÇÃO E URBANIZAÇÃO DA AV. BEIRA RIO, JUNTO A SECRETARIA DE INFRAESTRUTURA DO MUNICÍPIO DE MORRINHOS/CE.\r\nCONTRATO Nº 20200413.TOMADA DE PREÇOS Nº 2020.09.03.001.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  241,
+                     "receivableBillId":  1729,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "82",
+                     "issueDate":  "2025-08-28",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "68 F1P"
                  },
                  {
                      "customerId":  6,
@@ -3555,6 +3835,20 @@
                      "note":  "1° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS PECÉM. CONTRATO N° 04/2019",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  321,
+                     "receivableBillId":  1752,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "65",
+                     "issueDate":  "2025-07-17",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "131 F3N"
                  },
                  {
                      "customerId":  11,
@@ -3793,6 +4087,20 @@
                      "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONSTRUÇÃO DA UNIDADE OPERACIONAL DA POLÍCIA RODOVIÁRIA FEDERAL EM POCINHOS / PB. VALOR MEDIDO R$ 148.695,18 (PREÇOS UNITÁRIOS DA PROPOSTA ORIGINAL R$ 138.737,83) E R$ 9.957,35(CORREÇÃO MONETÁRIA). CONFORME TERMO DE APOSTILAMENTO 13 - SEI Nº 53039614 (7,1771%). CONTRATO Nº 78 / 2022.\r\nPROCESSO Nº 08650.037267/2022-23.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  204,
+                     "receivableBillId":  1806,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "25",
+                     "issueDate":  "2025-11-28",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "39 F1P"
                  },
                  {
                      "customerId":  6,
@@ -4199,6 +4507,20 @@
                      "note":  "3ª MEDIÇÃO ADITIVO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO DAS OBRAS DE URBANIZAÇÃO DO AÇUDE JUNCO NO MUNICÍPIO DE GRANJEIRO, CONFORME CONVENIO Nº 014/CIDADES/2021 FIRMADO COM O GOVERNO DO ESTADO DO CEARÁ E O MUNICÍPIO DE GRANJEIRO/CE. CONTRATO N° 2021.10.18.1",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  332,
+                     "receivableBillId":  1798,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "116",
+                     "issueDate":  "2025-11-27",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "138 F2N"
                  },
                  {
                      "customerId":  36,
@@ -4901,6 +5223,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  312,
+                     "receivableBillId":  1775,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "60",
+                     "issueDate":  "2025-07-21",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "125 F1N"
+                 },
+                 {
                      "customerId":  70,
                      "receivableBillId":  355,
                      "documentId":  "NFSE",
@@ -5039,6 +5375,20 @@
                      "note":  "5ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA DAS SUBESTAÇÕES DO\r\nIFCE - GRUPO 04 - CAMPUS CRATO.\r\n\"SERVIÇO DE EXECUÇÃO PREVENTIVA\"\r\nCONTRATO Nº 32 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  209,
+                     "receivableBillId":  1705,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "28",
+                     "issueDate":  "2026-02-02",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "CESSÃO DE DIREITOS",
+                     "payOffDate":  null,
+                     "unityName":  "43 F3N"
                  },
                  {
                      "customerId":  70,
@@ -5293,6 +5643,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  255,
+                     "receivableBillId":  1767,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "44",
+                     "issueDate":  "2025-07-01",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "83 F4N"
+                 },
+                 {
                      "customerId":  70,
                      "receivableBillId":  870,
                      "documentId":  "NFSE",
@@ -5487,6 +5851,20 @@
                      "note":  "REFERENTE A 8ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  287,
+                     "receivableBillId":  1715,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "96",
+                     "issueDate":  "2025-11-17",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "108 F4P"
                  },
                  {
                      "customerId":  6,
@@ -5837,6 +6215,20 @@
                      "note":  "QUADRA - HENRIQUE BRAGA",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  177,
+                     "receivableBillId":  1685,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "7",
+                     "issueDate":  "2025-06-30",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "11 F4N"
                  },
                  {
                      "customerId":  6,
@@ -6245,6 +6637,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  164,
+                     "receivableBillId":  1596,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "87 F4N",
+                     "issueDate":  "2025-07-23",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "87 F4N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1393,
                      "documentId":  "NFSE",
@@ -6285,6 +6691,20 @@
                      "note":  "REFERENTE AO PAGAMENTO DO REAJUSTE DA 9ª MEDIÇÃO PARCIAL DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL-CEI.\r\nPADRÃO IV, NO MUNICÍPIO DE MARACANAÚ-CE. RELATIVO AO PERÍODO DE 21/03/2022- 20/04/2022. CONFORME CONTRATO 0552021",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  189,
+                     "receivableBillId":  1803,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "14",
+                     "issueDate":  "2025-06-30",
+                     "receivableBillValue":  409000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "22 F3N"
                  },
                  {
                      "customerId":  6,
@@ -6469,6 +6889,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  291,
+                     "receivableBillId":  1735,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "98",
+                     "issueDate":  "2025-11-21",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "110 F2P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1545,
                      "documentId":  "NFSE",
@@ -6593,6 +7027,20 @@
                      "note":  "2ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS CAUCAIA. \"SERVIÇO DE EXECUÇÃO EMERGENCIAL\" CONTRATO Nº 29 / 2023. PROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  289,
+                     "receivableBillId":  1734,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "97",
+                     "issueDate":  "2025-08-05",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "109 F1P"
                  },
                  {
                      "customerId":  6,
@@ -6859,6 +7307,20 @@
                      "note":  "REFERENTE AO PAGAMENTO DA 23ª MEDIÇÃO PARCIAL DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL- CEI. PADRÃO IV,\r\nNO MUNICÍPIO DE ICAPUÍ-CE. RELATIVO AO PERÍODO DE 21/08/2023 - 20/09/2023. CONFORME CONTRATO 067/2021.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  221,
+                     "receivableBillId":  1697,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "36",
+                     "issueDate":  "2025-10-23",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "52 F4N"
                  },
                  {
                      "customerId":  78,
@@ -7155,6 +7617,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  282,
+                     "receivableBillId":  1718,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "93",
+                     "issueDate":  "2025-10-20",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "104 F4P"
+                 },
+                 {
                      "customerId":  12,
                      "receivableBillId":  186,
                      "documentId":  "NFSE",
@@ -7211,6 +7687,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  205,
+                     "receivableBillId":  1702,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "26",
+                     "issueDate":  "2025-07-29",
+                     "receivableBillValue":  471900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "41 F1N"
+                 },
+                 {
                      "customerId":  84,
                      "receivableBillId":  751,
                      "documentId":  "NFSE",
@@ -7223,6 +7713,20 @@
                      "note":  "4ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA EXECUÇÃO DA REFORMA E AMPLIAÇÃO DA\r\nESMEC. CONTRATO N° 31/2022. CONCORRÊNCIA PÚBLICA Nº 03 / 2022. EMPENHO 2022NE03460",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  182,
+                     "receivableBillId":  1783,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "12",
+                     "issueDate":  "2025-07-31",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "16 F1N"
                  },
                  {
                      "customerId":  14,
@@ -7477,6 +7981,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  355,
+                     "receivableBillId":  1789,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "107",
+                     "issueDate":  "2025-09-22",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "146 F1P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1052,
                      "documentId":  "NFSE",
@@ -7531,6 +8049,20 @@
                      "note":  "REFERENTE AO 4° ADITIVO DO OBJETO: CONTRATAÇÃO DA OBRA DE ENGENHARIA PARA CONSTRUÇÃO DA UNIDADE DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS ACARAU.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 13/2024.\r\nPROCESSO Nº 23255.001689/2023-06.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  211,
+                     "receivableBillId":  1706,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "30",
+                     "issueDate":  "2025-07-23",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "45 F1N"
                  },
                  {
                      "customerId":  13,
@@ -7841,6 +8373,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  270,
+                     "receivableBillId":  1773,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "52",
+                     "issueDate":  "2025-09-11",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "94 F3N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1642,
                      "documentId":  "NFSE",
@@ -8065,6 +8611,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  324,
+                     "receivableBillId":  1754,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "67",
+                     "issueDate":  "2025-07-22",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "133 F1N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1483,
                      "documentId":  "NFSE",
@@ -8121,6 +8681,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  348,
+                     "receivableBillId":  1795,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "113",
+                     "issueDate":  "2025-05-30",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "152 F3P"
+                 },
+                 {
                      "customerId":  55,
                      "receivableBillId":  807,
                      "documentId":  "NFSE",
@@ -8149,6 +8723,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  261,
+                     "receivableBillId":  1765,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "46",
+                     "issueDate":  "2025-08-05",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "86 F3N"
+                 },
+                 {
                      "customerId":  82,
                      "receivableBillId":  621,
                      "documentId":  "NFSE",
@@ -8175,6 +8763,20 @@
                      "note":  "DEVOLUÇÃO ATACADÃO DA MADEIRA (RONALD DAVID) ",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  263,
+                     "receivableBillId":  1766,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "47",
+                     "issueDate":  "2025-08-11",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "88 F1N"
                  },
                  {
                      "customerId":  15,
@@ -8541,6 +9143,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  167,
+                     "receivableBillId":  1686,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "3",
+                     "issueDate":  "2025-07-10",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "02 F2P"
+                 },
+                 {
                      "customerId":  93,
                      "receivableBillId":  880,
                      "documentId":  "NFSE",
@@ -8665,6 +9281,20 @@
                      "note":  "MEDIÇÃO REFERENTE AO REAJUSTE CONTRATUAL - OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES À MANUTENÇÃO PREDIAL\r\nCORRETIVA OU PREVENTIVA - CAMPUS JAGUARIBE. CONTRATO Nº 01/2019.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  303,
+                     "receivableBillId":  1796,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "119",
+                     "issueDate":  "2025-11-24",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "119 F3P"
                  },
                  {
                      "customerId":  79,
@@ -8905,6 +9535,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  226,
+                     "receivableBillId":  1777,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "40",
+                     "issueDate":  "2025-12-09",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "56 F4N"
+                 },
+                 {
                      "customerId":  78,
                      "receivableBillId":  645,
                      "documentId":  "NFSE",
@@ -9015,6 +9659,20 @@
                      "note":  "REFERENTE A 8° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DOS SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE UMA ESCOLA NO\r\nDISTRITO DE MONTE ALVERNE, NO MUNICÍPIO DE CRATO/CE.\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  235,
+                     "receivableBillId":  1732,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "79",
+                     "issueDate":  "2025-09-19",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "65 F2P"
                  },
                  {
                      "customerId":  6,
@@ -9535,6 +10193,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  342,
+                     "receivableBillId":  1790,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "108",
+                     "issueDate":  "2025-08-07",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "147 F2P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1203,
                      "documentId":  "NFSE",
@@ -9675,6 +10347,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  253,
+                     "receivableBillId":  1769,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "42",
+                     "issueDate":  "2025-06-10",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "81 F2N"
+                 },
+                 {
                      "customerId":  82,
                      "receivableBillId":  618,
                      "documentId":  "NFSE",
@@ -9745,6 +10431,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  337,
+                     "receivableBillId":  1786,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "104",
+                     "issueDate":  "2025-07-22",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "142 F1P"
+                 },
+                 {
                      "customerId":  90,
                      "receivableBillId":  741,
                      "documentId":  "NFSE",
@@ -9771,6 +10471,20 @@
                      "note":  "4ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 01 - CAMPUS PARACURU.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  201,
+                     "receivableBillId":  1805,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "24",
+                     "issueDate":  "2025-11-25",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "34 F4P"
                  },
                  {
                      "customerId":  6,
@@ -9899,6 +10613,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  315,
+                     "receivableBillId":  1749,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "62",
+                     "issueDate":  "2025-07-01",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "127 F3N"
+                 },
+                 {
                      "customerId":  17,
                      "receivableBillId":  696,
                      "documentId":  "NFSE",
@@ -9997,6 +10725,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  293,
+                     "receivableBillId":  1736,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "99",
+                     "issueDate":  "2025-11-13",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "112 F4P"
+                 },
+                 {
                      "customerId":  70,
                      "receivableBillId":  941,
                      "documentId":  "NFSE",
@@ -10023,6 +10765,20 @@
                      "note":  "6ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA E PREVENTIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS TABULEIRO DO NORTE.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 31 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  179,
+                     "receivableBillId":  1689,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "8",
+                     "issueDate":  "2025-10-17",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "12 F1N"
                  },
                  {
                      "customerId":  77,
@@ -10123,6 +10879,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  195,
+                     "receivableBillId":  1707,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "17",
+                     "issueDate":  "2025-09-22",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "28 F2P"
+                 },
+                 {
                      "customerId":  96,
                      "receivableBillId":  1400,
                      "documentId":  "NFSE",
@@ -10191,6 +10961,20 @@
                      "note":  "3° MEDIÇÃO OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES DAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS CAMPUS PARACURU. SERVIÇO EXECUÇÃO EMERGENCIAL CONTRATO N° 04/2019",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  173,
+                     "receivableBillId":  1745,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "74",
+                     "issueDate":  "2025-12-08",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "7 F3P"
                  },
                  {
                      "customerId":  83,
@@ -10627,6 +11411,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  234,
+                     "receivableBillId":  1733,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "78",
+                     "issueDate":  "2025-08-18",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "64 F1P"
+                 },
+                 {
                      "customerId":  22,
                      "receivableBillId":  114,
                      "documentId":  "NFSE",
@@ -10751,6 +11549,20 @@
                      "note":  "9ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE.\r\n\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  196,
+                     "receivableBillId":  1780,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "18",
+                     "issueDate":  "2025-11-21",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "29 F3P"
                  },
                  {
                      "customerId":  78,
@@ -10921,6 +11733,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  333,
+                     "receivableBillId":  1791,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "110",
+                     "issueDate":  "2025-08-01",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "149 F4P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1252,
                      "documentId":  "NFSE",
@@ -10963,6 +11789,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  239,
+                     "receivableBillId":  1730,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "81",
+                     "issueDate":  "2025-10-01",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "67 F4P"
+                 },
+                 {
                      "customerId":  74,
                      "receivableBillId":  444,
                      "documentId":  "NFSE",
@@ -10989,6 +11829,34 @@
                      "note":  "5° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS LIMOEIRO DO NORTE. CONTRATO N°05/2019",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  345,
+                     "receivableBillId":  1793,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "111",
+                     "issueDate":  "2025-07-30",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "150 F1P"
+                 },
+                 {
+                     "customerId":  353,
+                     "receivableBillId":  1726,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "85",
+                     "issueDate":  "2025-10-07",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "72 F1P"
                  },
                  {
                      "customerId":  55,
@@ -11285,6 +12153,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  279,
+                     "receivableBillId":  1720,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "91",
+                     "issueDate":  "2025-10-09",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "102 F2P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1356,
                      "documentId":  "NFSE",
@@ -11297,6 +12179,20 @@
                      "note":  "REFERENTE A 2ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  326,
+                     "receivableBillId":  1755,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "68",
+                     "issueDate":  "2026-04-02",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "134 F2N"
                  },
                  {
                      "customerId":  86,
@@ -11535,6 +12431,20 @@
                      "note":  "LICITAÇÃO DE CARIRE",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  299,
+                     "receivableBillId":  1740,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "103",
+                     "issueDate":  "2025-10-23",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "116 F4P"
                  },
                  {
                      "customerId":  77,
@@ -12139,6 +13049,34 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  230,
+                     "receivableBillId":  1801,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "117",
+                     "issueDate":  "2025-12-16",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "58 F2N"
+                 },
+                 {
+                     "customerId":  174,
+                     "receivableBillId":  1688,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "6",
+                     "issueDate":  "2025-07-30",
+                     "receivableBillValue":  471900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "8 F1N"
+                 },
+                 {
                      "customerId":  84,
                      "receivableBillId":  729,
                      "documentId":  "NFSE",
@@ -12307,6 +13245,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  295,
+                     "receivableBillId":  1737,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "100",
+                     "issueDate":  "2025-07-31",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "113 F1P"
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  641,
                      "documentId":  "NFSE",
@@ -12461,6 +13413,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  171,
+                     "receivableBillId":  1744,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "73",
+                     "issueDate":  "2026-03-17",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "4 F4P"
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  688,
                      "documentId":  "NFSE",
@@ -12473,6 +13439,20 @@
                      "note":  "REFERENTE A 6ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01 A 30/06/2022 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS\r\nOBRAS DE REFORMA DA ESCOLA MUNICIPAL FREI TITO DE ALENCAR LIMA, BAIRRO PRAIA DO FUTURO II, NO MUNICÍPIO DE FORTALEZA.\r\nMAPPFOR: 10 - REFORMA E AMPLIAÇÃO DO PARQUE ESCOLAR. CONTRATO Nº 01/2022  FME-I - RDC PRESENCIAL Nº 004/2021.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  281,
+                     "receivableBillId":  1719,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "92",
+                     "issueDate":  "2025-08-27",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "103 F3P"
                  },
                  {
                      "customerId":  6,
@@ -12711,6 +13691,20 @@
                      "note":  "8° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS CANINDÉ. CONTRATO N°06/2019",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  184,
+                     "receivableBillId":  1782,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "11",
+                     "issueDate":  "2025-10-01",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "18 F3N"
                  },
                  {
                      "customerId":  6,
@@ -13385,6 +14379,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  191,
+                     "receivableBillId":  1746,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "75",
+                     "issueDate":  "2025-06-02",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "23 F1P"
+                 },
+                 {
                      "customerId":  55,
                      "receivableBillId":  723,
                      "documentId":  "NFSE",
@@ -13481,6 +14489,20 @@
                      "note":  "2° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS CAUCAIA.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  254,
+                     "receivableBillId":  1770,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "43",
+                     "issueDate":  "2025-09-02",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "82 F3N"
                  },
                  {
                      "customerId":  70,
@@ -13917,6 +14939,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  198,
+                     "receivableBillId":  1708,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "20",
+                     "issueDate":  "2025-11-11",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "31 F1P"
+                 },
+                 {
                      "customerId":  44,
                      "receivableBillId":  828,
                      "documentId":  "NFSE",
@@ -14055,6 +15091,20 @@
                      "note":  "12ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E\r\nCORRETIVA NA SUBESTAÇÃO DE ENERGIA 13,8KV E COM POTÊNCIA DE 1.525KVA, LOCALIZADA NO HOSPITAL MUNICIPAL DR. JOÃO ELÍSIO DE HOLANDA EM MARACANAÚ, CEARÁ CONTRATO N° 1492.21.07.08.01. CONCORRÊNCIA PÚBLICA Nº 14.001/2021 - CP.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  249,
+                     "receivableBillId":  1723,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "88",
+                     "issueDate":  "2025-11-11",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "75 F4P"
                  },
                  {
                      "customerId":  6,
@@ -14421,6 +15471,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  346,
+                     "receivableBillId":  1794,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "112",
+                     "issueDate":  "2026-03-31",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "151 F2P"
+                 },
+                 {
                      "customerId":  45,
                      "receivableBillId":  56,
                      "documentId":  "NFSE",
@@ -14601,6 +15665,20 @@
                      "note":  "6ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA EMERGENCIAL DAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM.\r\n\"SERVIÇO DE EXECUÇÃO EMERGENCIAL\" CONTRATO Nº 30 / 2023. PROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  305,
+                     "receivableBillId":  1759,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "56",
+                     "issueDate":  "2025-06-23",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "121 F1N"
                  },
                  {
                      "customerId":  35,
@@ -15163,6 +16241,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  202,
+                     "receivableBillId":  1710,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "23",
+                     "issueDate":  "2025-07-16",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "35 F1P"
+                 },
+                 {
                      "customerId":  13,
                      "receivableBillId":  208,
                      "documentId":  "NFSE",
@@ -15205,6 +16297,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  333,
+                     "receivableBillId":  1741,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "70",
+                     "issueDate":  "2025-12-02",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "140 F2N"
+                 },
+                 {
                      "customerId":  77,
                      "receivableBillId":  879,
                      "documentId":  "NFSE",
@@ -15217,6 +16323,20 @@
                      "note":  "REFERENTE AO PAGAMENTO DA 18ª MEDIÇÃO PARCIAL DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL- CEI. PADRÃO IV,\r\nNO MUNICÍPIO DE ICAPUÍ-CE. RELATIVO AO PERÍODO DE 21/03/2023 - 20/04/2023. CONFORME CONTRATO 067/2021.\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  210,
+                     "receivableBillId":  1704,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "29",
+                     "issueDate":  "2025-10-23",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "44 F4N"
                  },
                  {
                      "customerId":  87,
@@ -15315,6 +16435,20 @@
                      "note":  "11° MEDIÇÃO - OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA (CIVIL)- CAMPUS FORTALEZA CONTRATO N°061/2017",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  218,
+                     "receivableBillId":  1695,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "34",
+                     "issueDate":  "2025-11-19",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "50 F2N"
                  },
                  {
                      "customerId":  6,
@@ -15483,6 +16617,20 @@
                      "note":  "3ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DE UM ESPAÇO EDUCATIVO RURAL E URBANO - 6 SALAS DE AULA, PRÉ-OBRA 3187890, NA RUA LO-03, S/N LOTEAMENTO PORTAL DA CIDADE NO MUNICÍPIO DE CAMPOS SALES/CE. TOMADA DE PREÇOS - Nº 2021.07.06.40.TP.FME. CONTRATO N° 001-2021.07.06.40.TP.FME\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  327,
+                     "receivableBillId":  1756,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "69",
+                     "issueDate":  "2025-07-15",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "135 F3N"
                  },
                  {
                      "customerId":  87,
@@ -15877,6 +17025,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  200,
+                     "receivableBillId":  1709,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "21",
+                     "issueDate":  "2025-08-22",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "33 F3P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1175,
                      "documentId":  "NFSE",
@@ -16045,6 +17207,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  314,
+                     "receivableBillId":  1776,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "61",
+                     "issueDate":  "2025-06-03",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "126 F2N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1664,
                      "documentId":  "NFSE",
@@ -16185,6 +17361,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  169,
+                     "receivableBillId":  1743,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "72",
+                     "issueDate":  "2025-12-09",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "3 F3P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1287,
                      "documentId":  "NFSE",
@@ -16311,6 +17501,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  233,
+                     "receivableBillId":  1748,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "77",
+                     "issueDate":  "2025-08-12",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "62 F3P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1255,
                      "documentId":  "NFSE",
@@ -16379,6 +17583,20 @@
                      "note":  "REFERENTE A 3° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DA EMPRESA ESPECIALIZADA NA EXECUÇÃO DA CONSTRUÇÃO DA UNIDADE\r\nBÁSICA DE SAÚDE INDÍGENA TIPO III NA ALDEIA VILA VITORIA EM CRATEÚS/CE.\r\nCONTRATO Nº 22/2023.\r\nPROCESSO Nº 25044.000935/2019-29.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  268,
+                     "receivableBillId":  1771,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "50",
+                     "issueDate":  "2025-08-18",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "92 F1N"
                  },
                  {
                      "customerId":  70,
@@ -16465,6 +17683,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  242,
+                     "receivableBillId":  1728,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "83",
+                     "issueDate":  "2025-12-16",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "70 F3P"
+                 },
+                 {
                      "customerId":  1,
                      "receivableBillId":  277,
                      "documentId":  "NFSE",
@@ -16505,6 +17737,20 @@
                      "note":  "REFERENTE AO PAGAMENTO DO REAJUSTE DAS MEDIÇÕES PARCIAIS DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL - CEI. PADRÃO IV, NO MUNICÍPIO DE ICAPUI - CE. CONFORME CONTRATO 067/2021.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  273,
+                     "receivableBillId":  1757,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "54",
+                     "issueDate":  "2025-08-14",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "96 F1N"
                  },
                  {
                      "customerId":  87,
@@ -16673,6 +17919,34 @@
                      "note":  "2° MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES DAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS - CAMPUS UBAJARA. CONTRATO Nº 11/2019.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  354,
+                     "receivableBillId":  1738,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "101",
+                     "issueDate":  "2025-12-17",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "114 F2P"
+                 },
+                 {
+                     "customerId":  285,
+                     "receivableBillId":  1716,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "95",
+                     "issueDate":  "2025-09-10",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "107 F3P"
                  },
                  {
                      "customerId":  96,
@@ -17165,6 +18439,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  223,
+                     "receivableBillId":  1693,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "38",
+                     "issueDate":  "2025-09-24",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "54 F2N"
+                 },
+                 {
                      "customerId":  82,
                      "receivableBillId":  913,
                      "documentId":  "NFSE",
@@ -17401,6 +18689,20 @@
                      "note":  "3ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS JAGUARIBE. \"SERVIÇO DE EXECUÇÃO PREVENTIVA\" CONTRATO Nº 31 / 2023. PROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  266,
+                     "receivableBillId":  1764,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "49",
+                     "issueDate":  "2025-09-15",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "90 F3N"
                  },
                  {
                      "customerId":  6,
@@ -17683,6 +18985,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  219,
+                     "receivableBillId":  1696,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "35",
+                     "issueDate":  "2025-08-13",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "51 F3N"
+                 },
+                 {
                      "customerId":  70,
                      "receivableBillId":  327,
                      "documentId":  "NFSE",
@@ -17793,6 +19109,20 @@
                      "note":  "10ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE CONCLUSÃO DA CONSTRUÇÃO\r\nDE CRECHE PROINFÂNCIA TIPO I LOCALIZADA DA SEDE DO MUNICÍPIO DE ASSARÉ/CE. TERMO DO CONVÊNIO PAC2 Nº 5723/2013.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  343,
+                     "receivableBillId":  1792,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "109",
+                     "issueDate":  "2025-07-28",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "148 F3P"
                  },
                  {
                      "customerId":  24,
@@ -18117,6 +19447,34 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  162,
+                     "receivableBillId":  1565,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "1",
+                     "issueDate":  "2025-09-04",
+                     "receivableBillValue":  439989.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "21 F2N"
+                 },
+                 {
+                     "customerId":  356,
+                     "receivableBillId":  1799,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "118",
+                     "issueDate":  "2025-07-15",
+                     "receivableBillValue":  390000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "59 F3N"
+                 },
+                 {
                      "customerId":  1,
                      "receivableBillId":  234,
                      "documentId":  "NFSE",
@@ -18129,6 +19487,20 @@
                      "note":  "4° MEDIÇÃO OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA EXECUÇÃO DE OBRA DE ENGENHARIA PARA CONSTRUÇÃO DE SALAS DE AULA EM FAVOR DO IFCE MORADA NOVA",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  340,
+                     "receivableBillId":  1788,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "106",
+                     "issueDate":  "2025-08-06",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "144 F3P"
                  },
                  {
                      "customerId":  6,
@@ -18493,6 +19865,34 @@
                      "note":  "2ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS BOA VIAGEM.\r\n\"SERVIÇO DE EXECUÇÃO BANCO CAPACITORES\"\r\nCONTRATO Nº 30 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  176,
+                     "receivableBillId":  1687,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "5",
+                     "issueDate":  "2025-08-22",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "10 F3N"
+                 },
+                 {
+                     "customerId":  197,
+                     "receivableBillId":  1781,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "19",
+                     "issueDate":  "2025-11-19",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "30 F4P"
                  },
                  {
                      "customerId":  96,
@@ -18985,6 +20385,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  257,
+                     "receivableBillId":  1768,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "45",
+                     "issueDate":  "2025-07-16",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "84 F1N"
+                 },
+                 {
                      "customerId":  34,
                      "receivableBillId":  289,
                      "documentId":  "NFSE",
@@ -19335,6 +20749,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  203,
+                     "receivableBillId":  1747,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "76",
+                     "issueDate":  "2025-09-03",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "37 F3P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1304,
                      "documentId":  "NFSE",
@@ -19403,6 +20831,20 @@
                      "note":  "2° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS ARACATI",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  244,
+                     "receivableBillId":  1727,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "84",
+                     "issueDate":  "2025-11-21",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "71 F4P"
                  },
                  {
                      "customerId":  17,
@@ -19671,6 +21113,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  214,
+                     "receivableBillId":  1699,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "32",
+                     "issueDate":  "2025-10-31",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "48 F4N"
+                 },
+                 {
                      "customerId":  68,
                      "receivableBillId":  1280,
                      "documentId":  "NFSE",
@@ -19683,6 +21139,34 @@
                      "note":  "REFERENTE A 3° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE UMA ESCOLA\r\n(ESPAÇO EDUCATIVO URBANO - 12 SALAS DE AULA) ATRAVÉS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE VÁRZEA ALEGRE-CE.\r\nCONTRATO Nº 2024.09.26.1 CONCORRÊNCIA Nº 2023.12.28.1 ",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  304,
+                     "receivableBillId":  1802,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "120",
+                     "issueDate":  "2025-11-21",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "120 F4P"
+                 },
+                 {
+                     "customerId":  306,
+                     "receivableBillId":  1760,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "57",
+                     "issueDate":  "2026-01-13",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "122 F2N"
                  },
                  {
                      "customerId":  81,
@@ -19727,6 +21211,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  269,
+                     "receivableBillId":  1772,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "51",
+                     "issueDate":  "2025-11-03",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "93 F2N"
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  918,
                      "documentId":  "NFSE",
@@ -19767,6 +21265,20 @@
                      "note":  "2° MEDIÇÃO OBJETO: CONTRATAÇÃO DE SERVIÇOS COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES DAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS. CAMPUS CAMOCIM",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  265,
+                     "receivableBillId":  1763,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "48",
+                     "issueDate":  "2025-09-09",
+                     "receivableBillValue":  439989.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "89 F2N"
                  },
                  {
                      "customerId":  6,
@@ -19867,6 +21379,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  278,
+                     "receivableBillId":  1721,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "90",
+                     "issueDate":  "2025-06-09",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "101 F1P"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1574,
                      "documentId":  "NFSE",
@@ -19879,6 +21405,34 @@
                      "note":  "13ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA\r\nDAS SUBESTAÇÕES DO IFCE - GRUPO 02 - CAMPUS CAMOCIM.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 30 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  171,
+                     "receivableBillId":  1684,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "4",
+                     "issueDate":  "2026-03-17",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "04 F4P"
+                 },
+                 {
+                     "customerId":  317,
+                     "receivableBillId":  1750,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "63",
+                     "issueDate":  "2025-07-08",
+                     "receivableBillValue":  399900.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "129 F1N"
                  },
                  {
                      "customerId":  6,
@@ -20035,6 +21589,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  297,
+                     "receivableBillId":  1739,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "102",
+                     "issueDate":  "2025-11-10",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "115 F3P"
+                 },
+                 {
                      "customerId":  22,
                      "receivableBillId":  46,
                      "documentId":  "NFSE",
@@ -20077,6 +21645,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  185,
+                     "receivableBillId":  1784,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "13",
+                     "issueDate":  "2025-09-12",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "19 F4N"
+                 },
+                 {
                      "customerId":  57,
                      "receivableBillId":  165,
                      "documentId":  "NFSE",
@@ -20091,6 +21673,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  277,
+                     "receivableBillId":  1797,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "114",
+                     "issueDate":  "2025-11-24",
+                     "receivableBillValue":  429000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "100 F1N"
+                 },
+                 {
                      "customerId":  82,
                      "receivableBillId":  1002,
                      "documentId":  "NFSE",
@@ -20103,6 +21699,20 @@
                      "note":  "REFERENTE A 8° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DOS SERVIÇOS DE REFORMA E AMPLIAÇÃO DA\r\nEMEIF LUIZA BARROSO BRAGA NO MUNICÍPIO DE PARAIPABA-CE.\r\n",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  336,
+                     "receivableBillId":  1742,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "71",
+                     "issueDate":  "2025-07-03",
+                     "receivableBillValue":  409000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "141 F3N"
                  },
                  {
                      "customerId":  24,
@@ -20413,6 +22023,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  309,
+                     "receivableBillId":  1762,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "59",
+                     "issueDate":  "2025-07-31",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "124 F4N"
+                 },
+                 {
                      "customerId":  6,
                      "receivableBillId":  1124,
                      "documentId":  "NFSE",
@@ -20497,6 +22121,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  201,
+                     "receivableBillId":  1804,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "22",
+                     "issueDate":  "2025-11-25",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "32 F2P"
+                 },
+                 {
                      "customerId":  86,
                      "receivableBillId":  871,
                      "documentId":  "NFSE",
@@ -20537,6 +22175,20 @@
                      "note":  "REFERENTE A 7ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAMOCIM DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 11/2025.\r\nPROCESSO Nº 23255.000873/2025-92.\r\nVALOR 07ª MEDIÇÃO: R$ 423.719,01.\r\nVALOR 01ª MEDIÇÃO ADITIVO: R$ 44.937,44.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  246,
+                     "receivableBillId":  1725,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "86",
+                     "issueDate":  "2025-11-24",
+                     "receivableBillValue":  450000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "73 F2P"
                  },
                  {
                      "customerId":  6,
@@ -20651,6 +22303,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  329,
+                     "receivableBillId":  1785,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "136 F4N",
+                     "issueDate":  "2026-01-03",
+                     "receivableBillValue":  500000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "136 F4N"
+                 },
+                 {
                      "customerId":  91,
                      "receivableBillId":  1265,
                      "documentId":  "NFSE",
@@ -20747,6 +22413,20 @@
                      "note":  "REFERENTE AO PAGAMENTO DO REAJUSTE DA 7ª MEDIÇÃO PARCIAL DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL- CEI.\r\nPADRÃO IV, NO MUNICÍPIO DE ICAPUÍ-CE. RELATIVO AO PERÍODO DE 21/04/2022 - 20/05/2022. CONFORME CONTRATO 067/2021.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  352,
+                     "receivableBillId":  1753,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "66",
+                     "issueDate":  "2025-08-11",
+                     "receivableBillValue":  439890.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "132 F4N"
                  },
                  {
                      "customerId":  78,
@@ -20971,6 +22651,20 @@
                      "note":  "8ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO CORRETIVA E PREVENTIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS TABULEIRO DO NORTE.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 31 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
                      "payOffDate":  null,
                      "unityName":  null
+                 },
+                 {
+                     "customerId":  206,
+                     "receivableBillId":  1701,
+                     "documentId":  "CT  ",
+                     "documentNumber":  "27",
+                     "issueDate":  "2025-12-30",
+                     "receivableBillValue":  475000.0,
+                     "companyId":  7,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "",
+                     "payOffDate":  null,
+                     "unityName":  "42 F2N"
                  },
                  {
                      "customerId":  86,

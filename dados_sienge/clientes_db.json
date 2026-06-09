@@ -1,6 +1,124 @@
 {
     "data":  [
                  {
+                     "id":  356,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-06-08",
+                     "modifiedAt":  "2026-06-08",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "Rua Equador",
+                                           "number":  "",
+                                           "complement":  "",
+                                           "neighborhood":  "Itaoca",
+                                           "cityId":  18,
+                                           "city":  "Fortaleza",
+                                           "state":  "CE",
+                                           "zipCode":  "60740-470",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "80248411349",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Masculino",
+                     "matrimonialRegime":  "",
+                     "name":  "HYPERIDES ALMEIDAS LOPES",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
+                     "id":  355,
+                     "personType":  "Física",
+                     "foreigner":  "N",
+                     "internationalId":  "",
+                     "createdAt":  "2026-06-08",
+                     "modifiedAt":  "2026-06-08",
+                     "issuingBody":  "",
+                     "clientType":  null,
+                     "phones":  [
+
+                                ],
+                     "addresses":  [
+                                       {
+                                           "type":  "Comercial",
+                                           "streetName":  "Avenida Engenheiro Luiz Vieira",
+                                           "number":  "",
+                                           "complement":  "",
+                                           "neighborhood":  "De Lourdes",
+                                           "cityId":  18,
+                                           "city":  "Fortaleza",
+                                           "state":  "CE",
+                                           "zipCode":  "60177-250",
+                                           "mail":  true
+                                       }
+                                   ],
+                     "procurators":  [
+
+                                     ],
+                     "contacts":  [
+
+                                  ],
+                     "subTypes":  [
+
+                                  ],
+                     "birthPlace":  "",
+                     "civilStatus":  null,
+                     "cpf":  "03231383307",
+                     "email":  "",
+                     "fatherName":  "",
+                     "sex":  "Feminino",
+                     "matrimonialRegime":  "",
+                     "name":  "LEILIANNY DE OLIVEIRA RIBEIRO",
+                     "nationality":  "",
+                     "numberIdentityCard":  "",
+                     "motherName":  "",
+                     "profession":  null,
+                     "mailingAddress":  "C",
+                     "licenseNumber":  null,
+                     "licenseIssuingBody":  null,
+                     "birthDate":  null,
+                     "issueDateIdentityCard":  null,
+                     "marriageDate":  null,
+                     "licenseIssueDate":  null,
+                     "spouse":  null,
+                     "familyIncome":  [
+
+                                      ]
+                 },
+                 {
                      "id":  354,
                      "personType":  "Física",
                      "foreigner":  "N",
