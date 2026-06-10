@@ -1051,20 +1051,6 @@
                      "unityName":  null
                  },
                  {
-                     "customerId":  6,
-                     "receivableBillId":  1662,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1810",
-                     "issueDate":  "2026-05-12",
-                     "receivableBillValue":  6769.92,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
                      "customerId":  77,
                      "receivableBillId":  1314,
                      "documentId":  "NFSE",
@@ -2363,6 +2349,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "3° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS CANINDÉ",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1808,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1836",
+                     "issueDate":  "2026-06-09",
+                     "receivableBillValue":  1207222.45,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 03ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE OBRA DE ENGENHARIA DA CONSTRUÇÃO DO CAMPUS CAMPOS SALES\r\nPERTENCENTE A EXPANSÃO IV DO IFCE.\r\nCONTRATO DE OBRA DE ENGENHARIA No 02/2026.\r\nPROCESSO No 23255.000507/2025-33.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nINSTITUIÇÃO: QI SOCIEDADE DE CRÉDITO DIRETO S.A. (329)\r\nAGÊNCIA: 0001\r\nCONTA CORRENTE: 7374834- 4\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -8528,20 +8528,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1714,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1810",
-                     "issueDate":  "2026-05-12",
-                     "receivableBillValue":  6769.92,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1473,
                      "documentId":  "NFSE",
                      "documentNumber":  "1605",
@@ -11477,6 +11463,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE AO PAGAMENTO DA 7ª MEDIÇÃO PARCIAL DA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL - CEI - PADRÃO IV,\r\nNO MUNICÍPIO DE CANINDÉ/CE. RELATIVO AO PERÍODO DE 21/02/2023 a 20/03/2023. CONFORME CONTRATO Nº 060/2022.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  93,
+                     "receivableBillId":  1810,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1832",
+                     "issueDate":  "2026-06-08",
+                     "receivableBillValue":  59131.28,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 26ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA DE EMPRESA ESPECIALIZADA PARA A\r\nOBRA DE CONSTRUÇÃO DOS BLOCOS ANEXOS DO CAMPUS DOS MALÊS.\r\nPERÍODO DE 01/04/2026 À 30/04/2026.\r\nCONTRATO Nº 16/2023.\r\nPROCESSO Nº 23804.000809/2023-86.\r\n\"Conforme art 114 da IN 2110/2022, não se aplica a retenção referente ao recolhimento de INSS na fonte: Art. 114. Não se aplica a retenção de que trata\r\no art. 110 à contratação de serviços: II - por órgãos públicos da administração direta, autarquias e fundações de direito público, quando contratantes de\r\nobra de construção civil, reforma ou acréscimo, por meio de empreitada total, observado o disposto no inciso II do § 2º do art. 135.\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16027,6 +16027,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "17ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO PREVENTIVA E\r\nCORRETIVA NA SUBESTAÇÃO DE ENERGIA 13,8KV E COM POTÊNCIA DE 1.525KVA, LOCALIZADA NO HOSPITAL MUNICIPAL DR. JOÃO ELÍSIO DE HOLANDA EM MARACANAÚ, CEARÁ CONTRATO N° 1492.21.07.08.01. CONCORRÊNCIA PÚBLICA Nº 14.001/2021 - CP.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1807,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1834",
+                     "issueDate":  "2026-06-09",
+                     "receivableBillValue":  82220.8,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS PARACURU DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 13/2025.\r\nPROCESSO Nº 23255.000876/2025-26.\r\n\"Considerando que o inciso VII do art. 114 e o anexo VI da Instrução Normativa no 2.110/22 da Receita Federal do Brasil prevê a não aplicação do\r\ninstituto da retenção do INSS quando o órgão público efetuar contratação de obra de construção civil, reforma ou acréscimo e, por consequência, afasta a\r\nresponsabilidade solidária da Administração Pública nesses casos (art. 135, § 2°,II)\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (033) SANTANDER\r\nAGÊNCIA: 3132\r\nCONTA: 13013643-8\r\nCNPJ: 25.025.604/0001-13",
                      "payOffDate":  null,
                      "unityName":  null
                  },

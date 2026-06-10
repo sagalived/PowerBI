@@ -67320,7 +67320,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2022-10-25",
-                     "lastModificationDate":  "2022-10-25",
+                     "lastModificationDate":  "2026-06-10",
                      "address":  {
                                      "cityId":  682,
                                      "cityName":  "Cascavel",
@@ -133432,7 +133432,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2025-05-14",
-                     "lastModificationDate":  "2025-05-14",
+                     "lastModificationDate":  "2026-06-10",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -170744,7 +170744,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-04-07",
-                     "lastModificationDate":  "2026-04-07",
+                     "lastModificationDate":  "2026-06-10",
                      "address":  {
                                      "cityId":  917,
                                      "cityName":  "Anápolis",
@@ -179011,6 +179011,60 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3485/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3486,
+                     "name":  "CERAMICA CAJAZEIRAS LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "69.707.982/0001-52",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "069047839",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-10",
+                     "lastModificationDate":  "2026-06-10",
+                     "address":  {
+                                     "cityId":  682,
+                                     "cityName":  "Cascavel",
+                                     "streetName":  "ESTRADA CHORO PEDRINHAS",
+                                     "number":  "SN",
+                                     "complement":  "",
+                                     "neighborhood":  "CHORO PEDRINHAS",
+                                     "state":  "CE",
+                                     "zipCode":  "62850000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3033-6250",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "CADASTRO@PLANNAPLUS.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3486/bank-informations"
                                    }
                                ]
                  }
