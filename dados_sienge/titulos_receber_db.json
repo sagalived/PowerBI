@@ -855,6 +855,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1815,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "13% MEDIÇÃO TIANGUÁ",
+                     "issueDate":  "2026-06-17",
+                     "receivableBillValue":  224293.11,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS  A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  1061,
                      "documentId":  "NFSE",
@@ -949,6 +963,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A PAGAMENTO DA 9ª MEDIÇÃO DA CONSTRUÇÃO DE UM CENTRO DE EDUCAÇÃO INFANTIL-CEI. PADRÃO IV, NO MUNICÍPIO DE\r\nMARACANAÚ-CE. RELATIVO AO PERÍODO DE 21/03/2022- 20/04/2022. CONFORME CONTRATO 552021.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1818,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ª MEDIÇÃO CAUCAIA",
+                     "issueDate":  "2026-06-29",
+                     "receivableBillValue":  201792.37,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMEMTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -1551,6 +1579,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS ARACATI.\r\nCONTRATO Nº 29/2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1816,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "2ª MEDIÇÃO CASCAVEL",
+                     "issueDate":  "2026-06-22",
+                     "receivableBillValue":  420155.62,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -7561,6 +7603,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1813,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "13ª MEDIÇÃO CAMOCIN",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  243895.18,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PEOVISIONAMENTO DE CONTAS A RFECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  70,
                      "receivableBillId":  757,
                      "documentId":  "NFSE",
@@ -9830,6 +9886,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1812,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "7ª MEDIÇÃO",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  502613.41,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISÃO DE PAGAMENTO",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1549,
                      "documentId":  "NFSE",
                      "documentNumber":  "1696",
@@ -11981,6 +12051,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "2ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO DE SUBESTAÇÕES DE ENERGIA ELÉTRICA ATÉ 69k - MANUTENÇÃO SUBESTAÇÃO, QUADROS E EQUIPAMENTOS ELÉTRICOS - CAMPUS FORTALEZA. \"SERVIÇO EXECUÇÃO CORRETIVA\" CONTRATO Nº 14/2019.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1814,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "12ª MEDIÇÃO UBAJARA",
+                     "issueDate":  "2026-06-17",
+                     "receivableBillValue":  111499.8,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -14151,6 +14235,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "1ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS LIMOEIRO DO NORTE. \"SERVIÇO DE EXECUÇÃO PREVENTIVA\" CONTRATO Nº 31 / 2023. PROCESSO Nº 23255.001512/2023-00.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1819,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ª MEDIÇÃO PARACURU",
+                     "issueDate":  "2026-06-30",
+                     "receivableBillValue":  153813.23,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16363,6 +16461,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 5ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/06/2023 À 30/06/2023 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL - CEI NO BAIRRO MONDUBIM, MUNICÍPIO DE FORTALEZA. MAPPFOR: 8 - CONSTRUÇÃO DE CENTRO EDUCAÇÃO INFANTIL.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1811,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "12ª MEDIÇÃO",
+                     "issueDate":  "2026-06-10",
+                     "receivableBillValue":  133401.95,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISÃO DE RECEBIMENTO",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -20890,6 +21002,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1817,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ª MEDIÇÃO HORIZONT",
+                     "issueDate":  "2026-06-29",
+                     "receivableBillValue":  98363.32,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1607,
                      "documentId":  "NFSE",
                      "documentNumber":  "1751",
@@ -22761,6 +22887,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 3° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA, INCLUINDO MATERIAL E MÃO DE OBRA, PARA EXECUÇÃO DO REMANESCENTE DA OBRA DE URBANIZAÇÃO DO CAMPUS DOS PALMARES DA UNILAB.CONTRATO Nº 30/2022",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  96,
+                     "receivableBillId":  1820,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "28ª MEDIÇÃO PRF",
+                     "issueDate":  "2026-06-30",
+                     "receivableBillValue":  69281.5,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS  A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },

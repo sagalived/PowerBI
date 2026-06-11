@@ -179067,6 +179067,146 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3486/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3487,
+                     "name":  "LICITANET LICITACOES ELETRONICAS EIRELI",
+                     "tradeName":  "LICITANET",
+                     "cpf":  null,
+                     "cnpj":  "21.280.462/0001-80",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-10",
+                     "lastModificationDate":  "2026-06-10",
+                     "address":  {
+                                     "cityId":  2186,
+                                     "cityName":  "Uberlândia",
+                                     "streetName":  "AVENIDA RONDON PACHECO",
+                                     "number":  "345",
+                                     "complement":  "SALA  102",
+                                     "neighborhood":  "MARACANA (LOTEAMENTO)",
+                                     "state":  "MG",
+                                     "zipCode":  "38400-242"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "34",
+                                        "number":  "9807-6633",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "DARA@DARACONTABIL.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3487/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3488,
+                     "name":  "Francisco Antônio Mota Silva",
+                     "tradeName":  "",
+                     "cpf":  "815.884.963-68",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-11",
+                     "lastModificationDate":  "2026-06-11",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3488/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3489,
+                     "name":  "THAYNA DE SOUSA FERNANDES",
+                     "tradeName":  "",
+                     "cpf":  "077.902.533-44",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-11",
+                     "lastModificationDate":  "2026-06-11",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3489/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
