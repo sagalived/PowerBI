@@ -179207,6 +179207,308 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3489/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3490,
+                     "name":  "ERIVAN BESERRA DO NASCIMENTO",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-11",
+                     "lastModificationDate":  "2026-06-11",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3490/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3491,
+                     "name":  "MILENA SILVEIRA MOTA DE ALENCAR",
+                     "tradeName":  "KZA DAS COPIAS",
+                     "cpf":  null,
+                     "cnpj":  "04.330.393/0001-52",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA PE. PEDRO DE ALENCAR",
+                                     "number":  "253",
+                                     "complement":  "",
+                                     "neighborhood":  "MESSEJANA",
+                                     "state":  "CE",
+                                     "zipCode":  "60840-280"
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3491/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3492,
+                     "name":  "METALUZ INDUSTRIA, COMERCIO E MONTAGEM DE FERRAGENS LTDA",
+                     "tradeName":  "METALUZ",
+                     "cpf":  null,
+                     "cnpj":  "13.829.061/0001-08",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "065642996",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RODOVIA BR-020",
+                                     "number":  "S/N",
+                                     "complement":  "KM    402                 LOTE  005                 QUADRA061",
+                                     "neighborhood":  "MINGUAU",
+                                     "state":  "CE",
+                                     "zipCode":  "61688-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3318-6554",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "FINANCEIRO@METALUZ.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3492/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3493,
+                     "name":  "PAROMA LUSTRES LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "06.613.376/0003-10",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA ANTONIO SALES",
+                                     "number":  "3145",
+                                     "complement":  "      LOJA A",
+                                     "neighborhood":  "DIONISIO TORRES",
+                                     "state":  "CE",
+                                     "zipCode":  "60135-203"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3209-8900",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "PAROMALUSTRES2023@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3493/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3494,
+                     "name":  "ARAUJO CABRAL  ALVES LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "07.201.916/0012-01",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA CORONEL CORREIA",
+                                     "number":  "2273 B",
+                                     "complement":  "KM 08",
+                                     "neighborhood":  "PARQUE SOLEDADE",
+                                     "state":  "CE",
+                                     "zipCode":  "61603-005"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3194-7800",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ACAL@ACALFORTALEZA.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3494/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3495,
+                     "name":  "JOSE IRAMI SOARES DE OLIVEIRA JUNIOR 60659868369",
+                     "tradeName":  "FLORIDA FOOD",
+                     "cpf":  null,
+                     "cnpj":  "38.454.603/0001-36",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA JULIO LIMA",
+                                     "number":  "485",
+                                     "complement":  "",
+                                     "neighborhood":  "CIDADE DOS FUNCIONARIOS",
+                                     "state":  "CE",
+                                     "zipCode":  "60822-500"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9731-6808",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "IRAMIZZAOLIVEIRA13@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3495/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

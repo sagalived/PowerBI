@@ -4244,6 +4244,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1812,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "7ª MEDIÇÃO BATURITÉ",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  502613.41,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISÃO DE PAGAMENTO",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1191,
                      "documentId":  "NFSE",
                      "documentNumber":  "1291",
@@ -4589,6 +4603,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "2ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO DAS OBRAS DE URBANIZAÇÃO DO AÇUDE JUNCO NO MUNICÍPIO DE GRANJEIRO, CONFORME CONVENIO Nº 014/CIDADES/2021 FIRMADO COM O GOVERNO DO ESTADO DO CEARÁ E O MUNICÍPIO DE GRANJEIRO/CE. CONTRATO N° 2021.10.18.1\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1811,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "12ª MEDIÇÃO MORADA N",
+                     "issueDate":  "2026-06-10",
+                     "receivableBillValue":  133401.95,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISÃO DE RECEBIMENTO",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -9881,20 +9909,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "2ª MEDIÇÃO - OBJETO: INSTALAÇÃO DE SISTEMA FOTOVOLTAICO DO TIPO \"ON-GRID\" (ENERGIA SOLAR). CONTRATO Nº 005 / 2022",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1812,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "7ª MEDIÇÃO",
-                     "issueDate":  "2026-06-16",
-                     "receivableBillValue":  502613.41,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISÃO DE PAGAMENTO",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16461,20 +16475,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 5ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/06/2023 À 30/06/2023 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA CONSTRUÇÃO DE 01 (UM) CENTRO DE EDUCAÇÃO INFANTIL - CEI NO BAIRRO MONDUBIM, MUNICÍPIO DE FORTALEZA. MAPPFOR: 8 - CONSTRUÇÃO DE CENTRO EDUCAÇÃO INFANTIL.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1811,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "12ª MEDIÇÃO",
-                     "issueDate":  "2026-06-10",
-                     "receivableBillValue":  133401.95,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISÃO DE RECEBIMENTO",
                      "payOffDate":  null,
                      "unityName":  null
                  },

@@ -17553,6 +17553,138 @@
                                ]
                  },
                  {
+                     "id":  154427,
+                     "value":  3040.08,
+                     "date":  "2026-02-18",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  10,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1020401"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154428,
+                     "value":  6.12,
+                     "date":  "2026-02-18",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  10,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento acréscimo",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030301"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154430,
+                     "value":  3046.2,
+                     "date":  "2026-02-18",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  10,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  145277,
                      "value":  2520.87,
                      "date":  "2026-02-19",
@@ -33857,6 +33989,102 @@
                                ]
                  },
                  {
+                     "id":  154454,
+                     "value":  3050.42,
+                     "date":  "2026-03-27",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  11,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1020401"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154455,
+                     "value":  6.99,
+                     "date":  "2026-03-27",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  11,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento acréscimo",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030301"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  148910,
                      "value":  1919.72,
                      "date":  "2026-03-30",
@@ -46929,6 +47157,102 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154423,
+                     "value":  3061.4,
+                     "date":  "2026-04-27",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  12,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1020401"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154424,
+                     "value":  5.8,
+                     "date":  "2026-04-27",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  12,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento acréscimo",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030301"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
                                    }
                                ]
                  },
@@ -60289,6 +60613,42 @@
                                ]
                  },
                  {
+                     "id":  154457,
+                     "value":  20.8,
+                     "date":  "2026-05-22",
+                     "documentNumber":  "1",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58991,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  153003,
                      "value":  950.0,
                      "date":  "2026-05-25",
@@ -62757,6 +63117,102 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154421,
+                     "value":  3093.24,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  13,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1020401"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154422,
+                     "value":  6.7,
+                     "date":  "2026-05-28",
+                     "documentNumber":  "3",
+                     "description":  "KELLY DAIANE RODRIGUES VIEGAS",
+                     "documentId":  "CT",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1686,
+                     "installmentNumber":  13,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento acréscimo",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70003"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1030301"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CT"
                                    }
                                ]
                  },
@@ -66409,6 +66865,186 @@
                                ]
                  },
                  {
+                     "id":  154499,
+                     "value":  200.0,
+                     "date":  "2026-06-08",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA | JOÃO PAULO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MOTORISTAJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154510,
+                     "value":  1400.0,
+                     "date":  "2026-06-08",
+                     "documentNumber":  "01",
+                     "description":  "ENTREDA DE CRÉDITO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA05"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154512,
+                     "value":  1400.0,
+                     "date":  "2026-06-08",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CRÉDITO ",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/GGA-4519"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154514,
+                     "value":  4000.0,
+                     "date":  "2026-06-08",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CRÉDITO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA08"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154516,
+                     "value":  600.0,
+                     "date":  "2026-06-08",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CRÉDITO",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA014"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
                      "id":  154144,
                      "value":  69550.02,
                      "date":  "2026-06-09",
@@ -66765,6 +67401,42 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154476,
+                     "value":  50.0,
+                     "date":  "2026-06-09",
+                     "documentNumber":  "1",
+                     "description":  "PLANALTO PETROLEO MESSEJANA LTDA",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59010,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
                                    }
                                ]
                  },
@@ -67813,6 +68485,42 @@
                                ]
                  },
                  {
+                     "id":  154479,
+                     "value":  85.44,
+                     "date":  "2026-06-10",
+                     "documentNumber":  "1",
+                     "description":  "JOSE IRAMI SOARES DE OLIVEIRA JUNIOR 60659868369",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59011,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  154310,
                      "value":  3000.0,
                      "date":  "2026-06-11",
@@ -67886,7 +68594,7 @@
                  },
                  {
                      "id":  154342,
-                     "value":  500.0,
+                     "value":  64.0,
                      "date":  "2026-06-11",
                      "documentNumber":  "01",
                      "description":  "TRANSFERÊNCIA ENTRE CAIXAS",
@@ -68169,6 +68877,246 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154462,
+                     "value":  44.95,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "1",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59001,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154482,
+                     "value":  159.0,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "82739",
+                     "description":  "ARAUJO CABRAL  ALVES LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59012,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154485,
+                     "value":  81.3,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "82740",
+                     "description":  "ARAUJO CABRAL  ALVES LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59013,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154504,
+                     "value":  0.05,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "2871",
+                     "description":  "PAROMA LUSTRES LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59014,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/20004"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154505,
+                     "value":  45.9,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "2871",
+                     "description":  "PAROMA LUSTRES LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59014,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154490,
+                     "value":  584083.76,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "1826",
+                     "description":  " INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ",
+                     "documentId":  "NFSE",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  1680,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CR",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Recebimento",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/287"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/1010101"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
                                    }
                                ]
                  }
