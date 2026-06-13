@@ -179509,6 +179509,60 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3495/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3496,
+                     "name":  "SB ARACAJU COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+                     "tradeName":  "SAL E BRASA",
+                     "cpf":  null,
+                     "cnpj":  "05.956.940/0002-53",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-12",
+                     "lastModificationDate":  "2026-06-12",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA BARAO DE STUDART",
+                                     "number":  "825",
+                                     "complement":  "      A",
+                                     "neighborhood":  "ALDEOTA",
+                                     "state":  "CE",
+                                     "zipCode":  "60120-001"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "77",
+                                        "number":  "8845-0801",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ARACAJU@SALEBRASA.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3496/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

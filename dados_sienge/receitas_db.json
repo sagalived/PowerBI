@@ -69119,6 +69119,330 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFSE"
                                    }
                                ]
+                 },
+                 {
+                     "id":  154536,
+                     "value":  200000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS ",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154539,
+                     "value":  144000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154540,
+                     "value":  144000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154549,
+                     "value":  40000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/CAIXAMUSY"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154560,
+                     "value":  12910.12,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "526928",
+                     "description":  "SV COMERCIO DE MATERIAL ELETRICO LTDA FILIAL",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58279,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154568,
+                     "value":  800.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPREAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6/bank-account/CEFA"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154569,
+                     "value":  800.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPREAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154572,
+                     "value":  20000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BSANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154573,
+                     "value":  20000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
                  }
              ]
 }
