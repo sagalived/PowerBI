@@ -2297,6 +2297,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1822,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "3ªMEDIÇÃO - CASCAVEL",
+                     "issueDate":  "2026-07-22",
+                     "receivableBillValue":  1875395.93,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  12,
                      "receivableBillId":  117,
                      "documentId":  "NFSE",
@@ -2913,6 +2927,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  96,
+                     "receivableBillId":  1821,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1837",
+                     "issueDate":  "2026-06-12",
+                     "receivableBillValue":  95954.81,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 27ª MEDIÇÃO DO OBJETO: CONSTRUÇÃO DA UNIDADE OPERACIONAL DA POLÍCIA RODOVIÁRIA FEDERAL EM POCINHOS / PB.\r\nVALOR MEDIDO R$ 95.954,81 (PREÇOS UNITÁRIOS DA PROPOSTA ORIGINAL R$ 86.297,36 E CORREÇÃO MONETÁRIA R$ 9.657,45).\r\nCONFORME TERMO DE APOSTILAMENTO 10 (11,1909%).\r\nCONTRATO Nº 78/2022.\r\nPROCESSO Nº 08650.037267/2022-23.\r\n\"Conforme art 114 da IN 2110/2022, não se aplica a retenção referente ao recolhimento de INSS na fonte: Art. 114. Não se aplica a retenção de que trata\r\no art. 110 à contratação de serviços: II - por órgãos públicos da administração direta, autarquias e fundações de direito público, quando contratantes de\r\nobra de construção civil, reforma ou acréscimo, por meio de empreitada total, observado o disposto no inciso II do § 2º do art. 135.\"\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  77,
                      "receivableBillId":  854,
                      "documentId":  "NFSE",
@@ -3091,6 +3119,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 7ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS MORADA NOVA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 06/2025.\r\nPROCESSO Nº 23255.007479/2024-02.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1823,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "4ª MEDIÇÃO -CASCAVEL",
+                     "issueDate":  "2026-08-22",
+                     "receivableBillValue":  2341275.05,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -5499,6 +5541,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE AO REAJUSTE DA 12ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/01/2023 À 31/01/2023 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE REFORMA DA ESCOLA MUNICIPAL FREI TITO DE ALENCAR LIMA, BAIRRO PRAIA DO FUTURO II, NO MUNICÍPIO DE FORTALEZA. MAPPFOR: 10 - REFORMA E AMPLIAÇÃO DO PARQUE ESCOLAR.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1826,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "7ª MEDIÇÃO CASCAVEL",
+                     "issueDate":  "2026-11-22",
+                     "receivableBillValue":  1749783.99,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -8667,6 +8723,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1827,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "8ªMEDIÇÃO CASCAVEL",
+                     "issueDate":  "2026-12-22",
+                     "receivableBillValue":  1640537.84,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  74,
                      "receivableBillId":  433,
                      "documentId":  "NFSE",
@@ -9727,6 +9797,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 8° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DOS SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE UMA ESCOLA NO\r\nDISTRITO DE MONTE ALVERNE, NO MUNICÍPIO DE CRATO/CE.\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1825,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "6ª MEDIÇÃO CASCAVEL",
+                     "issueDate":  "2026-10-22",
+                     "receivableBillValue":  1752921.83,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16223,6 +16307,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "5ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS PARA A EXECUÇÃO DAS OBRAS DE RECUPERAÇÃO DO MATADOURO PÚBLICO\r\nMUNICIPAL, ATRAVÉS DA SECRETARIA DE INFRAESTRUTURA DE ASSARÉ/CE.\r\nTOMADA DE PREÇOS Nº 2023.03.03.1.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1824,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "5ªMEDIÇÃO-CASCAVEL",
+                     "issueDate":  "2026-09-22",
+                     "receivableBillValue":  1850154.73,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RFECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },

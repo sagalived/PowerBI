@@ -8767,7 +8767,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2019-11-20",
-                     "lastModificationDate":  "2019-11-20",
+                     "lastModificationDate":  "2026-06-15",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -179561,6 +179561,168 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3496/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3497,
+                     "name":  "CENTRAL NORDESTE DE PECAS LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "01.837.729/0005-03",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-15",
+                     "lastModificationDate":  "2026-06-15",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA SUL DO LOTEAMENTO CAJAZEIRAS I",
+                                     "number":  "283",
+                                     "complement":  "",
+                                     "neighborhood":  "CAJAZEIRAS",
+                                     "state":  "CE",
+                                     "zipCode":  "60864-255"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3388-6450",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "HAMILTON@CENTRAL.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3497/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3498,
+                     "name":  "CONSTRUFORT COMERCIO ATACADISTA DE MATERIAL DE CONSTRUCAO LTDA",
+                     "tradeName":  "OBRAMIX ATACAREJO",
+                     "cpf":  null,
+                     "cnpj":  "08.763.467/0002-86",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-15",
+                     "lastModificationDate":  "2026-06-15",
+                     "address":  {
+                                     "cityId":  744,
+                                     "cityName":  "Maracanaú",
+                                     "streetName":  "RUA PAULO AFONSO",
+                                     "number":  "4261",
+                                     "complement":  "",
+                                     "neighborhood":  "JARI",
+                                     "state":  "CE",
+                                     "zipCode":  "61916-570"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3257-8003",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "CONTASAPAGAR@CONSTRUFORT.NET.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3498/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3499,
+                     "name":  "ISOPOWER INDUSTRIA E COMERCIO DE PRODUTOS ELETRICOS E ISOLANTES LTDA.",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "20.667.541/0001-85",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "374068056111",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-15",
+                     "lastModificationDate":  "2026-06-15",
+                     "address":  {
+                                     "cityId":  5049,
+                                     "cityName":  "Itapira",
+                                     "streetName":  "RUA HELENA DE MORAES TRANI",
+                                     "number":  "784",
+                                     "complement":  "",
+                                     "neighborhood":  "PARQUE SANTA BARBARA",
+                                     "state":  "SP",
+                                     "zipCode":  "13977-105"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "19",
+                                        "number":  "3863-5743",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "NFE@ISOPOWER.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3499/bank-informations"
                                    }
                                ]
                  }

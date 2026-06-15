@@ -65257,6 +65257,42 @@
                                ]
                  },
                  {
+                     "id":  154638,
+                     "value":  44.96,
+                     "date":  "2026-06-02",
+                     "documentNumber":  "REC",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59040,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  153801,
                      "value":  3600.0,
                      "date":  "2026-06-03",
@@ -67441,6 +67477,78 @@
                                ]
                  },
                  {
+                     "id":  154632,
+                     "value":  88.63,
+                     "date":  "2026-06-09",
+                     "documentNumber":  "01",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59037,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154641,
+                     "value":  47.86,
+                     "date":  "2026-06-09",
+                     "documentNumber":  "01",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59041,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  154233,
                      "value":  100000.0,
                      "date":  "2026-06-10",
@@ -68881,42 +68989,6 @@
                                ]
                  },
                  {
-                     "id":  154462,
-                     "value":  44.95,
-                     "date":  "2026-06-11",
-                     "documentNumber":  "1",
-                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
-                     "documentId":  "REC ",
-                     "type":  "Income",
-                     "reconciliationDate":  null,
-                     "billId":  59001,
-                     "installmentNumber":  1,
-                     "statementOrigin":  "CP",
-                     "statementType":  "Recebimento",
-                     "statementTypeNotes":  "Pagamento",
-                     "budgetCategories":  [
-
-                                          ],
-                     "links":  [
-                                   {
-                                       "rel":  "bank-account",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "company-group",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
-                                   },
-                                   {
-                                       "rel":  "document",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
-                                   }
-                               ]
-                 },
-                 {
                      "id":  154482,
                      "value":  159.0,
                      "date":  "2026-06-11",
@@ -69069,6 +69141,114 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154626,
+                     "value":  44.95,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "1",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59001,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154635,
+                     "value":  41.93,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "01",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59038,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154646,
+                     "value":  68.95,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "01",
+                     "description":  "UBER DO BRASIL TECNOLOGIA LTDA.",
+                     "documentId":  "REC ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59046,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
                                    }
                                ]
                  },
@@ -69429,6 +69609,270 @@
                                    {
                                        "rel":  "bank-account",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154579,
+                     "value":  12000.0,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "ADIANTAMENTO",
+                     "description":  "FRANCISCO GEAN FROTA MOREIRA",
+                     "documentId":  "ADTO",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59017,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/ADTO"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154588,
+                     "value":  24967.14,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "44204",
+                     "description":  "ETERNIT S.A  EM RECUPERACAO JUDICIAL",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58328,
+                     "installmentNumber":  3,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154603,
+                     "value":  536.75,
+                     "date":  "2026-06-12",
+                     "documentNumber":  "1311",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "NFE ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58827,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFE "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154594,
+                     "value":  10000.0,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA | PAULO MOTA",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Saque",
+                     "statementTypeNotes":  "Saque Bancário",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXENGENHAR"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154600,
+                     "value":  35000.0,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154614,
+                     "value":  6.4,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "CONSORCIO",
+                     "description":  "CAIXA ECONOMICA FEDERAL",
+                     "documentId":  "DEBC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  19919,
+                     "installmentNumber":  47,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/105"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/DEBC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  154644,
+                     "value":  68.95,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA ",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXGEAN"
                                    },
                                    {
                                        "rel":  "company",
