@@ -179725,6 +179725,153 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3499/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3500,
+                     "name":  "SOUZA SERVICOS E LOCACOES LTDA",
+                     "tradeName":  "SOUZA SERVICOS E LOCACOES",
+                     "cpf":  null,
+                     "cnpj":  "55.070.785/0001-60",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-15",
+                     "lastModificationDate":  "2026-06-15",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA POMPILIO GOMES",
+                                     "number":  "250",
+                                     "complement":  "      LOJA 05",
+                                     "neighborhood":  "PASSARE",
+                                     "state":  "CE",
+                                     "zipCode":  "60861-790"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "8129-3785",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "SOUZASERVLOC@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3500/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3501,
+                     "name":  "FRANCISCO MATOS LIMA",
+                     "tradeName":  "CARPINTEIRO GÊNESIS",
+                     "cpf":  "849.564.883-00",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-15",
+                     "lastModificationDate":  "2026-06-15",
+                     "address":  {
+                                     "cityId":  653,
+                                     "cityName":  "Aquiraz",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3501/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3502,
+                     "name":  "HEIDER FABIO DO AMARAL TORRES",
+                     "tradeName":  "PISCA PISCA",
+                     "cpf":  null,
+                     "cnpj":  "04.561.380/0001-94",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-16",
+                     "lastModificationDate":  "2026-06-16",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA HERACLITO GRACA",
+                                     "number":  "1475",
+                                     "complement":  "",
+                                     "neighborhood":  "ALDEOTA",
+                                     "state":  "CE",
+                                     "zipCode":  "60140-061"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "2617535",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3502/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
