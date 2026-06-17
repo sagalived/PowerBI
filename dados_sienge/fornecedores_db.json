@@ -142873,7 +142873,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2025-07-07",
-                     "lastModificationDate":  "2025-07-07",
+                     "lastModificationDate":  "2026-06-16",
                      "address":  {
                                      "cityId":  685,
                                      "cityName":  "Caucaia",
@@ -167998,7 +167998,7 @@
                      "taxClassification":  "Simples Nacional",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-03-06",
-                     "lastModificationDate":  "2026-03-06",
+                     "lastModificationDate":  "2026-06-17",
                      "address":  {
                                      "cityId":  726,
                                      "cityName":  "Itaitinga",
@@ -179870,6 +179870,49 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3502/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3503,
+                     "name":  "MONICA CAVALCANTE PONTES",
+                     "tradeName":  "",
+                     "cpf":  "067.506.613-19",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-16",
+                     "lastModificationDate":  "2026-06-16",
+                     "address":  {
+                                     "cityId":  807,
+                                     "cityName":  "Sobral",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3503/bank-informations"
                                    }
                                ]
                  }

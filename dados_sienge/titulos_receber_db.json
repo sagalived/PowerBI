@@ -22485,20 +22485,6 @@
                      "unityName":  null
                  },
                  {
-                     "customerId":  68,
-                     "receivableBillId":  1646,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1796",
-                     "issueDate":  "2026-04-30",
-                     "receivableBillValue":  500975.1,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "REFERENTE A 11° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE UMA ESCOLA\r\n(ESPAÇO EDUCATIVO URBANO - 12 SALAS DE AULA) ATRAVÉS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE VÁRZEA ALEGRE-CE.\r\nCONTRATO Nº 2024.09.26.1\r\nCONCORRÊNCIA Nº 2023.12.28.1\r\nMATERIAL 50% - R$ 250.487,55.\r\nMÃO DE OBRA 50% - R$ 250.487,55.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
                      "customerId":  1,
                      "receivableBillId":  93,
                      "documentId":  "NFSE",
@@ -22873,6 +22859,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 8ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/09/2022 À 30/09/2022 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE REFORMA DA ESCOLA MUNICIPAL FREI TITO DE ALENCAR LIMA, BAIRRO PRAIA DO FUTURO II, NO MUNICÍPIO DE FORTALEZA. MAPPFOR: 10 - REFORMA E AMPLIAÇÃO DO PARQUE ESCOLAR. CONTRATO Nº 01/2022  FME-I - RDC PRESENCIAL Nº 004/2021.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  68,
+                     "receivableBillId":  1646,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1796",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  500975.1,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 11° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE UMA ESCOLA\r\n(ESPAÇO EDUCATIVO URBANO - 12 SALAS DE AULA) ATRAVÉS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE VÁRZEA ALEGRE-CE.\r\nCONTRATO Nº 2024.09.26.1\r\nCONCORRÊNCIA Nº 2023.12.28.1\r\nMATERIAL 50% - R$ 250.487,55.\r\nMÃO DE OBRA 50% - R$ 250.487,55.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-",
                      "payOffDate":  null,
                      "unityName":  null
                  },
