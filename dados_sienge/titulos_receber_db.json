@@ -785,6 +785,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1828,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1839",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  4849.67,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "9ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS\r\nSUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS TABULEIRO DO NORTE.\r\n\"SERVIÇO DE EXECUÇÃO CORRETIVA\"\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  17,
                      "receivableBillId":  89,
                      "documentId":  "NFSE",
@@ -16839,6 +16853,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "3ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DE UM ESPAÇO EDUCATIVO RURAL E URBANO - 6 SALAS DE AULA, PRÉ-OBRA 3187890, NA RUA LO-03, S/N LOTEAMENTO PORTAL DA CIDADE NO MUNICÍPIO DE CAMPOS SALES/CE. TOMADA DE PREÇOS - Nº 2021.07.06.40.TP.FME. CONTRATO N° 001-2021.07.06.40.TP.FME\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1829,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1840",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  195.55,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS TABULEIRO DO NORTE\r\nCONTRATO Nº 29 / 2023.\r\nPROCESSO Nº 23255.001512/2023-00.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-3.",
                      "payOffDate":  null,
                      "unityName":  null
                  },

@@ -168157,7 +168157,7 @@
                      "taxClassification":  "Simples Nacional",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-03-09",
-                     "lastModificationDate":  "2026-03-09",
+                     "lastModificationDate":  "2026-06-18",
                      "address":  {
                                      "cityId":  744,
                                      "cityName":  "Maracanaú",
@@ -179913,6 +179913,154 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3503/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3504,
+                     "name":  "SELOMIAS LEITE DE ALENCAR",
+                     "tradeName":  "FRETEIRO",
+                     "cpf":  "887.060.103-00",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-18",
+                     "lastModificationDate":  "2026-06-18",
+                     "address":  {
+                                     "cityId":  800,
+                                     "cityName":  "Santana do Cariri",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3504/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3505,
+                     "name":  "R T ASSESSORIA E SERVICOS LTDA",
+                     "tradeName":  "RT ASSESSORIA",
+                     "cpf":  null,
+                     "cnpj":  "11.399.561/0001-21",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-18",
+                     "lastModificationDate":  "2026-06-18",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA LUIZ ALVES MAIA",
+                                     "number":  "181",
+                                     "complement":  "",
+                                     "neighborhood":  "JOAQUIM TAVORA",
+                                     "state":  "CE",
+                                     "zipCode":  "60115-055"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3081-0757",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8884-8419",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "R.T.SERVICOSFISCAL@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3505/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3506,
+                     "name":  "CLAUDIO MAGNO RODRIGUES DOS REIS",
+                     "tradeName":  "",
+                     "cpf":  "037.867.273-84",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-18",
+                     "lastModificationDate":  "2026-06-18",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3506/bank-informations"
                                    }
                                ]
                  }
