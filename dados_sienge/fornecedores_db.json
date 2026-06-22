@@ -180168,6 +180168,49 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3508/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3509,
+                     "name":  "HANGZHOU XIONGMAI TECHNOLOGY",
+                     "tradeName":  "ICSEE",
+                     "cpf":  null,
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-22",
+                     "lastModificationDate":  "2026-06-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3509/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
