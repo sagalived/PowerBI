@@ -69697,6 +69697,78 @@
                                ]
                  },
                  {
+                     "id":  155342,
+                     "value":  236.71,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "20274",
+                     "description":  "AMV COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59321,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155345,
+                     "value":  236.71,
+                     "date":  "2026-06-11",
+                     "documentNumber":  "20274",
+                     "description":  "AMV COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59322,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
                      "id":  154490,
                      "value":  584083.76,
                      "date":  "2026-06-12",
@@ -71326,6 +71398,78 @@
                      "type":  "Income",
                      "reconciliationDate":  null,
                      "billId":  59281,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155350,
+                     "value":  177.25,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "20756",
+                     "description":  "AMV COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59324,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155353,
+                     "value":  177.25,
+                     "date":  "2026-06-15",
+                     "documentNumber":  "20756",
+                     "description":  "AMV COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59325,
                      "installmentNumber":  1,
                      "statementOrigin":  "CP",
                      "statementType":  "Recebimento",
@@ -74133,6 +74277,330 @@
                                    {
                                        "rel":  "document",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155284,
+                     "value":  1355.6,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/CAIXAJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155285,
+                     "value":  1355.6,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155296,
+                     "value":  200.0,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE VEICULOS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CORINGA014"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155299,
+                     "value":  1355.6,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "VT GÊNESIS 22/06",
+                     "description":  "VALE TRANSPORTE",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59285,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155303,
+                     "value":  7000.0,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155305,
+                     "value":  500.0,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/SANTANDERM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155306,
+                     "value":  500.0,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155309,
+                     "value":  194000.0,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE CONTAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CEF"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155334,
+                     "value":  1286.75,
+                     "date":  "2026-06-22",
+                     "documentNumber":  "1339",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "NFE ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59101,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/NFE "
                                    }
                                ]
                  }

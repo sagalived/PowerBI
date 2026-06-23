@@ -4663,20 +4663,6 @@
                      "unityName":  null
                  },
                  {
-                     "customerId":  6,
-                     "receivableBillId":  1811,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "12ª MEDIÇÃO MORADA N",
-                     "issueDate":  "2026-06-10",
-                     "receivableBillValue":  133401.95,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISÃO DE RECEBIMENTO",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
                      "customerId":  50,
                      "receivableBillId":  463,
                      "documentId":  "NFSE",
@@ -11649,6 +11635,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  68,
+                     "receivableBillId":  1646,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1838",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  500975.1,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 11° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE UMA ESCOLA\r\n(ESPAÇO EDUCATIVO URBANO - 12 SALAS DE AULA) ATRAVÉS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE VÁRZEA ALEGRE-CE.\r\nCONTRATO Nº 2024.09.26.1\r\nCONCORRÊNCIA Nº 2023.12.28.1\r\nMATERIAL 50% - R$ 250.487,55.\r\nMÃO DE OBRA 50% - R$ 250.487,55.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  93,
                      "receivableBillId":  1810,
                      "documentId":  "NFSE",
@@ -17138,6 +17138,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1831,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1842",
+                     "issueDate":  "2026-06-23",
+                     "receivableBillValue":  13440.64,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS MORADA NOVA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA N° 06/2025.\r\nPROCESSO No 23255.007479/2024-02.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1562,
                      "documentId":  "NFSE",
                      "documentNumber":  "1709",
@@ -19177,6 +19191,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "MEDIÇÃO REFERENTE AO REAJUSTE CONTRATUAL - PRIMEIRO APOSTILAMENTO AO CONTRATO Nº 06/2019 - OBJETO: CONTRATAÇÃO DE\r\nSERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES DAS SUBESTAÇÕES, QUADROS GERAIS E\r\nDEMAIS EQUIPAMENTOS ELÉTRICOS - CAMPUS BOA VIAGEM.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1830,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1841",
+                     "issueDate":  "2026-06-23",
+                     "receivableBillValue":  181324.48,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS MORADA NOVA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA N° 06/2025.\r\nPROCESSO N° 23255.007479/2024-02.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -22887,20 +22915,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 8ª MEDIÇÃO - REALIZADA NO PERÍODO DE 01/09/2022 À 30/09/2022 - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE REFORMA DA ESCOLA MUNICIPAL FREI TITO DE ALENCAR LIMA, BAIRRO PRAIA DO FUTURO II, NO MUNICÍPIO DE FORTALEZA. MAPPFOR: 10 - REFORMA E AMPLIAÇÃO DO PARQUE ESCOLAR. CONTRATO Nº 01/2022  FME-I - RDC PRESENCIAL Nº 004/2021.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  68,
-                     "receivableBillId":  1646,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1796",
-                     "issueDate":  "2026-06-16",
-                     "receivableBillValue":  500975.1,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "REFERENTE A 11° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DAS OBRAS DE CONSTRUÇÃO DE UMA ESCOLA\r\n(ESPAÇO EDUCATIVO URBANO - 12 SALAS DE AULA) ATRAVÉS DA SECRETARIA DE EDUCAÇÃO DO MUNICÍPIO DE VÁRZEA ALEGRE-CE.\r\nCONTRATO Nº 2024.09.26.1\r\nCONCORRÊNCIA Nº 2023.12.28.1\r\nMATERIAL 50% - R$ 250.487,55.\r\nMÃO DE OBRA 50% - R$ 250.487,55.\r\nDADOS BANCÁRIOS:\r\nBANCO: (104) CAIXA ECONÔMICA FEDERAL\r\nAGÊNCIA: 1977.\r\nOPERAÇÃO: 003.\r\nCONTA: 3274-",
                      "payOffDate":  null,
                      "unityName":  null
                  },

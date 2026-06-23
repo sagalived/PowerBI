@@ -180211,6 +180211,164 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3509/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3510,
+                     "name":  "R D AMARAL MOREIRA",
+                     "tradeName":  "RAP 10",
+                     "cpf":  null,
+                     "cnpj":  "07.969.474/0002-76",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "126213457119",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-22",
+                     "lastModificationDate":  "2026-06-22",
+                     "address":  {
+                                     "cityId":  3,
+                                     "cityName":  "São Paulo",
+                                     "streetName":  "RUA TERCEIRO-SARGENTO-AERONAUTICA JOAO LOPES FILHO",
+                                     "number":  "116",
+                                     "complement":  "",
+                                     "neighborhood":  "PARQUE NOVO MUNDO",
+                                     "state":  "SP",
+                                     "zipCode":  "02178-010"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "11",
+                                        "number":  "2338-4124",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ARLENE@RGLLOG.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3510/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3511,
+                     "name":  "MB COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA",
+                     "tradeName":  "NORMATEL",
+                     "cpf":  null,
+                     "cnpj":  "09.267.050/0003-76",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-22",
+                     "lastModificationDate":  "2026-06-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA BEZERRA DE MENEZES",
+                                     "number":  "78",
+                                     "complement":  "B",
+                                     "neighborhood":  "FARIAS BRITO",
+                                     "state":  "CE",
+                                     "zipCode":  "60325-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "4006-1106",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3511/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3512,
+                     "name":  "ARTEPISO COMERCIO E SERVICOS DE REVESTIMENTOS LTDA",
+                     "tradeName":  "ARTEPISO CONCEITO",
+                     "cpf":  null,
+                     "cnpj":  "63.351.605/0001-47",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "064810658",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-22",
+                     "lastModificationDate":  "2026-06-22",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA PRESIDENTE COSTA E SILVA",
+                                     "number":  "2577",
+                                     "complement":  "",
+                                     "neighborhood":  "MONDUBIM",
+                                     "state":  "CE",
+                                     "zipCode":  "60866-607"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "4012-9900",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "SAVIOPITTA@ARTEPISOCONCEITO.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3512/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
