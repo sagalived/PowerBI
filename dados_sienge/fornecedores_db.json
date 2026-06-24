@@ -180369,6 +180369,222 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3512/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3513,
+                     "name":  "60.143.178 IZADORA VIEIRA DE OLIVEIRA ANDRADE",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "60.143.178/0001-13",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-24",
+                     "lastModificationDate":  "2026-06-24",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA GUARANI",
+                                     "number":  "1918",
+                                     "complement":  "SALA 1918",
+                                     "neighborhood":  "BONSUCESSO",
+                                     "state":  "CE",
+                                     "zipCode":  "60520-494"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8854-8740",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "VDCOMPUTADORES2025@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3513/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3514,
+                     "name":  "CENTRAL DE COMBUSTIVEL LTDA",
+                     "tradeName":  "POSTO CENTRAL",
+                     "cpf":  null,
+                     "cnpj":  "38.393.940/0001-60",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-24",
+                     "lastModificationDate":  "2026-06-24",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA JUACI SAMPAIO PONTES",
+                                     "number":  "1111",
+                                     "complement":  "",
+                                     "neighborhood":  "PADRE ROMUALDO",
+                                     "state":  "CE",
+                                     "zipCode":  "61601-150"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9709-9097",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3514/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3515,
+                     "name":  "CARLOS FRANK LI MORAES PINTO EIRELI",
+                     "tradeName":  "COMBUSTIVEL C E F",
+                     "cpf":  null,
+                     "cnpj":  "27.725.584/0001-19",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-24",
+                     "lastModificationDate":  "2026-06-24",
+                     "address":  {
+                                     "cityId":  694,
+                                     "cityName":  "Cruz",
+                                     "streetName":  "RODOVIA CE 085 KM 22",
+                                     "number":  "S/N",
+                                     "complement":  "CAJUEIRINHO I",
+                                     "neighborhood":  "ZONA RURAL",
+                                     "state":  "CE",
+                                     "zipCode":  "62595-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "9611-7312",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "88",
+                                        "number":  "9846-5202",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3515/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3516,
+                     "name":  "POSTO 1000 CAUCAIA COMERCIO DE COMBUSTIVEIS EIRELI",
+                     "tradeName":  "POSTO 1000 CAUCAIA",
+                     "cpf":  null,
+                     "cnpj":  "35.387.550/0001-90",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-24",
+                     "lastModificationDate":  "2026-06-24",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA SANTO ANTONIO",
+                                     "number":  "670",
+                                     "complement":  "",
+                                     "neighborhood":  "ITAMBE",
+                                     "state":  "CE",
+                                     "zipCode":  "61602-750"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8686-1000",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "GRUPOPOSTO1000@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3516/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
