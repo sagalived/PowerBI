@@ -180585,6 +180585,173 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3516/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3517,
+                     "name":  "NG TAVARES ASSESSORIA EM SEGURANCA DO TRABALHO E PERICIA TECNICA EIRELI",
+                     "tradeName":  "LABORLIFE - SEGURANCA DO TRABALHO",
+                     "cpf":  null,
+                     "cnpj":  "21.074.555/0001-58",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "RUA CAIO CID",
+                                     "number":  "259",
+                                     "complement":  "LOJA  12",
+                                     "neighborhood":  "ENGENHEIRO LUCIANO CAVALCANTE",
+                                     "state":  "CE",
+                                     "zipCode":  "60811-150"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3086-1491",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9713-8987",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "COORDENACAO@LABORLIFEMED.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3517/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3518,
+                     "name":  "ANTONIO FERREIRA DO NASCIMENTO",
+                     "tradeName":  "",
+                     "cpf":  "803.507.043-68",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  653,
+                                     "cityName":  "Aquiraz",
+                                     "streetName":  "Rua Pedro Balbino 202 ",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3518/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3519,
+                     "name":  "HDS SUPRIMENTOS LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "66.111.373/0001-48",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA ENGENHEIRO ALBERTO SA",
+                                     "number":  "1272",
+                                     "complement":  "",
+                                     "neighborhood":  "PAPICU",
+                                     "state":  "CE",
+                                     "zipCode":  "60175-395"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3034-2244",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "SOCIETARIO@WEBERASSESSORIA.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3519/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

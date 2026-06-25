@@ -869,20 +869,6 @@
                      "unityName":  null
                  },
                  {
-                     "customerId":  6,
-                     "receivableBillId":  1815,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "13% MEDIÇÃO TIANGUÁ",
-                     "issueDate":  "2026-06-17",
-                     "receivableBillValue":  224293.11,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS  A RECEBER",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
                      "customerId":  87,
                      "receivableBillId":  1061,
                      "documentId":  "NFSE",
@@ -1593,20 +1579,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA\r\nDE MANUTENÇÃO PREVENTIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS ARACATI.\r\nCONTRATO Nº 29/2023.\r\nPROCESSO Nº 23255.001512/2023-00.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1816,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "2ª MEDIÇÃO CASCAVEL",
-                     "issueDate":  "2026-06-22",
-                     "receivableBillValue":  420155.62,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -2755,6 +2727,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1813,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "13ª MEDIÇÃO CAMOCIN",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  157602.88,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PEOVISIONAMENTO DE CONTAS A RFECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -5644,6 +5630,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1815,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "13% MEDIÇÃO TIANGUÁ",
+                     "issueDate":  "2026-06-17",
+                     "receivableBillValue":  186447.23,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS  A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1360,
                      "documentId":  "NFSE",
                      "documentNumber":  "1472",
@@ -7683,20 +7683,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "VALOR REFERENTE AO REPASSE DA PARTE FINAL DA 7ª MEDIÇÃO E 9ª MEDIÇÃO DOS SERVIÇOS DE REFORMA DE UNIDADE DE ATENÇÃO\r\nESPECIALIZADA EM SAÚDE DO HOSPITAL MUNICIPAL DR. JOÃO ELÍSIO DE HOLANDA, MUNICÍPIO DE MARACANAÚ, CORRESPONDENTE AO\r\nPT 0375348-16 DA CAIXA ECONÔMICA FEDERAL, CONVÊNIO Nº 768783, DO MINISTÉRIO DA SAÚDE.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1813,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "13ª MEDIÇÃO CAMOCIN",
-                     "issueDate":  "2026-06-16",
-                     "receivableBillValue":  243895.18,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PEOVISIONAMENTO DE CONTAS A RFECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -12168,20 +12154,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1814,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "12ª MEDIÇÃO UBAJARA",
-                     "issueDate":  "2026-06-17",
-                     "receivableBillValue":  111499.8,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS A RECBER",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1455,
                      "documentId":  "NFSE",
                      "documentNumber":  "1588",
@@ -13535,6 +13507,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 4° MEDIÇÃO DO OBJETO: CONTRATAÇÃO DOS SERVIÇOS DE ENGENHARIA PARA CONSTRUÇÃO DE UMA ESCOLA NO\r\nDISTRITO DE MONTE ALVERNE, NO MUNICÍPIO DE CRATO/CE. CONTRATO Nº 2022.10.06.1. CONCORRÊNCIA Nº 2022.05.27.1",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1814,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "12ª MEDIÇÃO UBAJARA",
+                     "issueDate":  "2026-06-17",
+                     "receivableBillValue":  162394.13,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16965,6 +16951,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "1° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS LIMOEIRO DO NORTE",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1816,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "2ª MEDIÇÃO CASCAVEL",
+                     "issueDate":  "2026-06-22",
+                     "receivableBillValue":  488087.14,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
