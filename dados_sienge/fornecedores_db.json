@@ -180752,6 +180752,230 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3519/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3520,
+                     "name":  "EXPRESSO INDUSTRIA DE ESQUADRIAS DE ALUMINIO E MOVEIS LTDA",
+                     "tradeName":  "EXPRESSO PORTAS E JANELAS BA",
+                     "cpf":  null,
+                     "cnpj":  "57.594.390/0001-92",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  601,
+                                     "cityName":  "Simões Filho",
+                                     "streetName":  "AVENIDA ORLANDO MOSCOSO",
+                                     "number":  "672",
+                                     "complement":  "QUADRAA                   LOTE  19",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "BA",
+                                     "zipCode":  "43700-092"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "9287-4408",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "EXPRESSOPORTASEJANELAS@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3520/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3521,
+                     "name":  "EMANUEL REIS PEREIRA LTDA",
+                     "tradeName":  "J COMERCIO E SERVICOS",
+                     "cpf":  null,
+                     "cnpj":  "43.282.061/0001-00",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "184510191",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  7,
+                                     "cityName":  "Salvador",
+                                     "streetName":  "RUA RESENDE COSTA",
+                                     "number":  "57",
+                                     "complement":  "LOJA  01",
+                                     "neighborhood":  "VILA RUI BARBOSA",
+                                     "state":  "BA",
+                                     "zipCode":  "40430-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "8849-4445",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "JCS.VENDAS@OUTLOOK.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3521/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3522,
+                     "name":  "BELOLLI COMERCIO E SERVICOS DE EXTINTORES LTDA",
+                     "tradeName":  "ALCELIN",
+                     "cpf":  null,
+                     "cnpj":  "47.489.383/0001-77",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "197732825",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  456,
+                                     "cityName":  "Lauro de Freitas",
+                                     "streetName":  "RUA DOUTOR RAIMUNDO MOREIRA",
+                                     "number":  "268",
+                                     "complement":  "LOTE  14 LOTEAMENTO 40          JARDIM AEROPORTO",
+                                     "neighborhood":  "RECREIO IPITANGA",
+                                     "state":  "BA",
+                                     "zipCode":  "42700-870"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "9218-0184",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "3289-3730",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "FINANCEIRO@ALCELINEXTINTORES.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3522/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3523,
+                     "name":  "LP COMERCIO DE EQUIPAMENTOS DE COMBATE A INCENDIO LTDA",
+                     "tradeName":  "LP COMBATE",
+                     "cpf":  null,
+                     "cnpj":  "21.190.628/0001-77",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-25",
+                     "lastModificationDate":  "2026-06-25",
+                     "address":  {
+                                     "cityId":  7,
+                                     "cityName":  "Salvador",
+                                     "streetName":  "RUA SILVEIRA MARTINS",
+                                     "number":  "272",
+                                     "complement":  "SHOPPING CABULA TROPICAL CENTER SALA 15",
+                                     "neighborhood":  "CABULA",
+                                     "state":  "BA",
+                                     "zipCode":  "41150-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "9995-7299",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "LPCOMERCIOSSA@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3523/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

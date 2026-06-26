@@ -8388,6 +8388,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1832,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1843",
+                     "issueDate":  "2026-06-24",
+                     "receivableBillValue":  488087.14,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 02ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE OBRA DE ENGENHARIA DA CONSTRUÇÃO DO CAMPUS CASCAVEL\r\nPERTENCENTE A EXPANSÃO IV DO IFCE.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 03/2026.\r\nPROCESSO Nº 23255.000500/2025-11.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1419,
                      "documentId":  "NFSE",
                      "documentNumber":  "1542",
