@@ -76295,6 +76295,522 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC "
                                    }
                                ]
+                 },
+                 {
+                     "id":  155564,
+                     "value":  460.5,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/BSANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155565,
+                     "value":  460.5,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "01",
+                     "description":  "TRANSFERÊNCIA ENTRE EMPRESAS",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "BC",
+                     "statementType":  "Transferência",
+                     "statementTypeNotes":  "Transferência",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155568,
+                     "value":  460.5,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "FGTS ABRIL CONSIGNAD",
+                     "description":  "CAIXA ECONOMICA FEDERAL",
+                     "documentId":  "CO  ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59360,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2/bank-account/MUTUOJFK"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/2"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CO  "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155581,
+                     "value":  3156.34,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "19381",
+                     "description":  "SV COMERCIO DE MATERIAL ELETRICO LTDA FILIAL",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58580,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155586,
+                     "value":  3502.0,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "310",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59267,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155590,
+                     "value":  840.0,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "1353",
+                     "description":  "DANIEL RIBEIRO RANGEL DE SOUZA",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59269,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155593,
+                     "value":  18.33,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "9908",
+                     "description":  "B L PONTE SERVICOS DE PERICIA TECNICA E SEGURANCA DO TRABALHO EIRELI",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58442,
+                     "installmentNumber":  2,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/41"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155595,
+                     "value":  1950.0,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "1829",
+                     "description":  "ARSOL CLIMATIZACAO E ENERGIA SOLAR UNIPESSOAL LTDA",
+                     "documentId":  "CTM ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59292,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/282"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CTM "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155597,
+                     "value":  1950.0,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "1830",
+                     "description":  "ARSOL CLIMATIZACAO E ENERGIA SOLAR UNIPESSOAL LTDA",
+                     "documentId":  "CTM ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59291,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/280"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/SANTANDER"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CTM "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155600,
+                     "value":  1792.76,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "628336",
+                     "description":  "ACO CEARENSE COMECIAL LTDA ",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58577,
+                     "installmentNumber":  3,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155603,
+                     "value":  0.05,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "1841",
+                     "description":  "G. MACIEL DE MASTIERI",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58935,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Desconto obtido",
+                     "budgetCategories":  [
+                                              {
+                                                  "percentage":  100.0,
+                                                  "links":  [
+                                                                {
+                                                                    "rel":  "cost-center",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/cost-center/70002"
+                                                                },
+                                                                {
+                                                                    "rel":  "payment-categories",
+                                                                    "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/payment-categories/2030302"
+                                                                }
+                                                            ]
+                                              }
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7/bank-account/MUTUOARAUJ"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/6"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155604,
+                     "value":  4039.4,
+                     "date":  "2026-06-26",
+                     "documentNumber":  "1841",
+                     "description":  "G. MACIEL DE MASTIERI",
+                     "documentId":  "BOL ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  58935,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/BOL "
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  155612,
+                     "value":  300.0,
+                     "date":  "2026-06-27",
+                     "documentNumber":  "01",
+                     "description":  "ENTRADA DE CAIXA GEAN",
+                     "documentId":  "REC",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  null,
+                     "installmentNumber":  null,
+                     "statementOrigin":  "CX",
+                     "statementType":  "Transf.entre Caixas",
+                     "statementTypeNotes":  "Transferência entre Caixas",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/CXGEAN"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
+                                   }
+                               ]
                  }
              ]
 }

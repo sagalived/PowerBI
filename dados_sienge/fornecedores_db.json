@@ -10255,7 +10255,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2019-12-09",
-                     "lastModificationDate":  "2019-12-18",
+                     "lastModificationDate":  "2026-06-26",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -180974,6 +180974,149 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3523/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3524,
+                     "name":  "FRANSCISCO FIUZA NETO ",
+                     "tradeName":  "FRETEIRO",
+                     "cpf":  "837.749.803-06",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-26",
+                     "lastModificationDate":  "2026-06-26",
+                     "address":  {
+                                     "cityId":  697,
+                                     "cityName":  "Eusébio",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3524/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3525,
+                     "name":  "L.P BRASIL OSB INDUSTRIA E COMERCIO S.A.",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "09.408.913/0001-16",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-26",
+                     "lastModificationDate":  "2026-06-26",
+                     "address":  {
+                                     "cityId":  3480,
+                                     "cityName":  "Ponta Grossa",
+                                     "streetName":  "RODOVIA BR 376 - SENTIDO SUL",
+                                     "number":  "1690",
+                                     "complement":  "KM    503",
+                                     "neighborhood":  "SERVIDAO A",
+                                     "state":  "PR",
+                                     "zipCode":  "84045-610"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "42",
+                                        "number":  "3027-9700",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3525/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3526,
+                     "name":  "RAIMUNDO NONATO SILVA MONTEIRO",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "41.309.014/0001-79",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-27",
+                     "lastModificationDate":  "2026-06-27",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA RUA JUACI SAMPAIO PONTES",
+                                     "number":  "SN",
+                                     "complement":  "BANCA 20 MERCADO CENTRAL",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "CE",
+                                     "zipCode":  "61600-150"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3253-3410",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3526/bank-informations"
                                    }
                                ]
                  }

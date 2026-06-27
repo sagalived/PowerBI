@@ -2059,6 +2059,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1838,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1849",
+                     "issueDate":  "2026-06-26",
+                     "receivableBillValue":  186447.23,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS TIANGUÁ DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 08/2025.\r\nPROCESSO Nº 23255.000868/2025-80.\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  90,
                      "receivableBillId":  1014,
                      "documentId":  "NFSE",
@@ -2676,6 +2690,20 @@
                  },
                  {
                      "customerId":  6,
+                     "receivableBillId":  1833,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1844",
+                     "issueDate":  "2026-06-25",
+                     "receivableBillValue":  4324.58,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
                      "receivableBillId":  1535,
                      "documentId":  "NFSE",
                      "documentNumber":  "1678",
@@ -2727,20 +2755,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS HORIZONTE DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME. CONTRATO DE OBRA DE ENGENHARIA Nº 07/2025.\r\nPROCESSO Nº 23255.006679/2024-30.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1813,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "13ª MEDIÇÃO CAMOCIN",
-                     "issueDate":  "2026-06-16",
-                     "receivableBillValue":  157602.88,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PEOVISIONAMENTO DE CONTAS A RFECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -5630,20 +5644,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1815,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "13% MEDIÇÃO TIANGUÁ",
-                     "issueDate":  "2026-06-17",
-                     "receivableBillValue":  186447.23,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS  A RECEBER",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1360,
                      "documentId":  "NFSE",
                      "documentNumber":  "1472",
@@ -5919,6 +5919,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "11ª MEDIÇÃO - OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES À MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA - CAMPUS CANINDÉ. CONTRATO Nº 06/2019.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1835,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1846",
+                     "issueDate":  "2026-06-25",
+                     "receivableBillValue":  6439.12,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "13ª MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAUCAIA DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 12/2025.\r\nPROCESSO Nº 23255.000875/2025-81.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -10095,6 +10109,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1839,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1850",
+                     "issueDate":  "2026-06-26",
+                     "receivableBillValue":  162394.13,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  93,
                      "receivableBillId":  1648,
                      "documentId":  "NFSE",
@@ -12027,6 +12055,20 @@
                      "unityName":  "150 F1P"
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1836,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1847",
+                     "issueDate":  "2026-06-26",
+                     "receivableBillValue":  157602.88,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAMOCIM DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 11/2025.\r\nPROCESSO Nº 23255.000873/2025-92.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  353,
                      "receivableBillId":  1726,
                      "documentId":  "CT  ",
@@ -13526,20 +13568,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1814,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "12ª MEDIÇÃO UBAJARA",
-                     "issueDate":  "2026-06-17",
-                     "receivableBillValue":  162394.13,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS A RECBER",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1470,
                      "documentId":  "NFSE",
                      "documentNumber":  "1602",
@@ -13577,6 +13605,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "ESCOLA LONE BRAGA",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1837,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1848",
+                     "issueDate":  "2026-06-26",
+                     "receivableBillValue":  10106.75,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE AO REAJUSTE DA 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE\r\nUNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS CAMOCIM DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 11/2025.\r\nPROCESSO Nº 23255.000873/2025-92.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -16965,20 +17007,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "1° MEDIÇÃO OBJETO: SERVIÇOS COMUNS DE ENGENHARIA INERENTES A MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA CAMPUS LIMOEIRO DO NORTE",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1816,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "2ª MEDIÇÃO CASCAVEL",
-                     "issueDate":  "2026-06-22",
-                     "receivableBillValue":  488087.14,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -20721,6 +20749,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1840,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1851",
+                     "issueDate":  "2026-06-26",
+                     "receivableBillValue":  10544.53,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  81,
                      "receivableBillId":  564,
                      "documentId":  "NFSE",
@@ -21165,6 +21207,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "ESCOLA DIOMENDES MARINHO",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1834,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1845",
+                     "issueDate":  "2026-06-25",
+                     "receivableBillValue":  5910.21,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "MEDIÇÃO DA 13ª, REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\r\nDE OBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS PARACURU DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 13/2025.\r\nPROCESSO Nº 23255.000876/2025-26.",
                      "payOffDate":  null,
                      "unityName":  null
                  },
