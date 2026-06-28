@@ -234519,6 +234519,58 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59457/buildings-cost"
                                    }
                                ]
+                 },
+                 {
+                     "id":  59458,
+                     "debtorId":  1,
+                     "creditorId":  3268,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "169/183",
+                     "issueDate":  "2026-06-11",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  27286.08,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "FRANCISCOVINICIUS",
+                     "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
+                     "registeredDate":  "2026-06-27 15:53:27",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59458/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59458/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59458/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3268"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59458/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59458/buildings-cost"
+                                   }
+                               ]
                  }
              ]
 }
