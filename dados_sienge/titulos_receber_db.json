@@ -10109,20 +10109,6 @@
                      "unityName":  null
                  },
                  {
-                     "customerId":  6,
-                     "receivableBillId":  1839,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1850",
-                     "issueDate":  "2026-06-26",
-                     "receivableBillValue":  162394.13,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "REFERENTE A 12ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
                      "customerId":  93,
                      "receivableBillId":  1648,
                      "documentId":  "NFSE",
@@ -20745,20 +20731,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "11ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE.\r\n\r\n",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1840,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "1851",
-                     "issueDate":  "2026-06-26",
-                     "receivableBillValue":  10544.53,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "MEDIÇÃO REFERENTE AO APOSTILAMENTO DO REAJUSTE CONTRATUAL - OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE\r\nOBRA PARA CONSTRUÇÃO DE UNIDADES DE ALIMENTAÇÃO NUTRICIONAL NO CAMPUS UBAJARA DO IFCE NO SISTEMA CONSTRUTIVO\r\nSTEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 09/2025.\r\nPROCESSO Nº 23255.000870/2025-59.\r\n",
                      "payOffDate":  null,
                      "unityName":  null
                  },

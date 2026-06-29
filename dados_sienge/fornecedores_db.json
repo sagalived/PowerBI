@@ -181119,6 +181119,60 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3526/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3527,
+                     "name":  "ART FABRICACAO DE VALVULAS E REGISTROS - EIRELI",
+                     "tradeName":  "ART METAIS",
+                     "cpf":  null,
+                     "cnpj":  "39.860.099/0001-37",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "9087052890",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-29",
+                     "lastModificationDate":  "2026-06-29",
+                     "address":  {
+                                     "cityId":  3394,
+                                     "cityName":  "Loanda",
+                                     "streetName":  "RUA JAZON CESAR BONFIM",
+                                     "number":  "280",
+                                     "complement":  "TERREO.",
+                                     "neighborhood":  "JARDIM AEROPORTO",
+                                     "state":  "PR",
+                                     "zipCode":  "87900-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "44",
+                                        "number":  "3425-1302",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "VANESSAARTEMETAIS@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3527/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

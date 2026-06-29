@@ -76847,6 +76847,42 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/REC"
                                    }
                                ]
+                 },
+                 {
+                     "id":  155620,
+                     "value":  100.0,
+                     "date":  "2026-06-27",
+                     "documentNumber":  "164153",
+                     "description":  "LVM COMBUSTIVEIS LTDA",
+                     "documentId":  "CPF ",
+                     "type":  "Income",
+                     "reconciliationDate":  null,
+                     "billId":  59464,
+                     "installmentNumber":  1,
+                     "statementOrigin":  "CP",
+                     "statementType":  "Recebimento",
+                     "statementTypeNotes":  "Pagamento",
+                     "budgetCategories":  [
+
+                                          ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-account",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1/bank-account/MUTUODINAM"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "company-group",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/company-group/4"
+                                   },
+                                   {
+                                       "rel":  "document",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/document/CPF "
+                                   }
+                               ]
                  }
              ]
 }
