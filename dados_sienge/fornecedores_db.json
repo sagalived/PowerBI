@@ -67619,7 +67619,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2022-11-03",
-                     "lastModificationDate":  "2022-11-03",
+                     "lastModificationDate":  "2026-06-30",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -181171,6 +181171,60 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3527/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3528,
+                     "name":  "KEVERTON RAMON ALVES DE PAULO",
+                     "tradeName":  "KARV CONSULTORIA",
+                     "cpf":  null,
+                     "cnpj":  "33.950.377/0001-60",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-06-30",
+                     "lastModificationDate":  "2026-06-30",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA DOM LUIS",
+                                     "number":  "880",
+                                     "complement":  "      S 506",
+                                     "neighborhood":  "ALDEOTA",
+                                     "state":  "CE",
+                                     "zipCode":  "60160-196"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8515-5936",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "KEVERTONARAMON@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3528/bank-informations"
                                    }
                                ]
                  }
