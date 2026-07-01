@@ -181136,7 +181136,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2026-06-29",
-                     "lastModificationDate":  "2026-06-29",
+                     "lastModificationDate":  "2026-07-01",
                      "address":  {
                                      "cityId":  3394,
                                      "cityName":  "Loanda",
@@ -181225,6 +181225,99 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3528/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3529,
+                     "name":  "JOAO VIEIRA FILHO",
+                     "tradeName":  "TORNEARIA VIEIRA",
+                     "cpf":  null,
+                     "cnpj":  "21.839.572/0001-39",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-01",
+                     "lastModificationDate":  "2026-07-01",
+                     "address":  {
+                                     "cityId":  767,
+                                     "cityName":  "Pacajus",
+                                     "streetName":  "RUA PROJETADA",
+                                     "number":  "44",
+                                     "complement":  "",
+                                     "neighborhood":  "CROATA I",
+                                     "state":  "CE",
+                                     "zipCode":  "62870-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9136-2205",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3529/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3530,
+                     "name":  "CRISTIANO DO NASCIMENTO DA SILVA ",
+                     "tradeName":  "",
+                     "cpf":  "005.191.389-53",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-01",
+                     "lastModificationDate":  "2026-07-01",
+                     "address":  {
+                                     "cityId":  292,
+                                     "cityName":  "Cairu",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "BA",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3530/bank-informations"
                                    }
                                ]
                  }
