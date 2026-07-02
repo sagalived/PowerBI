@@ -181320,6 +181320,203 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3530/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3531,
+                     "name":  "CARAJAS MATERIAL DE CONSTRUCAO LTDA",
+                     "tradeName":  "CARAJAS CONSTRUCOES",
+                     "cpf":  null,
+                     "cnpj":  "03.656.804/0025-09",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-01",
+                     "lastModificationDate":  "2026-07-01",
+                     "address":  {
+                                     "cityId":  697,
+                                     "cityName":  "Eusébio",
+                                     "streetName":  "AVENIDA EUSEBIO DE QUEIROZ",
+                                     "number":  "SN",
+                                     "complement":  "KM    4 - ROD. CE 040",
+                                     "neighborhood":  "COACU",
+                                     "state":  "CE",
+                                     "zipCode":  "61760-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "82",
+                                        "number":  "4009-0022",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "SAC@CARAJASONLINE.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3531/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3532,
+                     "name":  "EDIMIR BARBOSA DA SILVA",
+                     "tradeName":  "EDIMIR CONTADOR",
+                     "cpf":  "784.535.503-87",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  1,
+                     "taxClassification":  "MEI",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3532/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3533,
+                     "name":  "C4 PADRE ROMUALDO COMERCIAL DE DERIVADOS DE PETROLEO LTDA",
+                     "tradeName":  "C4 PADRE ROMUALDO",
+                     "cpf":  null,
+                     "cnpj":  "40.448.699/0001-71",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA JUACI SAMPAIO PONTES",
+                                     "number":  "847",
+                                     "complement":  "",
+                                     "neighborhood":  "PADRE ROMUALDO",
+                                     "state":  "CE",
+                                     "zipCode":  "61601-150"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "9778-0097",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3533/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3534,
+                     "name":  "VERA LUCIA MARINHO OLIVEIRA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "00.424.263/0001-28",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  685,
+                                     "cityName":  "Caucaia",
+                                     "streetName":  "RUA FELIX GOMES DA SILVA",
+                                     "number":  "1205",
+                                     "complement":  "",
+                                     "neighborhood":  "NOVO PABUSSU",
+                                     "state":  "CE",
+                                     "zipCode":  "61600-230"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3342-3818",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3534/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
