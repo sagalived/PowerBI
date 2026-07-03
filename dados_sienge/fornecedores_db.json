@@ -181517,6 +181517,298 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3534/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3535,
+                     "name":  "MARIA NATÁLIA RIBEIRO DA SILVA",
+                     "tradeName":  "",
+                     "cpf":  "030.428.863-28",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  653,
+                                     "cityName":  "Aquiraz",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3535/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3536,
+                     "name":  "MARIA FERREIRA DOS SANTOS OLIVEIRA",
+                     "tradeName":  "DEPOSITO ABRAAO",
+                     "cpf":  null,
+                     "cnpj":  "12.557.065/0001-11",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA PROFESSOR JOSE ARTUR DE CARVALHO",
+                                     "number":  "560",
+                                     "complement":  "",
+                                     "neighborhood":  "LAGOA REDONDA",
+                                     "state":  "CE",
+                                     "zipCode":  "60831-370"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3274-1421",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3276-2058",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3536/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3537,
+                     "name":  "67.802.898 PAULO HENRIQUE MOTA SILVA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "67.802.898/0001-92",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3537/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3538,
+                     "name":  "CARLOS ALBERTO MAIO MONTEIRO JUNIOR",
+                     "tradeName":  "",
+                     "cpf":  "434.855.293-20",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  " ",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-02",
+                     "lastModificationDate":  "2026-07-02",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3538/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3539,
+                     "name":  "ALEXANDRE SILVA DE OLIVEIRA ",
+                     "tradeName":  "FRETEIRO ",
+                     "cpf":  "010.375.563-21",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-03",
+                     "lastModificationDate":  "2026-07-03",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3539/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3540,
+                     "name":  "ECONTAINER SOLUCOES INTELIGENTES LTDA",
+                     "tradeName":  "ECONTAINER SOLUCOES INTELIGENTES",
+                     "cpf":  null,
+                     "cnpj":  "64.509.472/0001-57",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-03",
+                     "lastModificationDate":  "2026-07-03",
+                     "address":  {
+                                     "cityId":  682,
+                                     "cityName":  "Cascavel",
+                                     "streetName":  "RUA PROFESSORA E C BESSA",
+                                     "number":  "1935",
+                                     "complement":  "",
+                                     "neighborhood":  "BESSALANDIA",
+                                     "state":  "CE",
+                                     "zipCode":  "62850-000"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "8214-5088",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ECONTEINER9@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3540/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }
