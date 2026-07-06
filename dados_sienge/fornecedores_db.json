@@ -181809,6 +181809,103 @@
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3540/bank-informations"
                                    }
                                ]
+                 },
+                 {
+                     "id":  3541,
+                     "name":  "RENILDO NEVES DA CONCEIÇÃO ",
+                     "tradeName":  "",
+                     "cpf":  "831.805.755-49",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-06",
+                     "lastModificationDate":  "2026-07-06",
+                     "address":  {
+                                     "cityId":  581,
+                                     "cityName":  "São Francisco do Conde",
+                                     "streetName":  "Av. Juvenal Eugênio Queiroz",
+                                     "number":  "S/N",
+                                     "complement":  "UNIVERSIDADE UNILAB",
+                                     "neighborhood":  "CENTRO",
+                                     "state":  "BA",
+                                     "zipCode":  "43900-000"
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3541/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3542,
+                     "name":  "WMB SUPERMERCADOS DO BRASIL LTDA.",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "00.063.960/0577-12",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-06",
+                     "lastModificationDate":  "2026-07-06",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA WASHINGTON SOARES",
+                                     "number":  "3000",
+                                     "complement":  "      LOJA 47",
+                                     "neighborhood":  "ENGENHEIRO LUCIANO CAVALCANTE",
+                                     "state":  "CE",
+                                     "zipCode":  "60810-350"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "11",
+                                        "number":  "3083-3030",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "BR_CSC_ATUALIZACOES_CADASTRAIS@CARREFOUR.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3542/bank-informations"
+                                   }
+                               ]
                  }
              ]
 }

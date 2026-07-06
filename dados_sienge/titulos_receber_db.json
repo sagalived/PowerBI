@@ -1,6 +1,20 @@
 {
     "data":  [
                  {
+                     "customerId":  34,
+                     "receivableBillId":  242,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "433",
+                     "issueDate":  "2020-08-26",
+                     "receivableBillValue":  71151.77,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "11° MEDIÇÃO OBJETO =: SERVIÇOS COMUNS DE ENGENHARIA INERENTES Á MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA- CAMPUS MARACANAÚ",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  87,
                      "receivableBillId":  815,
                      "documentId":  "NFSE",
@@ -447,6 +461,20 @@
                      "note":  "",
                      "payOffDate":  null,
                      "unityName":  "27 F1P"
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1843,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ª MEDIÇÃO TIANGUÁ",
+                     "issueDate":  "2026-07-16",
+                     "receivableBillValue":  64190.17,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
                  },
                  {
                      "customerId":  79,
@@ -2069,6 +2097,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "REFERENTE A 13ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DE UNIDADES DE\r\nALIMENTAÇÃO NUTRICIONAL NO CAMPUS TIANGUÁ DO IFCE NO SISTEMA CONSTRUTIVO STEEL FRAME.\r\nCONTRATO DE OBRA DE ENGENHARIA Nº 08/2025.\r\nPROCESSO Nº 23255.000868/2025-80.\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1812,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "7ª MEDIÇÃO BATURITÉ",
+                     "issueDate":  "2026-06-16",
+                     "receivableBillValue":  321832.6,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISÃO DE PAGAMENTO",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -4300,20 +4342,6 @@
                  },
                  {
                      "customerId":  6,
-                     "receivableBillId":  1812,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "7ª MEDIÇÃO BATURITÉ",
-                     "issueDate":  "2026-06-16",
-                     "receivableBillValue":  502613.41,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISÃO DE PAGAMENTO",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
                      "receivableBillId":  1191,
                      "documentId":  "NFSE",
                      "documentNumber":  "1291",
@@ -5331,6 +5359,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "8ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇOS DE ENGENHARIA PARA A EXECUÇÃO DAS OBRAS DE REFORMA E AMPLIAÇÃO DO\r\nHOSPITAL GERAL NOSSA SENHORA DAS DORES DO MUNICÍPIO DE ASSARÉ/CE",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1842,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ªMEDIÇÃO CAMOCIM",
+                     "issueDate":  "2026-07-15",
+                     "receivableBillValue":  159985.68,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -6633,6 +6675,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "VALOR REFERENTE A CONTRAPARTIDA DA 5ª MEDIÇÃO E DA PARTE FINAL DA 3ª MEDIÇÃO DOS SERVIÇOS DE REFORMA DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE DO HOSPITAL MUNICIPAL DR. JOÃO ELÍSIO DE HOLANDA, MUNICÍPIO DE MARACANAÚ, CORRESPONDENTE AO PT 0375348-16 DA CAIXA ECONÔMICA FEDERAL, CONVÊNIO N.º 768783, DO MINISTÉRIO DA SAÚDE.\r\n",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1841,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "13ª MEDIÇÃO MORADA N",
+                     "issueDate":  "2026-07-08",
+                     "receivableBillValue":  51273.43,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -10571,6 +10627,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1819,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "14ª MEDIÇÃO PARACURU",
+                     "issueDate":  "2026-06-30",
+                     "receivableBillValue":  26952.56,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  91,
                      "receivableBillId":  1026,
                      "documentId":  "NFSE",
@@ -14375,20 +14445,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "1ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA DE MANUTENÇÃO PREVENTIVA E CORRETIVA DAS SUBESTAÇÕES DO IFCE - GRUPO 03 - CAMPUS LIMOEIRO DO NORTE. \"SERVIÇO DE EXECUÇÃO PREVENTIVA\" CONTRATO Nº 31 / 2023. PROCESSO Nº 23255.001512/2023-00.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  6,
-                     "receivableBillId":  1819,
-                     "documentId":  "PRR ",
-                     "documentNumber":  "14ª MEDIÇÃO PARACURU",
-                     "issueDate":  "2026-06-30",
-                     "receivableBillValue":  153813.23,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
@@ -23279,20 +23335,6 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "4ª MEDIÇÃO - OBJETO: CONTRATAÇÃO DE SERVIÇO COMUM DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA, CORRETIVA E AJUSTES\r\nDAS SUBESTAÇÕES, QUADROS GERAIS E DEMAIS EQUIPAMENTOS ELÉTRICOS - CAMPUS BATURITÉ. \"SERVIÇO EXECUÇÃO EMERGENCIAL\"\r\nCONTRATO Nº 05/2019.",
-                     "payOffDate":  null,
-                     "unityName":  null
-                 },
-                 {
-                     "customerId":  34,
-                     "receivableBillId":  242,
-                     "documentId":  "NFSE",
-                     "documentNumber":  "433",
-                     "issueDate":  "2020-08-26",
-                     "receivableBillValue":  71151.77,
-                     "companyId":  1,
-                     "defaulting":  false,
-                     "subjudice":  false,
-                     "note":  "11° MEDIÇÃO OBJETO =: SERVIÇOS COMUNS DE ENGENHARIA INERENTES Á MANUTENÇÃO PREDIAL CORRETIVA OU PREVENTIVA- CAMPUS MARACANAÚ",
                      "payOffDate":  null,
                      "unityName":  null
                  }
