@@ -57955,7 +57955,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2022-03-16",
-                     "lastModificationDate":  "2022-03-16",
+                     "lastModificationDate":  "2026-07-07",
                      "address":  {
                                      "cityId":  4558,
                                      "cityName":  "Joinville",
@@ -181904,6 +181904,227 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3542/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3543,
+                     "name":  "EXTINSERV COMERCIO E SERVICO DE EXTINTORES LTDA",
+                     "tradeName":  "GRUPO ALCELIN",
+                     "cpf":  null,
+                     "cnpj":  "63.329.529/0001-73",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "239556820",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-06",
+                     "lastModificationDate":  "2026-07-06",
+                     "address":  {
+                                     "cityId":  456,
+                                     "cityName":  "Lauro de Freitas",
+                                     "streetName":  "RUA DOUTOR RAIMUNDO MOREIRA",
+                                     "number":  "268",
+                                     "complement":  "LOTE  14 LOTEAMENTO 40 JAR",
+                                     "neighborhood":  "RECREIO IPITANGA",
+                                     "state":  "BA",
+                                     "zipCode":  "42700-870"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "3511-1677",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "9935-1677",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "FINANCEIROALCELIN@GRUPOALCELIN.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3543/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3544,
+                     "name":  "A.M. TELECOM E SUPRIMENTOS DE INFORMATICA LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "37.490.381/0001-44",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "124132929111",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-06",
+                     "lastModificationDate":  "2026-07-06",
+                     "address":  {
+                                     "cityId":  5347,
+                                     "cityName":  "São José do Rio Preto",
+                                     "streetName":  "RUA ANISIO JOSE IOCA",
+                                     "number":  "491",
+                                     "complement":  "QUADRA44                  LOTE  01",
+                                     "neighborhood":  "JARDIM MARIA CANDIDA",
+                                     "state":  "SP",
+                                     "zipCode":  "15020-330"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "17",
+                                        "number":  "8216-0606",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "AMLICITACOES@HOTMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3544/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3545,
+                     "name":  "MULTIBRINDES COMERCIO DE PAPELARIA LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "57.362.763/0001-08",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "072208058",
+                     "stateRegistrationType":  "C",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-06",
+                     "lastModificationDate":  "2026-07-06",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA CAPITAO HUGO BEZERRA",
+                                     "number":  "375",
+                                     "complement":  "      SALA B",
+                                     "neighborhood":  "BARROSO",
+                                     "state":  "CE",
+                                     "zipCode":  "60862-730"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3878-4160",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    },
+                                    {
+                                        "ddd":  "0000",
+                                        "number":  "0000-0000",
+                                        "main":  false,
+                                        "type":  6,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "ALBETIZA.LACERDA@SECRAN.COM.BR",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3545/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3546,
+                     "name":  "ANA LARISSA VIANA DANIEL",
+                     "tradeName":  "",
+                     "cpf":  "626.473.833-67",
+                     "cnpj":  null,
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  true,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-07",
+                     "lastModificationDate":  "2026-07-07",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "",
+                                     "number":  "",
+                                     "complement":  "",
+                                     "neighborhood":  "",
+                                     "state":  "CE",
+                                     "zipCode":  ""
+                                 },
+                     "phones":  [
+
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3546/bank-informations"
                                    }
                                ]
                  }
