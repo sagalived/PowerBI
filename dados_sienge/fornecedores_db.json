@@ -76101,7 +76101,7 @@
                      "taxClassification":  "",
                      "paymentTypeId":  null,
                      "creationDate":  "2023-05-09",
-                     "lastModificationDate":  "2023-05-09",
+                     "lastModificationDate":  "2026-07-08",
                      "address":  {
                                      "cityId":  18,
                                      "cityName":  "Fortaleza",
@@ -182125,6 +182125,110 @@
                                    {
                                        "rel":  "bank-informations",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3546/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3547,
+                     "name":  "PADARIA ROMANA INDUSTRIA E COMERCIO DE PANIFICACAO E CONFEITARIA LTDA",
+                     "tradeName":  "",
+                     "cpf":  null,
+                     "cnpj":  "08.706.599/0001-95",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "I",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-07",
+                     "lastModificationDate":  "2026-07-07",
+                     "address":  {
+                                     "cityId":  18,
+                                     "cityName":  "Fortaleza",
+                                     "streetName":  "AVENIDA TREZE DE MAIO",
+                                     "number":  "901",
+                                     "complement":  "",
+                                     "neighborhood":  "FATIMA",
+                                     "state":  "CE",
+                                     "zipCode":  "60040-530"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "85",
+                                        "number":  "3253-2025",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3547/bank-informations"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  3548,
+                     "name":  "INOVAR ELETRO MATERIAIS ELETRICOS LTDA",
+                     "tradeName":  "INOVAR ELETRO MATERIAIS ELETRICOS",
+                     "cpf":  null,
+                     "cnpj":  "52.690.309/0001-54",
+                     "supplier":  true,
+                     "broker":  false,
+                     "employee":  false,
+                     "active":  true,
+                     "stateRegistrationNumber":  "",
+                     "stateRegistrationType":  "N",
+                     "taxClassificationId":  null,
+                     "taxClassification":  "",
+                     "paymentTypeId":  null,
+                     "creationDate":  "2026-07-07",
+                     "lastModificationDate":  "2026-07-07",
+                     "address":  {
+                                     "cityId":  7,
+                                     "cityName":  "Salvador",
+                                     "streetName":  "RUA COMENDADOR BASTOS",
+                                     "number":  "15/17",
+                                     "complement":  "GALPAOTERREO",
+                                     "neighborhood":  "MARES",
+                                     "state":  "BA",
+                                     "zipCode":  "40445-110"
+                                 },
+                     "phones":  [
+                                    {
+                                        "ddd":  "71",
+                                        "number":  "9244-2455",
+                                        "main":  true,
+                                        "type":  5,
+                                        "extension":  null,
+                                        "observation":  null
+                                    }
+                                ],
+                     "contacts":  [
+
+                                  ],
+                     "otherContactMethods":  [
+                                                 {
+                                                     "type":  2,
+                                                     "address":  "CONTABILIDADEDLP@GMAIL.COM",
+                                                     "observation":  null
+                                                 }
+                                             ],
+                     "links":  [
+                                   {
+                                       "rel":  "bank-informations",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3548/bank-informations"
                                    }
                                ]
                  }

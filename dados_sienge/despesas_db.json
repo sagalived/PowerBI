@@ -69,9 +69,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2025-12-05 08:56:49",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-06-15 11:13:00",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:46:21",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -849,9 +849,9 @@
                      "registeredUserId":  "JACKSON",
                      "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
                      "registeredDate":  "2025-12-23 08:47:21",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-06-09 10:21:26",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:23:27",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -11873,9 +11873,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-01-09 14:14:57",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-06-09 10:24:18",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:24:22",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -34493,9 +34493,9 @@
                      "registeredUserId":  "JACKSON",
                      "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
                      "registeredDate":  "2026-01-27 11:06:53",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-02 08:49:43",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:36:44",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -138597,9 +138597,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-04-16 09:15:15",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:17:07",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148623,19 +148623,19 @@
                      "documentIdentificationId":  "CO  ",
                      "documentNumber":  "230420264",
                      "issueDate":  "2026-04-23",
-                     "installmentsNumber":  16,
-                     "totalInvoiceAmount":  32000.0,
+                     "installmentsNumber":  6,
+                     "totalInvoiceAmount":  14000.0,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "CONTRATO DE PRESTAÇÃO DE SERVIÇOS - TI\nPIX: 41.440.523/0001-36 ",
+                     "notes":  "CONTRATO DE PRESTAÇÃO DE SERVIÇOS - TI\nPIX: 41.440.523/0001-36.\nCONTRATO ENCERRADO EM 30/06/2026. FICANDO O VALOR DE $ 4.000,00 A SER QUITADO EM 20/07 MEDIANTE APRESENTAÇÃO NOTA FISCAL.",
                      "discount":  0.0,
                      "status":  "S",
                      "originId":  "CP",
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:53:24",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-07 10:52:36",
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-07-07 18:12:40",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -148676,7 +148676,7 @@
                      "documentNumber":  "230420265",
                      "issueDate":  "2026-04-23",
                      "installmentsNumber":  24,
-                     "totalInvoiceAmount":  71300.8,
+                     "totalInvoiceAmount":  90300.8,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "CONTRATO DE PRESTAÇÃO DE SERVIÇOS EM LICITAÇÕES E GESTÃO DE CONTRATOS \nPIX: 63.060.464/0001-03",
                      "discount":  0.0,
@@ -148685,9 +148685,9 @@
                      "registeredUserId":  "AMANDA",
                      "registeredBy":  "AMANDA KELLI DA SILVA MEDEIROS",
                      "registeredDate":  "2026-04-23 14:59:33",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-07 10:32:15",
+                     "changedUserId":  "LUIZHENRIQUE",
+                     "changedBy":  "LUIZ HENRIQUE PAIVA ALVES",
+                     "changedDate":  "2026-07-08 08:27:11",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -163661,9 +163661,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-05-05 16:13:00",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-07-03 11:47:34",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:22:38",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -168343,7 +168343,7 @@
                      "registeredDate":  "2026-05-08 10:18:13",
                      "changedUserId":  "SARAH",
                      "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-06-11 09:30:33",
+                     "changedDate":  "2026-07-08 10:26:06",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -187737,9 +187737,9 @@
                      "registeredUserId":  "GEAN",
                      "registeredBy":  "GEAN FROTA MOREIRA",
                      "registeredDate":  "2026-05-26 14:34:36",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-06 08:33:36",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:29:31",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -205937,9 +205937,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-06-09 09:23:49",
-                     "changedUserId":  "VICTORJEFFERSON",
-                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
-                     "changedDate":  "2026-06-09 09:24:19",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:25:16",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -205989,9 +205989,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-06-09 09:27:38",
-                     "changedUserId":  "VICTORJEFFERSON",
-                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
-                     "changedDate":  "2026-06-09 09:28:03",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:35:01",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -207809,9 +207809,9 @@
                      "registeredUserId":  "ATILA",
                      "registeredBy":  "FRANCISCO ATILA SILVA FERREIRA",
                      "registeredDate":  "2026-06-09 17:12:53",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-06-26 10:12:58",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:36:03",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -227361,9 +227361,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-06-22 16:29:23",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:38:35",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -232665,9 +232665,9 @@
                      "registeredUserId":  "FRANCISCOVINICIUS",
                      "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
                      "registeredDate":  "2026-06-26 15:50:13",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:28:44",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -235629,9 +235629,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-06-30 08:28:15",
-                     "changedUserId":  "SARAH",
-                     "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-07-03 15:03:17",
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-08 11:52:20",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -235785,9 +235785,9 @@
                      "registeredUserId":  "WITORIA",
                      "registeredBy":  "Witoria Pereira da Silva Valiante",
                      "registeredDate":  "2026-06-30 10:20:34",
-                     "changedUserId":  "APRENDIZ",
-                     "changedBy":  "APRENDIZ MARIA GABRIELA",
-                     "changedDate":  "2026-07-07 09:48:06",
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-08 08:04:35",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -236253,9 +236253,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-06-30 15:25:25",
-                     "changedUserId":  "SARAH",
-                     "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-07-03 08:51:37",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 07:57:44",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -236825,9 +236825,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-06-30 15:45:32",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:27:57",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -236929,9 +236929,9 @@
                      "registeredUserId":  "VICTORJEFFERSON",
                      "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
                      "registeredDate":  "2026-06-30 15:53:24",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:27:01",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -238333,9 +238333,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-01 16:16:54",
-                     "changedUserId":  "SARAH",
-                     "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-07-02 17:03:23",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 07:51:45",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -239415,7 +239415,7 @@
                      "documentIdentificationId":  "PPC ",
                      "documentNumber":  "16073",
                      "issueDate":  "2026-07-01",
-                     "installmentsNumber":  3,
+                     "installmentsNumber":  1,
                      "totalInvoiceAmount":  7727.6,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "",
@@ -239425,9 +239425,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-02 09:41:45",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "ATILA",
+                     "changedBy":  "FRANCISCO ATILA SILVA FERREIRA",
+                     "changedDate":  "2026-07-08 11:05:29",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -239457,58 +239457,6 @@
                                    {
                                        "rel":  "buildingsCost",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59559/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
-                     "id":  59560,
-                     "debtorId":  1,
-                     "creditorId":  1482,
-                     "documentIdentificationId":  "CTM ",
-                     "documentNumber":  "1897",
-                     "issueDate":  "2026-07-02",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  8000.0,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "Faturamento da medição 1 da obra 41 - ESCRITÓRIO do contrato CTM/1897.",
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "ME",
-                     "registeredUserId":  "LUISGUSTAVO",
-                     "registeredBy":  "LUIS GUSTAVO",
-                     "registeredDate":  "2026-07-02 09:59:30",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-07 10:28:18",
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59560/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59560/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59560/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1482"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59560/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59560/buildings-cost"
                                    }
                                ]
                  },
@@ -239997,9 +239945,9 @@
                      "registeredUserId":  "JACKSON",
                      "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
                      "registeredDate":  "2026-07-02 15:15:51",
-                     "changedUserId":  "SARAH",
-                     "changedBy":  "SARAH FERREIRA SILVA",
-                     "changedDate":  "2026-07-02 17:50:26",
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-07-08 09:16:28",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -240569,9 +240517,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-07-02 18:13:04",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-06 17:00:34",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:34:01",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -240621,9 +240569,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-07-02 18:13:55",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-06 17:01:50",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:32:14",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -242025,9 +241973,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-07-03 14:42:40",
-                     "changedUserId":  "ERICA",
-                     "changedBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
-                     "changedDate":  "2026-07-03 14:43:46",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:31:06",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243377,9 +243325,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-07-06 11:07:47",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:21:46",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243429,9 +243377,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-07-06 11:09:29",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:20:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243741,9 +243689,9 @@
                      "registeredUserId":  "FARID",
                      "registeredBy":  "FARID MARTINS DA MOTA",
                      "registeredDate":  "2026-07-06 13:57:39",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 10:15:52",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243845,9 +243793,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 14:22:24",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:39:24",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243897,9 +243845,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 14:22:24",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:22:26",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -243949,9 +243897,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 14:22:24",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:27:53",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244001,9 +243949,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 14:22:39",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-07 17:30:20",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244199,7 +244147,7 @@
                      "documentIdentificationId":  "PPC ",
                      "documentNumber":  "16088",
                      "issueDate":  "2026-07-06",
-                     "installmentsNumber":  2,
+                     "installmentsNumber":  1,
                      "totalInvoiceAmount":  755.0,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  null,
@@ -244209,9 +244157,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 14:27:30",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-07 17:30:42",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244407,7 +244355,7 @@
                      "documentIdentificationId":  "PPC ",
                      "documentNumber":  "16100",
                      "issueDate":  "2026-07-06",
-                     "installmentsNumber":  3,
+                     "installmentsNumber":  1,
                      "totalInvoiceAmount":  15232.74,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  null,
@@ -244417,9 +244365,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 16:28:44",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 09:04:41",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244459,7 +244407,7 @@
                      "documentIdentificationId":  "PPC ",
                      "documentNumber":  "16101",
                      "issueDate":  "2026-07-06",
-                     "installmentsNumber":  3,
+                     "installmentsNumber":  1,
                      "totalInvoiceAmount":  15762.84,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  null,
@@ -244469,9 +244417,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 16:28:44",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:43:50",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244521,9 +244469,9 @@
                      "registeredUserId":  "RAFAEL",
                      "registeredBy":  "RAFAEL DE SA CRUZ",
                      "registeredDate":  "2026-07-06 16:28:45",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:33:06",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -244917,110 +244865,6 @@
                                    {
                                        "rel":  "buildingsCost",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59672/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
-                     "id":  59673,
-                     "debtorId":  1,
-                     "creditorId":  2307,
-                     "documentIdentificationId":  "REC ",
-                     "documentNumber":  "CAIXAS OBRAS",
-                     "issueDate":  "2026-07-01",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  4715.44,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "REF. CAIXA P/ OBRAS/DEPARTAMENTOS",
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "CP",
-                     "registeredUserId":  "FARID",
-                     "registeredBy":  "FARID MARTINS DA MOTA",
-                     "registeredDate":  "2026-07-07 08:29:34",
-                     "changedUserId":  "FARID",
-                     "changedBy":  "FARID MARTINS DA MOTA",
-                     "changedDate":  "2026-07-07 10:44:22",
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59673/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59673/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59673/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2307"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59673/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59673/buildings-cost"
-                                   }
-                               ]
-                 },
-                 {
-                     "id":  59674,
-                     "debtorId":  7,
-                     "creditorId":  2307,
-                     "documentIdentificationId":  "REC ",
-                     "documentNumber":  "CAIXA OBRAS",
-                     "issueDate":  "2026-07-01",
-                     "installmentsNumber":  1,
-                     "totalInvoiceAmount":  931.63,
-                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
-                     "notes":  "REF. CAIXA P/ OBRAS/DEPARTAMENTOS",
-                     "discount":  0.0,
-                     "status":  "S",
-                     "originId":  "CP",
-                     "registeredUserId":  "FARID",
-                     "registeredBy":  "FARID MARTINS DA MOTA",
-                     "registeredDate":  "2026-07-07 08:38:50",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
-                     "accessKeyNumber":  null,
-                     "links":  [
-                                   {
-                                       "rel":  "installments",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59674/installments"
-                                   },
-                                   {
-                                       "rel":  "taxes",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59674/taxes"
-                                   },
-                                   {
-                                       "rel":  "budget-categories",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59674/budget-categories"
-                                   },
-                                   {
-                                       "rel":  "company",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
-                                   },
-                                   {
-                                       "rel":  "creditor",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2307"
-                                   },
-                                   {
-                                       "rel":  "departmentsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59674/departments-cost"
-                                   },
-                                   {
-                                       "rel":  "buildingsCost",
-                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59674/buildings-cost"
                                    }
                                ]
                  },
@@ -246591,7 +246435,7 @@
                      "documentIdentificationId":  "CO  ",
                      "documentNumber":  "2ª JUNHO GENESIS JFK",
                      "issueDate":  "2026-07-07",
-                     "installmentsNumber":  1,
+                     "installmentsNumber":  2,
                      "totalInvoiceAmount":  22453.89,
                      "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
                      "notes":  "2ª QUINZENA DE JUNHO - GÊNESIS JFK",
@@ -246601,9 +246445,9 @@
                      "registeredUserId":  "ERICA",
                      "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
                      "registeredDate":  "2026-07-07 10:10:35",
-                     "changedUserId":  null,
-                     "changedBy":  null,
-                     "changedDate":  null,
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-07 17:35:39",
                      "accessKeyNumber":  null,
                      "links":  [
                                    {
@@ -246789,6 +246633,2398 @@
                                    {
                                        "rel":  "buildingsCost",
                                        "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59708/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59709,
+                     "debtorId":  1,
+                     "creditorId":  3443,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "0001",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  169.9,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "CERTIFICADO RITA RENOVAÇÃO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "SARAH",
+                     "registeredBy":  "SARAH FERREIRA SILVA",
+                     "registeredDate":  "2026-07-07 13:56:45",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-07 14:30:06",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59709/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59709/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59709/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3443"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59709/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59709/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59710,
+                     "debtorId":  1,
+                     "creditorId":  3186,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "1297",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  412.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "FRANCISCOVINICIUS",
+                     "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
+                     "registeredDate":  "2026-07-07 14:12:10",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59710/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59710/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59710/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3186"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59710/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59710/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59711,
+                     "debtorId":  1,
+                     "creditorId":  2653,
+                     "documentIdentificationId":  "PCT ",
+                     "documentNumber":  "137",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  264.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "A VISTA",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "ME",
+                     "registeredUserId":  "ELTONABREU",
+                     "registeredBy":  "ELTON EMANUEL PEIXOTO DE ABREU",
+                     "registeredDate":  "2026-07-07 14:12:16",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59711/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59711/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59711/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2653"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59711/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59711/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59712,
+                     "debtorId":  2,
+                     "creditorId":  2653,
+                     "documentIdentificationId":  "PCT ",
+                     "documentNumber":  "138",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  456.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "LOCAÇÃO PARA OBRA 280 - BOULEVARD\nSOLICITAÇÃO: 11736\n16 UNID - ANDAIME.............12,00\n8 UNID - PLATAFORMA.......15,00.\n8 UNID - RODIZIO................18,00.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "ME",
+                     "registeredUserId":  "ELTONABREU",
+                     "registeredBy":  "ELTON EMANUEL PEIXOTO DE ABREU",
+                     "registeredDate":  "2026-07-07 14:12:16",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59712/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59712/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59712/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2653"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59712/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59712/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59713,
+                     "debtorId":  7,
+                     "creditorId":  3547,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "92405",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  110.33,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "COFFE BREAK PARA OS CLIENTES DA CASA GÊNESIS ",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "SARAH",
+                     "registeredBy":  "SARAH FERREIRA SILVA",
+                     "registeredDate":  "2026-07-07 14:26:22",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-07 14:29:12",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59713/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59713/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59713/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3547"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59713/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59713/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59714,
+                     "debtorId":  1,
+                     "creditorId":  1188,
+                     "documentIdentificationId":  "CTM ",
+                     "documentNumber":  "1837",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  6880.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Faturamento da medição 2 da obra 249 - EXPANSÃO IV DO IFCE - CAMPUS CASCAVEL - CIDADE CASCAVEL do contrato CTM/1837.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "ME",
+                     "registeredUserId":  "TEREZARODRIGUES",
+                     "registeredBy":  "TEREZA RODRIGUES",
+                     "registeredDate":  "2026-07-07 14:41:06",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59714/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59714/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59714/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1188"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59714/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59714/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59715,
+                     "debtorId":  2,
+                     "creditorId":  146,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "ENEL BOULEVARD",
+                     "issueDate":  "2026-06-01",
+                     "installmentsNumber":  2,
+                     "totalInvoiceAmount":  135.45,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ENERGIA OBRA",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "JACKSON",
+                     "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "registeredDate":  "2026-07-07 15:08:21",
+                     "changedUserId":  "JACKSON",
+                     "changedBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "changedDate":  "2026-07-07 15:09:02",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59715/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59715/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59715/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/146"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59715/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59715/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59716,
+                     "debtorId":  7,
+                     "creditorId":  137,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "7/12..",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  47.6,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "CONTA CAGECE OBRA",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "SARAH",
+                     "registeredBy":  "SARAH FERREIRA SILVA",
+                     "registeredDate":  "2026-07-07 15:18:17",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59716/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59716/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59716/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/137"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59716/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59716/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59717,
+                     "debtorId":  1,
+                     "creditorId":  3222,
+                     "documentIdentificationId":  "REC ",
+                     "documentNumber":  "01",
+                     "issueDate":  "2026-07-01",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  120.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "REF. 03 DIARIAS DE DESCARREGO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "FARID",
+                     "registeredBy":  "FARID MARTINS DA MOTA",
+                     "registeredDate":  "2026-07-07 17:25:44",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59717/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59717/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59717/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3222"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59717/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59717/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59718,
+                     "debtorId":  1,
+                     "creditorId":  2423,
+                     "documentIdentificationId":  "FAT ",
+                     "documentNumber":  "16088",
+                     "issueDate":  "2026-07-01",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  755.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "FARID",
+                     "registeredBy":  "FARID MARTINS DA MOTA",
+                     "registeredDate":  "2026-07-07 17:29:19",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59718/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59718/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59718/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2423"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59718/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59718/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59719,
+                     "debtorId":  1,
+                     "creditorId":  1130,
+                     "documentIdentificationId":  "FAT ",
+                     "documentNumber":  "16097",
+                     "issueDate":  "2026-07-01",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  4009.68,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "\n",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "FARID",
+                     "registeredBy":  "FARID MARTINS DA MOTA",
+                     "registeredDate":  "2026-07-07 17:29:48",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59719/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59719/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59719/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1130"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59719/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59719/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59720,
+                     "debtorId":  1,
+                     "creditorId":  2964,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "TRCT ANT.WALISSON",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  487.94,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "TRCT ANTONIO WALISSON MOREIRA DE SOUZA",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-07-07 17:40:02",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59720/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59720/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59720/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2964"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59720/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59720/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59721,
+                     "debtorId":  1,
+                     "creditorId":  2964,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "TRCT MARCIO GLEIDE",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  7572.91,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "TRCT MARCIO GLEIDE DE OLIVEIRA RODRIGUES",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-07-07 17:41:25",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59721/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59721/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59721/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2964"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59721/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59721/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59722,
+                     "debtorId":  1,
+                     "creditorId":  460,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "GRRF MARCIO GLEIDE",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  1482.09,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "GRRF MARCIO GLEIDE DE OLIVEIRA RODRIGUES",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "ERICA",
+                     "registeredBy":  "ERICA BARBOSA DA ROCHA DAMASCENO",
+                     "registeredDate":  "2026-07-07 17:42:33",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59722/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59722/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59722/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/460"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59722/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59722/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59723,
+                     "debtorId":  6,
+                     "creditorId":  3443,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "CERTIFICAÇÃO ÁGORA",
+                     "issueDate":  "2026-07-08",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  249.9,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "CERTIFICAÇÃO AGORA ",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "SARAH",
+                     "registeredBy":  "SARAH FERREIRA SILVA",
+                     "registeredDate":  "2026-07-08 07:38:41",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59723/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59723/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59723/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/6"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3443"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59723/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59723/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59724,
+                     "debtorId":  1,
+                     "creditorId":  3213,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "9933",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  1792.5,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16068.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 07:51:03",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 07:51:45",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59724/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59724/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59724/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3213"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59724/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59724/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59725,
+                     "debtorId":  1,
+                     "creditorId":  2423,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "74691",
+                     "issueDate":  "2026-07-02",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  937.24,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16061.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 07:57:07",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 07:57:44",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59725/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59725/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59725/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2423"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59725/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59725/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59726,
+                     "debtorId":  1,
+                     "creditorId":  2653,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "2310",
+                     "issueDate":  "2026-06-25",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  100.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:03:31",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59726/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59726/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59726/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2653"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59726/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59726/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59727,
+                     "debtorId":  7,
+                     "creditorId":  2653,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "2323",
+                     "issueDate":  "2026-06-30",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  250.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:16:21",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59727/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59727/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59727/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2653"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59727/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59727/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59728,
+                     "debtorId":  1,
+                     "creditorId":  2345,
+                     "documentIdentificationId":  "CTM ",
+                     "documentNumber":  "1899",
+                     "issueDate":  "2026-07-08",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  15000.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Faturamento da medição 1 da obra 279 - UNIDADE NUTRICIONAL DO CAMPUS CAMOCIM - IFCE do contrato CTM/1899.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "ME",
+                     "registeredUserId":  "GUSTAVO",
+                     "registeredBy":  "GUSTAVO NASCIMENTO SOUSA",
+                     "registeredDate":  "2026-07-08 08:22:13",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59728/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59728/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59728/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2345"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59728/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59728/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59729,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20923",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  125.1,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16095.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:22:26",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:22:54",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59729/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59729/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59729/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59729/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59729/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59730,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20928",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  686.7,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16094.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:27:53",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:28:16",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59730/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59730/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59730/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59730/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59730/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59731,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20925",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  153.7,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16099.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:33:06",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:34:05",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59731/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59731/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59731/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59731/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59731/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59732,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20926",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  484.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16096.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:39:24",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:39:39",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59732/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59732/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59732/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59732/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59732/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59733,
+                     "debtorId":  7,
+                     "creditorId":  330,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "5739",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  29504.8,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "FRANCISCOVINICIUS",
+                     "registeredBy":  "FRANCISCO VINICIUS ARAUJO SOUZA",
+                     "registeredDate":  "2026-07-08 08:39:45",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59733/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59733/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59733/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/330"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59733/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59733/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59734,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20933",
+                     "issueDate":  "2026-07-07",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  15762.84,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16101.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 08:43:49",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 08:45:50",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59734/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59734/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59734/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59734/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59734/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59735,
+                     "debtorId":  1,
+                     "creditorId":  1482,
+                     "documentIdentificationId":  "CO  ",
+                     "documentNumber":  "01-06-2026",
+                     "issueDate":  "2026-06-01",
+                     "installmentsNumber":  12,
+                     "totalInvoiceAmount":  52000.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "CONTRATO DE PRESTAÇÃO DE SERVIÇO - GESTÃO MONTAGEM AÇO.\nPIX: (85) 98838-3970 - JOSE CLEUTON BARBOSA.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "JACKSON",
+                     "registeredBy":  "FRANCISCO JACKSON MARTINS MUNIZ",
+                     "registeredDate":  "2026-07-08 08:51:14",
+                     "changedUserId":  "FARID",
+                     "changedBy":  "FARID MARTINS DA MOTA",
+                     "changedDate":  "2026-07-08 10:50:32",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59735/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59735/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59735/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/1482"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59735/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59735/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59736,
+                     "debtorId":  1,
+                     "creditorId":  526,
+                     "documentIdentificationId":  "NFE ",
+                     "documentNumber":  "20930",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  3,
+                     "totalInvoiceAmount":  15232.74,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16100.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "VICTORJEFFERSON",
+                     "registeredBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "registeredDate":  "2026-07-08 09:04:40",
+                     "changedUserId":  "VICTORJEFFERSON",
+                     "changedBy":  "VICTOR JEFFERSON ARAUJO QUEIROZ",
+                     "changedDate":  "2026-07-08 09:05:41",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59736/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59736/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59736/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/1"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/526"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59736/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59736/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59737,
+                     "debtorId":  7,
+                     "creditorId":  3103,
+                     "documentIdentificationId":  "REC ",
+                     "documentNumber":  "000",
+                     "issueDate":  "2026-07-08",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  29.93,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "UBER DE VOLTA PARA FUNCIONÁRIO - ATILA ",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "SARAH",
+                     "registeredBy":  "SARAH FERREIRA SILVA",
+                     "registeredDate":  "2026-07-08 09:08:15",
+                     "changedUserId":  "SARAH",
+                     "changedBy":  "SARAH FERREIRA SILVA",
+                     "changedDate":  "2026-07-08 09:08:44",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59737/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59737/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59737/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/3103"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59737/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59737/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59738,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "24639",
+                     "issueDate":  "2026-06-23",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  33.32,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 09:42:01",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59738/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59738/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59738/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59738/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59738/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59739,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "44900",
+                     "issueDate":  "2026-06-24",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  170.54,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:01:37",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59739/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59739/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59739/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59739/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59739/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59740,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "21063",
+                     "issueDate":  "2026-06-17",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  270.48,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:07:23",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59740/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59740/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59740/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59740/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59740/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59741,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "55197",
+                     "issueDate":  "2026-06-22",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  83.33,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:20:40",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59741/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59741/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59741/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59741/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59741/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59742,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "44805",
+                     "issueDate":  "2026-06-24",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  176.66,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:29:33",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59742/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59742/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59742/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59742/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59742/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59743,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "44805",
+                     "issueDate":  "2026-06-24",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  176.66,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:32:10",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59743/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59743/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59743/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59743/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59743/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59744,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "32257",
+                     "issueDate":  "2026-06-29",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  382.03,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:46:34",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59744/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59744/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59744/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59744/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59744/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59745,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "46174",
+                     "issueDate":  "2026-06-22",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  49.99,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 10:52:27",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59745/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59745/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59745/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59745/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59745/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59746,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "237297",
+                     "issueDate":  "2026-06-24",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  66.66,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:03:00",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59746/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59746/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59746/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59746/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59746/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59747,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "237297",
+                     "issueDate":  "2026-06-24",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  66.66,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:04:34",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59747/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59747/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59747/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59747/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59747/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59748,
+                     "debtorId":  7,
+                     "creditorId":  2440,
+                     "documentIdentificationId":  "BOL ",
+                     "documentNumber":  "319268",
+                     "issueDate":  "2026-07-06",
+                     "installmentsNumber":  4,
+                     "totalInvoiceAmount":  7727.6,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "Nota fiscal associada ao pedido de compra: 16073.",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "AC",
+                     "registeredUserId":  "ATILA",
+                     "registeredBy":  "FRANCISCO ATILA SILVA FERREIRA",
+                     "registeredDate":  "2026-07-08 11:05:28",
+                     "changedUserId":  "ATILA",
+                     "changedBy":  "FRANCISCO ATILA SILVA FERREIRA",
+                     "changedDate":  "2026-07-08 11:07:20",
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59748/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59748/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59748/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2440"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59748/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59748/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59749,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "25835",
+                     "issueDate":  "2026-06-27",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  180.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:07:16",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59749/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59749/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59749/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59749/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59749/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59750,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "58121",
+                     "issueDate":  "2026-06-30",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  67.61,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:15:10",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59750/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59750/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59750/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59750/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59750/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59751,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "25103",
+                     "issueDate":  "2026-06-23",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  50.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:27:38",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59751/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59751/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59751/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59751/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59751/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59752,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "34454",
+                     "issueDate":  "2026-06-30",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  204.93,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:32:26",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59752/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59752/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59752/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59752/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59752/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59753,
+                     "debtorId":  2,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "52735",
+                     "issueDate":  "2026-06-25",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  50.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:37:35",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59753/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59753/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59753/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/2"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59753/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59753/buildings-cost"
+                                   }
+                               ]
+                 },
+                 {
+                     "id":  59754,
+                     "debtorId":  7,
+                     "creditorId":  2094,
+                     "documentIdentificationId":  "CPF ",
+                     "documentNumber":  "20980",
+                     "issueDate":  "2026-06-18",
+                     "installmentsNumber":  1,
+                     "totalInvoiceAmount":  60.0,
+                     "tenantUrl":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api",
+                     "notes":  "ABASTECIMENTO",
+                     "discount":  0.0,
+                     "status":  "S",
+                     "originId":  "CP",
+                     "registeredUserId":  "APRENDIZ",
+                     "registeredBy":  "APRENDIZ MARIA GABRIELA",
+                     "registeredDate":  "2026-07-08 11:44:29",
+                     "changedUserId":  null,
+                     "changedBy":  null,
+                     "changedDate":  null,
+                     "accessKeyNumber":  null,
+                     "links":  [
+                                   {
+                                       "rel":  "installments",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59754/installments"
+                                   },
+                                   {
+                                       "rel":  "taxes",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59754/taxes"
+                                   },
+                                   {
+                                       "rel":  "budget-categories",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59754/budget-categories"
+                                   },
+                                   {
+                                       "rel":  "company",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/companies/7"
+                                   },
+                                   {
+                                       "rel":  "creditor",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/creditors/2094"
+                                   },
+                                   {
+                                       "rel":  "departmentsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59754/departments-cost"
+                                   },
+                                   {
+                                       "rel":  "buildingsCost",
+                                       "href":  "https://api.sienge.com.br/dinamicaempreendimentos/public/api/v1/bills/59754/buildings-cost"
                                    }
                                ]
                  }

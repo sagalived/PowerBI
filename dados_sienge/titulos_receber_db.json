@@ -673,6 +673,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  6,
+                     "receivableBillId":  1855,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "5ª MEDIÇÃO CAMPOS SA",
+                     "issueDate":  "2026-08-28",
+                     "receivableBillValue":  1792957.9,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  80,
                      "receivableBillId":  574,
                      "documentId":  "NFSE",
@@ -12755,6 +12769,20 @@
                      "unityName":  null
                  },
                  {
+                     "customerId":  95,
+                     "receivableBillId":  1857,
+                     "documentId":  "NFSE",
+                     "documentNumber":  "1864",
+                     "issueDate":  "2026-07-08",
+                     "receivableBillValue":  193611.1,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "REFERENTE A 10ª MEDIÇÃO DO OBJETO: CONTRATAÇÃO DA EMPRESA ESPECIALIZADA NA EXECUÇÃO DA CONSTRUÇÃO DA UNIDADE BÁSICA DE SAÚDE INDÍGENA TIPO III NA ALDEIA\r\nVILA VITORIA EM CRATEÚS/CE.\r\nCONTRATO Nº 22/2023.\r\nPROCESSO Nº 25044.000935/2019-29.",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
                      "customerId":  86,
                      "receivableBillId":  1020,
                      "documentId":  "NFSE",
@@ -13507,6 +13535,20 @@
                      "defaulting":  false,
                      "subjudice":  false,
                      "note":  "ESCOLA MARIA JOSÉ VIANA",
+                     "payOffDate":  null,
+                     "unityName":  null
+                 },
+                 {
+                     "customerId":  6,
+                     "receivableBillId":  1854,
+                     "documentId":  "PRR ",
+                     "documentNumber":  "6ª MEDIÇÃO CAMPOS SA",
+                     "issueDate":  "2026-07-28",
+                     "receivableBillValue":  1659815.12,
+                     "companyId":  1,
+                     "defaulting":  false,
+                     "subjudice":  false,
+                     "note":  "PROVISIONAMENTO DE CONTAS A RECEBER",
                      "payOffDate":  null,
                      "unityName":  null
                  },
